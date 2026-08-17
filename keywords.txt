@@ -1,9 +1,16 @@
 GPS
 GIS
 cartografia
-transporte publico
-telemetria vehicular
-monitoreo de flota
 mapa
 geo
 drone
+geógrafo
+Mapas
+QGIS
+ARCGIS
+GEORREFERENCIA
+FOTOGRAMETRIA
+FOTO
+CARTOGRA
+CATASTRO
+ESPACIAL
