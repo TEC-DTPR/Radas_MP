@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-17T22:19+00:00",
+  "generado": "2026-08-17T23:18+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -37,17 +37,30 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "1057503-2151-COT26",
+      "org": "HOSPITAL PADRE ALBERTO HURTADO",
+      "titulo": "Memo Nº91(28.07.26) capacitación. Curso responsabilidad administrativa en el marco de la Ley Karin.",
+      "monto": 1500000,
+      "dias": 3,
+      "cierre": "2026-08-21",
+      "keyword": "MARCO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "2428-1102-COT26",
       "org": "I MUNICIPALIDAD DE QUILPUE",
       "titulo": "CONTRATACIÓN SERVICIO DE CONTEO TRANSITO",
       "monto": 5000000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-08-20",
       "keyword": "CONTEO",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
       "momento": "am",
-      "probabilidad": 61
+      "probabilidad": 59
     },
     {
       "codigo": "1107279-184-COT26",
@@ -76,6 +89,58 @@
       "probabilidad": 55
     },
     {
+      "codigo": "4984-45-COT26",
+      "org": "I MUNICIPALIDAD DE PANGUIPULLI",
+      "titulo": "ADQUISICIÓN DE ROCA FOSFÓRICA EN EL MARCO DEL PROGRAMA \"MULTIRUBRO SECTOR PITRÉN\" PDTI",
+      "monto": 2315740,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "MARCO",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1529-192-COT26",
+      "org": "SERVICIO DE SALUD HOSPITAL DE RENGO",
+      "titulo": "Adquisición de Coffe en marco de la Segunda Acreditación del Hospital de Rengo.",
+      "monto": 1500000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "MARCO",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2460-788-COT26",
+      "org": "I MUNICIPALIDAD DE PROVIDENCIA",
+      "titulo": "Provisión e Instalación de puerta y marco para caseta de vigilancia DAOM",
+      "monto": 300000,
+      "dias": 1,
+      "cierre": "2026-08-19",
+      "keyword": "MARCO",
+      "ofertas_actuales": 1,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 52
+    },
+    {
+      "codigo": "5742-86-COT26",
+      "org": "SEREMI de Educación de la Región de Los Ríos",
+      "titulo": "ARTISTAS TEATRALES CIRCENSES Y SONIDISTAS PARA INTERVENCION ARTISTICA MUSICAL EN EL MARCO DEL MES DE LA NIÑEZ, LA PRESENTACIÓN ES EL NUMERO DE APERTURA DE LA 2DA MUESTRA CULTURAL Y DEPORTIVA CIUDAD DE",
+      "monto": 650000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "MARCO",
+      "ofertas_actuales": 1,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
       "codigo": "29-51-COT26",
       "org": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
       "titulo": " JBP ADQUISICIÓN DE VESTUARIO PARA AUXILIARES DE VUELO DE LA FUERZA AÉREA DE CHILE",
@@ -98,6 +163,32 @@
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4635-45-COT26",
+      "org": "Carabineros de Chile - Unidad Contable Disalcar",
+      "titulo": "MASCARA DE PROTECCION FACIAL CON MARCO DE LENTES, DE USO EN LAS DIFERENTES ESPECIALIDADES DE LA SUBDIRECCION ODONTOLOGICA DEL HOSPITAL DE CARABINEROS.",
+      "monto": 259997,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "MARCO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4343-110-COT26",
+      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL SAN JAVIER",
+      "titulo": "1 Lente completo, marco más cristal para usuario por accidente escolar",
+      "monto": 120000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "MARCO",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
     },
