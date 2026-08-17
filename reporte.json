@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-17T21:21+00:00",
+  "generado": "2026-08-17T22:19+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -89,19 +89,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "4732-199-COT26",
-      "org": "I MUNICIPALIDAD DE CODEGUA",
-      "titulo": "Adquisición de insumos para la ejecución del taller de fotografía del Programa de cultura",
-      "monto": 250000,
-      "dias": 3,
-      "cierre": "2026-08-20",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 1,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 46
-    },
-    {
       "codigo": "564162-784-COT26",
       "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
       "titulo": "Impresión mapa desplegable ",
@@ -113,6 +100,19 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "4732-199-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "Adquisición de insumos para la ejecución del taller de fotografía del Programa de cultura",
+      "monto": 250000,
+      "dias": 2,
+      "cierre": "2026-08-20",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 1,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 44
     }
   ]
 }
