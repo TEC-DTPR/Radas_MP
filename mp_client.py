@@ -7,8 +7,10 @@ El ticket se lee de la variable de entorno MP_TICKET (configurada como Secret en
 import json
 import os
 import sys
+import time
 import urllib.request
 import urllib.parse
+import urllib.error
 from datetime import datetime, timezone, timedelta
 
 TICKET = os.environ.get("MP_TICKET", "")
@@ -21,21 +23,38 @@ def cargar_keywords():
         return [line.strip() for line in f if line.strip()]
 
 
-def _get(path, params):
+def _get(path, params, intentos=3):
+    """La API de Compra Agil esta en beta y a veces tira 500 sin motivo.
+    Reintenta con espera antes de rendirse."""
     url = f"{BASE_URL}{path}?{urllib.parse.urlencode(params)}"
     req = urllib.request.Request(url, headers={"ticket": TICKET, "User-Agent": "RadarMP/1.0"})
-    with urllib.request.urlopen(req, timeout=25) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    for intento in range(1, intentos + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=25) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            if e.code >= 500 and intento < intentos:
+                print(f"  ! HTTP {e.code} (intento {intento}/{intentos}), reintentando...")
+                time.sleep(3 * intento)
+                continue
+            raise
 
 
-def buscar_por_keyword(keyword, desde, hasta):
+def buscar_por_keyword(keyword, desde, hasta, max_paginas=5):
+    """Busca hasta max_paginas por keyword (50 resultados x pagina = 250 max).
+    Si falla despues de reintentar, avisa y sigue con la siguiente keyword
+    en vez de tirar abajo todo el reporte."""
     items, pagina = [], 1
-    while True:
-        data = _get("/v2/compra-agil", {
-            "q": keyword, "estado": "publicada",
-            "publicado_desde": desde, "publicado_hasta": hasta,
-            "tamano_pagina": 50, "numero_pagina": pagina,
-        })
+    while pagina <= max_paginas:
+        try:
+            data = _get("/v2/compra-agil", {
+                "q": keyword, "estado": "publicada",
+                "publicado_desde": desde, "publicado_hasta": hasta,
+                "tamano_pagina": 50, "numero_pagina": pagina,
+            })
+        except Exception as e:
+            print(f"  ! No se pudo buscar '{keyword}' (pagina {pagina}): {e}")
+            break
         if data.get("success") != "OK":
             err = (data.get("errors") or [{}])[0]
             print(f"  ! Error buscando '{keyword}': {err.get('mensaje')}")
