@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-17T18:31+00:00",
+  "generado": "2026-08-17T19:25+00:00",
   "keywords": [
     "GPS",
     "GIS",
@@ -68,6 +68,32 @@
       "probabilidad": 61
     },
     {
+      "codigo": "1057531-101-COT26",
+      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE RIO NEGRO",
+      "titulo": "SISTEMA MANUAL DE IDENTIFICACION BACTERIANA DE ENTEROBACTERALES Y BACILOS NO FERMENTADORES TIPO RÁPID ID 32, BASADA EN TIRAS DE MICROTUBOS CON SUSTRATO. Adjuntar ficha Técnica con foto",
+      "monto": 1190000,
+      "dias": 2,
+      "cierre": "2026-08-20",
+      "keyword": "FOTO",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1591-106-COT26",
+      "org": "Servicio Nacional de Turismo",
+      "titulo": "MARCOS DE MADERA, CUBIERTA DE FOTO EN ACRILICO PARA CERTIFICADOS",
+      "monto": 700000,
+      "dias": 1,
+      "cierre": "2026-08-19",
+      "keyword": "FOTO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "4988-78-COT26",
       "org": "I MUNICIPALIDAD DE CONCEPCION",
       "titulo": "ADQUISICIÓN DE LICENCIA DE SOFTWARE SIG PARA LA DIRECC¡ÓN DE SECPLAN, COMUNA DE CONCEPCIÓN'",
@@ -81,15 +107,28 @@
       "probabilidad": 57
     },
     {
-      "codigo": "5517-328-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Compra N°607 - Catálogo impreso \"Hecho en China\" para el Museo de Arte Popular Americano (MAPA)",
-      "monto": 6000000,
+      "codigo": "1057531-97-COT26",
+      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE RIO NEGRO",
+      "titulo": "TERMO SELLADORA AUTOMÁTICA CON IMPRESORA Y COR. Obligación Revisar documento y adjuntar ficha Técnica c/foto, documentos en PDF, presentar Garantía venta y fábrica, servicio post venta. Entrega en HRN",
+      "monto": 2000000,
       "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "mapa",
+      "cierre": "2026-08-18",
+      "keyword": "FOTO",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1663-757-COT26",
+      "org": "Hospital de Quellón",
+      "titulo": "Kit Endodoncia Guiada Steco (Fresa + Guia de titanio) 21 MM Y 28MM",
+      "monto": 760000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "GUIA",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -133,6 +172,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "875646-2010-COT26",
+      "org": "Hospital Dr. Eduardo Pereira Ramirez",
+      "titulo": "CANULA NASAL ALTO FLUJO \"M\"",
+      "monto": 650000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "FLUJO",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "898-991-COT26",
       "org": "HOSPITAL CLAUDIO VICUNA",
       "titulo": " Kit Capnomed Cámara Humidificadora C/Tubo Calefaccionado + Cánula de Alto Flujo Talla L Adulto. ",
@@ -170,6 +222,19 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 50
+    },
+    {
+      "codigo": "1057531-102-COT26",
+      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE RIO NEGRO",
+      "titulo": "AGAR VRE - (OFERTAR VALOR UNITARIO) Agosto 2026. Obligación adjuntar ficha Técnica con foto de productos, considerar entrega en Hospital Rio Negro.",
+      "monto": 114240,
+      "dias": 2,
+      "cierre": "2026-08-20",
+      "keyword": "FOTO",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 49
     },
     {
       "codigo": "564162-784-COT26",
