@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-17T14:23+00:00",
+  "generado": "2026-08-17T15:20+00:00",
   "keywords": [
     "GPS",
     "GIS",
@@ -42,6 +42,19 @@
       "probabilidad": 61
     },
     {
+      "codigo": "1057503-2151-COT26",
+      "org": "HOSPITAL PADRE ALBERTO HURTADO",
+      "titulo": "Memo Nº91(28.07.26) capacitación. Curso responsabilidad administrativa en el marco de la Ley Karin.",
+      "monto": 1500000,
+      "dias": 3,
+      "cierre": "2026-08-21",
+      "keyword": "MARCO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "1057531-101-COT26",
       "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE RIO NEGRO",
       "titulo": "SISTEMA MANUAL DE IDENTIFICACION BACTERIANA DE ENTEROBACTERALES Y BACILOS NO FERMENTADORES TIPO RÁPID ID 32, BASADA EN TIRAS DE MICROTUBOS CON SUSTRATO. Adjuntar ficha Técnica con foto",
@@ -55,32 +68,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "1078886-84-COT26",
-      "org": "SERVICIO DE SALUD VALPARAISO SAN ANTONIO",
-      "titulo": "Servicio de Reparación de Equipo Compresor Cesfam Jean & Marie Thierry, blas Cuevas N°985 subida cerro el litre, Valpo, Visita a terreno Obligatoria 18/08/2026 11:00 Hrs",
-      "monto": 300000,
-      "dias": 2,
-      "cierre": "2026-08-20",
-      "keyword": "TERRENO",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1422259-16-COT26",
-      "org": "CORPORACION REGIONAL DE DESARROLLO DE LA REGION DE TARAPACA",
-      "titulo": "SUMINISTRO DE ROPA CORPORATIVA E INDUMENTARIA PARA ACTIVIDADES EN TERRENO DE LA CORPORACIÓN",
-      "monto": 3500000,
-      "dias": 2,
-      "cierre": "2026-08-20",
-      "keyword": "TERRENO",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "1591-106-COT26",
       "org": "Servicio Nacional de Turismo",
       "titulo": "MARCOS DE MADERA, CUBIERTA DE FOTO EN ACRILICO PARA CERTIFICADOS",
@@ -90,19 +77,6 @@
       "keyword": "FOTO",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1417902-18-COT26",
-      "org": "ASOCIACION DE MUNICIPALIDADES DE LA ZONA METROPOLITANA DE LA ARAUCANIA",
-      "titulo": "ADQUISICIÓN DE ELEMENTOS DE PROTECCIÓN PERSONAL PARA COLABORADORES EN TERRENO PROYECTO DE SEGURIDAD PÚBLICA - AMZOMA",
-      "monto": 6800000,
-      "dias": 1,
-      "cierre": "2026-08-18",
-      "keyword": "TERRENO",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -159,54 +133,28 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1223542-180-COT26",
-      "org": "CORPORACION MUNICIPAL DE DEPORTES DE RANCAGUA",
-      "titulo": "EPP PARA TRABAJADORES TERRENO CORPORACIÓN DE DEPORTES",
-      "monto": 1000000,
+      "codigo": "1529-192-COT26",
+      "org": "SERVICIO DE SALUD HOSPITAL DE RENGO",
+      "titulo": "Adquisición de Coffe en marco de la Segunda Acreditación del Hospital de Rengo.",
+      "monto": 1500000,
       "dias": 0,
       "cierre": "2026-08-18",
-      "keyword": "TERRENO",
+      "keyword": "MARCO",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
     {
-      "codigo": "1577-146-COT26",
-      "org": "DELEGACIÓN PRESIDENCIAL REGIONAL DE LOS LAGOS",
-      "titulo": "Adquisición pendón y folletos impresos Plan Médico Veterinario en terreno DPR Los Lagos",
-      "monto": 321300,
+      "codigo": "3810-267-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE PICHILEMU",
+      "titulo": "ADQUISICION TRAJES DE SURF, EN EL MARCO DE LA EJECUCIÓN DEL PROGRAMA COMUNITARIO LA OLA EDUCATIVA 2026. ESCUELA MUNICIPAL DE SURF, SOLICITUD N° 904/26 OFICINA DE LA JUVENTUD",
+      "monto": 3000000,
       "dias": 0,
       "cierre": "2026-08-17",
-      "keyword": "TERRENO",
+      "keyword": "MARCO",
       "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2297-1110-COT26",
-      "org": "I MUNICIPALIDAD DE OSORNO",
-      "titulo": "SERVICIO DE PROVISION E INSTALACION DE ESTANTES  PARA BODEGA JPL SEGÚN EE.TT. ADJUNTAS Y VISITA A TERRENO OBLIGATORIA 17.08.26 A LAS 09HRS LUGAR DE ENCUENTRO EN EE.TT. SE ESPERARÁ MAX.10MIN",
-      "monto": 2500000,
-      "dias": 0,
-      "cierre": "2026-08-18",
-      "keyword": "TERRENO",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1456-18-COT26",
-      "org": "SERPLAC IV REGION",
-      "titulo": "ARRIENDO MENSUAL DE CAMIONETA (TODO TERRENO)",
-      "monto": 1460000,
-      "dias": 0,
-      "cierre": "2026-08-18",
-      "keyword": "TERRENO",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -263,6 +211,19 @@
       "probabilidad": 49
     },
     {
+      "codigo": "564162-784-COT26",
+      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+      "titulo": "Impresión mapa desplegable ",
+      "monto": 256397,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "mapa",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "1003473-3953-COT26",
       "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE CURICO",
       "titulo": " HEMODINAMIA 08-2026/GUIA ANGIOPLASTIA DE ALTO SOPORTE",
@@ -271,6 +232,32 @@
       "cierre": "2026-08-18",
       "keyword": "GUIA",
       "ofertas_actuales": 2,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4635-45-COT26",
+      "org": "Carabineros de Chile - Unidad Contable Disalcar",
+      "titulo": "MASCARA DE PROTECCION FACIAL CON MARCO DE LENTES, DE USO EN LAS DIFERENTES ESPECIALIDADES DE LA SUBDIRECCION ODONTOLOGICA DEL HOSPITAL DE CARABINEROS.",
+      "monto": 259997,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "MARCO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4343-110-COT26",
+      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL SAN JAVIER",
+      "titulo": "1 Lente completo, marco más cristal para usuario por accidente escolar",
+      "monto": 120000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "MARCO",
+      "ofertas_actuales": 0,
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
