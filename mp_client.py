@@ -78,6 +78,13 @@ def buscar_licitaciones(momento, keywords):
     vistos = {}
     for kw in keywords:
         for item in buscar_por_keyword(kw, desde, hasta):
+            # La busqueda de la API es "difusa" y a veces trae resultados
+            # que no tienen relacion real con la keyword. Filtramos en
+            # nuestro lado: solo dejamos pasar si la palabra aparece
+            # literal en el titulo.
+            nombre = item.get("nombre", "")
+            if kw.lower() not in nombre.lower():
+                continue
             if item["codigo"] not in vistos:
                 vistos[item["codigo"]] = item
 
