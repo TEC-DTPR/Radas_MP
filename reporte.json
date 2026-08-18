@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-18T21:19+00:00",
+  "generado": "2026-08-18T22:17+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -123,6 +123,19 @@
       "keyword": "VUELO",
       "ofertas_actuales": 2,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "4777-641-COT26",
+      "org": "I MUNICIPALIDAD DE LA UNION",
+      "titulo": "ADQUISICIÓN DE 44 MARCOS  DIPLOMAS PARA RECONOCIMIENTOS",
+      "monto": 219000,
+      "dias": 1,
+      "cierre": "2026-08-20",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 47
     },
