@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-18T16:24+00:00",
+  "generado": "2026-08-18T17:22+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -75,6 +75,84 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2854-657-COT26",
+      "org": "I MUNICIPALIDAD DE PUERTO VARAS",
+      "titulo": "COTIZACION MARCOS ACRILICOS - PROMOCION DE SALUD DE PUERTO VARAS",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2360-246-COT26",
+      "org": "I MUNICIPALIDAD DE TALCAHUANO",
+      "titulo": "MARCOS PARA PANELES LED CESFAM DE LA COMUNA ",
+      "monto": 325000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1725-164-COT26",
+      "org": "SUBSECRETARÍA DE LAS CULTURAS Y LAS ARTES",
+      "titulo": "Servicio de impresión de diplomas y marcos Día Nacional del Circo",
+      "monto": 1200000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1591-106-COT26",
+      "org": "Servicio Nacional de Turismo",
+      "titulo": "MARCOS DE MADERA, CUBIERTA DE FOTO EN ACRILICO PARA CERTIFICADOS",
+      "monto": 700000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1422256-36-COT26",
+      "org": "ASOCIACION PARQUE CULTURAL DE VALPARAISO",
+      "titulo": "TALLERES FOTOGRÁFICOS-PRÁCTICOS EN EL MARCO DEL MES DE LA FOTOGRAFÍA (DÍAS 21 y 22 DE AGOSTO)",
+      "monto": 1110000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1107279-184-COT26",
+      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+      "titulo": "tablero de potencia para mesa de fotografía multi-cámara SEGUN TERMINOS Y REFERENCIAS ",
+      "monto": 650000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "29-51-COT26",
       "org": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
       "titulo": " JBP ADQUISICIÓN DE VESTUARIO PARA AUXILIARES DE VUELO DE LA FUERZA AÉREA DE CHILE",
@@ -86,6 +164,58 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 49
+    },
+    {
+      "codigo": "1350138-21-COT26",
+      "org": "DELEGACION PRESIDENCIAL PROVINCIAL DE LOS ANDES",
+      "titulo": "Adquisición de marcos para diplomas.",
+      "monto": 120000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2381-654-COT26",
+      "org": "I MUNICIPALIDAD DE COPIAPO",
+      "titulo": "ADQUISICIÓN MARCOS DE MADERA PARA DIPLOMAS DEL BIENESTAR DE SALUD",
+      "monto": 150000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4732-199-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "Adquisición de insumos para la ejecución del taller de fotografía del Programa de cultura",
+      "monto": 250000,
+      "dias": 2,
+      "cierre": "2026-08-20",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 1,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 44
+    },
+    {
+      "codigo": "5485-627-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "SUMINISTRO E INSTALACIÓN DE SET BATERIAS PARA TRICICLO ELÉCTRICO ABM TRICICLO GB1200DZH-500KG. (SE ADJUNTO FOTOGRAFIA DE TRICICLO).",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 3,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 40
     }
   ]
 }
