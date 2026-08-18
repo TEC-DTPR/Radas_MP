@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-18T20:17+00:00",
+  "generado": "2026-08-18T21:19+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -114,43 +114,17 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1422256-36-COT26",
-      "org": "ASOCIACION PARQUE CULTURAL DE VALPARAISO",
-      "titulo": "TALLERES FOTOGRÁFICOS-PRÁCTICOS EN EL MARCO DEL MES DE LA FOTOGRAFÍA (DÍAS 21 y 22 DE AGOSTO)",
-      "monto": 1110000,
-      "dias": 0,
-      "cierre": "2026-08-19",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1107279-184-COT26",
-      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-      "titulo": "tablero de potencia para mesa de fotografía multi-cámara SEGUN TERMINOS Y REFERENCIAS ",
-      "monto": 650000,
-      "dias": 0,
-      "cierre": "2026-08-19",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "29-51-COT26",
       "org": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
       "titulo": " JBP ADQUISICIÓN DE VESTUARIO PARA AUXILIARES DE VUELO DE LA FUERZA AÉREA DE CHILE",
       "monto": 2633946,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-08-20",
       "keyword": "VUELO",
       "ofertas_actuales": 2,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 49
+      "probabilidad": 47
     },
     {
       "codigo": "1350138-21-COT26",
@@ -179,19 +153,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "4732-199-COT26",
-      "org": "I MUNICIPALIDAD DE CODEGUA",
-      "titulo": "Adquisición de insumos para la ejecución del taller de fotografía del Programa de cultura",
-      "monto": 250000,
-      "dias": 2,
-      "cierre": "2026-08-20",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 1,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 44
-    },
-    {
       "codigo": "5485-627-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "SUMINISTRO E INSTALACIÓN DE SET BATERIAS PARA TRICICLO ELÉCTRICO ABM TRICICLO GB1200DZH-500KG. (SE ADJUNTO FOTOGRAFIA DE TRICICLO).",
@@ -203,6 +164,19 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 40
+    },
+    {
+      "codigo": "4737-33-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "ADQUISICIÓN DE DICCIONARIOS Y MAPAS DE CHILE PARA LOS ESTUDIANTES DEL LICEO MUNICIPAL DE CODEGUA, CON CARGO A LA SUBVENCIÓN PRO-RETENCIÓN 2026",
+      "monto": 1500000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "MAPAS",
+      "ofertas_actuales": 4,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 35
     }
   ]
 }
