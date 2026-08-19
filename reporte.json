@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-19T20:20+00:00",
+  "generado": "2026-08-19T21:21+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -60,6 +60,45 @@
       "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 63
+    },
+    {
+      "codigo": "1107279-188-COT26",
+      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+      "titulo": "Materiales para armado de mesa de fotografia multicamera SEGUN TERMINOS ADJUNTOS",
+      "monto": 400000,
+      "dias": 4,
+      "cierre": "2026-08-24",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
+      "codigo": "5517-348-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": " Sol 694, Atado de Mimbre, MAPA",
+      "monto": 600000,
+      "dias": 1,
+      "cierre": "2026-08-21",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2432-624-COT26",
+      "org": "I MUNICIPALIDAD ESTACION CENTRAL",
+      "titulo": " SOL497-ALCALDIA-DRONE DJI MINI 5 PRO Y TARJETA DE MEMORIA SABRENT.",
+      "monto": 1856400,
+      "dias": 1,
+      "cierre": "2026-08-21",
+      "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
     },
     {
       "codigo": "3320-418-COT26",
@@ -144,13 +183,13 @@
       "org": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
       "titulo": " JBP ADQUISICIÓN DE VESTUARIO PARA AUXILIARES DE VUELO DE LA FUERZA AÉREA DE CHILE",
       "monto": 2633946,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-08-20",
       "keyword": "VUELO",
       "ofertas_actuales": 2,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 47
+      "probabilidad": 45
     },
     {
       "codigo": "2214-43-COT26",
@@ -190,19 +229,6 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
-    },
-    {
-      "codigo": "4737-33-COT26",
-      "org": "I MUNICIPALIDAD DE CODEGUA",
-      "titulo": "ADQUISICIÓN DE DICCIONARIOS Y MAPAS DE CHILE PARA LOS ESTUDIANTES DEL LICEO MUNICIPAL DE CODEGUA, CON CARGO A LA SUBVENCIÓN PRO-RETENCIÓN 2026",
-      "monto": 1500000,
-      "dias": 0,
-      "cierre": "2026-08-19",
-      "keyword": "MAPAS",
-      "ofertas_actuales": 4,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 35
     }
   ]
 }
