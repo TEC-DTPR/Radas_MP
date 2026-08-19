@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-19T15:26+00:00",
+  "generado": "2026-08-19T16:25+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,17 +36,17 @@
   "dias_atras": 7,
   "licitaciones": [
     {
-      "codigo": "1069417-794-COT26",
-      "org": "Dirección  de Salud Municipal Chillán",
-      "titulo": "SERVICIO DE ELABORACIÓN E IMPRESIÓN DE MAPAS TERRITORIALES PARA LOS SIETE CESFAM DEPENDIENTES DE LA DIRECCIÓN DE SALUD MUNICIPAL DE CHILLÁN",
-      "monto": 1200000,
-      "dias": 1,
-      "cierre": "2026-08-20",
-      "keyword": "MAPAS",
+      "codigo": "743848-22-COT26",
+      "org": "SEGUNDO TRIBUNAL AMBIENTAL",
+      "titulo": "Capacitación en fotografia",
+      "monto": 500000,
+      "dias": 2,
+      "cierre": "2026-08-21",
+      "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 57
+      "probabilidad": 59
     },
     {
       "codigo": "2428-1102-COT26",
@@ -62,28 +62,15 @@
       "probabilidad": 57
     },
     {
-      "codigo": "2854-657-COT26",
-      "org": "I MUNICIPALIDAD DE PUERTO VARAS",
-      "titulo": "COTIZACION MARCOS ACRILICOS - PROMOCION DE SALUD DE PUERTO VARAS",
-      "monto": 400000,
+      "codigo": "1069417-794-COT26",
+      "org": "Dirección  de Salud Municipal Chillán",
+      "titulo": "SERVICIO DE ELABORACIÓN E IMPRESIÓN DE MAPAS TERRITORIALES PARA LOS SIETE CESFAM DEPENDIENTES DE LA DIRECCIÓN DE SALUD MUNICIPAL DE CHILLÁN",
+      "monto": 1200000,
       "dias": 0,
-      "cierre": "2026-08-19",
-      "keyword": "MARCOS",
+      "cierre": "2026-08-20",
+      "keyword": "MAPAS",
       "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2360-246-COT26",
-      "org": "I MUNICIPALIDAD DE TALCAHUANO",
-      "titulo": "MARCOS PARA PANELES LED CESFAM DE LA COMUNA ",
-      "monto": 325000,
-      "dias": 0,
-      "cierre": "2026-08-19",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
+      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 55
     },
@@ -112,6 +99,19 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 47
+    },
+    {
+      "codigo": "950-45-COT26",
+      "org": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION V REGIÓN",
+      "titulo": "COMPRA DE MARCOS PARA DIPLOMAS Y BOLSAS DE PAPEL",
+      "monto": 80000,
+      "dias": 0,
+      "cierre": "2026-08-20",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 45
     },
     {
       "codigo": "4777-641-COT26",
