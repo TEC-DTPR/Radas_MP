@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-19T16:25+00:00",
+  "generado": "2026-08-19T17:22+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,6 +36,19 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "1233623-518-COT26",
+      "org": "Servicio Local de Educación Pública Licancabur",
+      "titulo": "SLEP Licancabur  requiere marcos de madera para licencias de Enseñanza Básica para Escuela Básica Vado de Topater - Calama.",
+      "monto": 1275000,
+      "dias": 4,
+      "cierre": "2026-08-24",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
       "codigo": "743848-22-COT26",
       "org": "SEGUNDO TRIBUNAL AMBIENTAL",
       "titulo": "Capacitación en fotografia",
@@ -62,6 +75,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "608897-84-COT26",
+      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
+      "titulo": "Servicio de catering y fotografía para la Ceremonia de Reconocimiento HuellaChile 2026 y actividades presenciales de capacitación y difusión del Programa HuellaChile – DPS",
+      "monto": 4200000,
+      "dias": 1,
+      "cierre": "2026-08-21",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1069417-794-COT26",
       "org": "Dirección  de Salud Municipal Chillán",
       "titulo": "SERVICIO DE ELABORACIÓN E IMPRESIÓN DE MAPAS TERRITORIALES PARA LOS SIETE CESFAM DEPENDIENTES DE LA DIRECCIÓN DE SALUD MUNICIPAL DE CHILLÁN",
@@ -71,6 +97,19 @@
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3730-197-COT26",
+      "org": "I MUNICIPALIDAD DE CHIMBARONGO",
+      "titulo": "COMPRA DE MARCOS PARA DIPLOMAS",
+      "monto": 1900000,
+      "dias": 0,
+      "cierre": "2026-08-20",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -88,6 +127,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1107279-184-COT26",
+      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+      "titulo": "tablero de potencia para mesa de fotografía multi-cámara SEGUN TERMINOS Y REFERENCIAS ",
+      "monto": 650000,
+      "dias": 0,
+      "cierre": "2026-08-19",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "29-51-COT26",
       "org": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
       "titulo": " JBP ADQUISICIÓN DE VESTUARIO PARA AUXILIARES DE VUELO DE LA FUERZA AÉREA DE CHILE",
@@ -99,6 +151,19 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 47
+    },
+    {
+      "codigo": "2214-43-COT26",
+      "org": "DEPARTAMENTO PROVINCIAL DE EDUCACION CAUTIN NORTE",
+      "titulo": "Compra de 18 Marcos de Madera para diploma de participación para Jurados y Seleccionados en el marco de la Muestra Provincial de Cueca 2026",
+      "monto": 120000,
+      "dias": 0,
+      "cierre": "2026-08-20",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 45
     },
     {
       "codigo": "950-45-COT26",
@@ -140,17 +205,17 @@
       "probabilidad": 45
     },
     {
-      "codigo": "5485-627-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "SUMINISTRO E INSTALACIÓN DE SET BATERIAS PARA TRICICLO ELÉCTRICO ABM TRICICLO GB1200DZH-500KG. (SE ADJUNTO FOTOGRAFIA DE TRICICLO).",
-      "monto": 350000,
-      "dias": 0,
-      "cierre": "2026-08-19",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 3,
-      "region": "Región Metropolitana de Santiago",
+      "codigo": "4732-199-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "Adquisición de insumos para la ejecución del taller de fotografía del Programa de cultura",
+      "monto": 250000,
+      "dias": 1,
+      "cierre": "2026-08-20",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 1,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
-      "probabilidad": 40
+      "probabilidad": 42
     },
     {
       "codigo": "4737-33-COT26",
