@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-20T14:32+00:00",
+  "generado": "2026-08-20T15:29+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -49,6 +49,32 @@
       "probabilidad": 61
     },
     {
+      "codigo": "1591-111-COT26",
+      "org": "Servicio Nacional de Turismo",
+      "titulo": "MARCOS DE MADERA, CUBIERTA DE FOTO EN ACRILICO PARA CERTIFICADOS ESNNA-VT",
+      "monto": 700000,
+      "dias": 3,
+      "cierre": "2026-08-24",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "1233623-518-COT26",
+      "org": "Servicio Local de Educación Pública Licancabur",
+      "titulo": "SLEP Licancabur  requiere marcos de madera para licencias de Enseñanza Básica para Escuela Básica Vado de Topater - Calama.",
+      "monto": 1275000,
+      "dias": 3,
+      "cierre": "2026-08-24",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "1107279-188-COT26",
       "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
       "titulo": "Materiales para armado de mesa de fotografia multicamera SEGUN TERMINOS ADJUNTOS",
@@ -60,19 +86,6 @@
       "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 61
-    },
-    {
-      "codigo": "5517-348-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": " Sol 694, Atado de Mimbre, MAPA",
-      "monto": 600000,
-      "dias": 1,
-      "cierre": "2026-08-21",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
     },
     {
       "codigo": "3320-418-COT26",
@@ -101,6 +114,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "5517-348-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": " Sol 694, Atado de Mimbre, MAPA",
+      "monto": 600000,
+      "dias": 0,
+      "cierre": "2026-08-21",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2432-624-COT26",
       "org": "I MUNICIPALIDAD ESTACION CENTRAL",
       "titulo": " SOL497-ALCALDIA-DRONE DJI MINI 5 PRO Y TARJETA DE MEMORIA SABRENT.",
@@ -123,6 +149,19 @@
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3730-197-COT26",
+      "org": "I MUNICIPALIDAD DE CHIMBARONGO",
+      "titulo": "COMPRA DE MARCOS PARA DIPLOMAS",
+      "monto": 1900000,
+      "dias": 0,
+      "cierre": "2026-08-20",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -188,6 +227,45 @@
       "keyword": "VUELO",
       "ofertas_actuales": 2,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2214-43-COT26",
+      "org": "DEPARTAMENTO PROVINCIAL DE EDUCACION CAUTIN NORTE",
+      "titulo": "Compra de 18 Marcos de Madera para diploma de participación para Jurados y Seleccionados en el marco de la Muestra Provincial de Cueca 2026",
+      "monto": 120000,
+      "dias": 0,
+      "cierre": "2026-08-20",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "950-45-COT26",
+      "org": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION V REGIÓN",
+      "titulo": "COMPRA DE MARCOS PARA DIPLOMAS Y BOLSAS DE PAPEL",
+      "monto": 80000,
+      "dias": 0,
+      "cierre": "2026-08-20",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4777-641-COT26",
+      "org": "I MUNICIPALIDAD DE LA UNION",
+      "titulo": "ADQUISICIÓN DE 44 MARCOS  DIPLOMAS PARA RECONOCIMIENTOS",
+      "monto": 219000,
+      "dias": 0,
+      "cierre": "2026-08-20",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
     }
