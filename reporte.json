@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-20T21:23+00:00",
+  "generado": "2026-08-20T22:21+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -203,19 +203,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "5517-349-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Sol 696, Servicio de transporte tipo flete de piezas artesanales, MAPA",
-      "monto": 298000,
-      "dias": 0,
-      "cierre": "2026-08-20",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "29-51-COT26",
