@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-20T16:28+00:00",
+  "generado": "2026-08-20T17:23+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -240,19 +240,6 @@
       "keyword": "VUELO",
       "ofertas_actuales": 2,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "2214-43-COT26",
-      "org": "DEPARTAMENTO PROVINCIAL DE EDUCACION CAUTIN NORTE",
-      "titulo": "Compra de 18 Marcos de Madera para diploma de participación para Jurados y Seleccionados en el marco de la Muestra Provincial de Cueca 2026",
-      "monto": 120000,
-      "dias": 0,
-      "cierre": "2026-08-20",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 45
     },
