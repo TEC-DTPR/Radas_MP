@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-21T18:28+00:00",
+  "generado": "2026-08-21T19:22+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -151,19 +151,6 @@
       "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 59
-    },
-    {
-      "codigo": "5517-348-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": " Sol 694, Atado de Mimbre, MAPA",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "3320-418-COT26",
