@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-21T15:27+00:00",
+  "generado": "2026-08-21T16:26+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,6 +36,19 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "5517-359-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Compra N°607 - Catálogo impreso \"Hecho en China\" para el Museo de Arte Popular Americano (MAPA)",
+      "monto": 6000000,
+      "dias": 3,
+      "cierre": "2026-08-25",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "780724-63-COT26",
       "org": "ILUSTRE TERCER TRIBUNAL AMBIENTAL",
       "titulo": "CONTRATACIÓN PÓLIZA SEGURO DRONE PARA EL TERCER TRIBUNAL AMBIENTAL",
@@ -60,6 +73,19 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 61
+    },
+    {
+      "codigo": "5517-358-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Compra 674 - Materiales de montaje y construcción MAPA",
+      "monto": 1300000,
+      "dias": 2,
+      "cierre": "2026-08-24",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
     },
     {
       "codigo": "1273-14-COT26",
@@ -97,6 +123,19 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2658-1055-COT26",
+      "org": "I MUNICIPALIDAD DE ANCUD",
+      "titulo": "CARPA PLEGABLE DE FOTOGRAFIA",
+      "monto": 500000,
+      "dias": 2,
+      "cierre": "2026-08-24",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 59
     },
