@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-21T19:22+00:00",
+  "generado": "2026-08-21T20:19+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -151,19 +151,6 @@
       "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 59
-    },
-    {
-      "codigo": "3320-418-COT26",
-      "org": "Escuadrilla de Abastecimiento del Edificio FF.AA.",
-      "titulo": "CEN_135417_ ADQ. DE VESTUARIO PARA EL CENTRO ESPACIAL NACIONAL",
-      "monto": 3712800,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "ESPACIAL",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "743848-22-COT26",
