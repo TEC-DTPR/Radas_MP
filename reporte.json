@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-21T16:26+00:00",
+  "generado": "2026-08-21T17:24+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -175,19 +175,6 @@
       "keyword": "ESPACIAL",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4284-116-COT26",
-      "org": "I MUNICIPALIDAD DE CUNCO",
-      "titulo": "CAPACITACIÓN \"METODOLOGÍA IMIV MARCO LEGAL, ELEMENTOS TÉCNICOS, CONTENIDOS, USO PLATAFORMA SEIM, PLAZOS, INFORMES DE REVISIÓN",
-      "monto": 1320000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "IMIV",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
