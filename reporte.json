@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-21T17:24+00:00",
+  "generado": "2026-08-21T18:28+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -203,19 +203,6 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 45
-    },
-    {
-      "codigo": "950-45-COT26",
-      "org": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION V REGIÓN",
-      "titulo": "COMPRA DE MARCOS PARA DIPLOMAS Y BOLSAS DE PAPEL",
-      "monto": 80000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 1,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 40
     }
   ]
 }
