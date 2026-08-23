@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-23T15:16+00:00",
+  "generado": "2026-08-23T16:17+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -62,19 +62,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "678-17-COT26",
-      "org": "SEREMI Bienes Nacionales IX Región",
-      "titulo": "VESTUARIO PARA TERRENO UNIDAD DE CATASTRO",
-      "monto": 2549700,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "CATASTRO",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "3687-141-COT26",
       "org": "I MUNICIPALIDAD DE SALAMANCA",
       "titulo": "Aquisición de marcos de diplomas para las ceremonias de termino de año escolar 2026 Liceo Municipal",
@@ -110,6 +97,19 @@
       "keyword": "FOTOGRAMETRÍA",
       "ofertas_actuales": 0,
       "region": "Región de Magallanes y de la Antártica",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "678-17-COT26",
+      "org": "SEREMI Bienes Nacionales IX Región",
+      "titulo": "VESTUARIO PARA TERRENO UNIDAD DE CATASTRO",
+      "monto": 2549700,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "CATASTRO",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
