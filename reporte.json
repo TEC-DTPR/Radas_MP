@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-24T12:36+00:00",
+  "generado": "2026-08-24T13:46+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -75,19 +75,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1273-14-COT26",
-      "org": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-      "titulo": "CAPACITACIÓN 2026 FOTOGRAMETRÍA CON DRONES PARA LA DROP MAGALLANES ",
-      "monto": 1500000,
-      "dias": 0,
-      "cierre": "2026-08-24",
-      "keyword": "FOTOGRAMETRÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "678-17-COT26",
       "org": "SEREMI Bienes Nacionales IX Región",
       "titulo": "VESTUARIO PARA TERRENO UNIDAD DE CATASTRO",
@@ -140,19 +127,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2658-1055-COT26",
-      "org": "I MUNICIPALIDAD DE ANCUD",
-      "titulo": "CARPA PLEGABLE DE FOTOGRAFIA",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-08-24",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1107279-188-COT26",
       "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
       "titulo": "Materiales para armado de mesa de fotografia multicamera SEGUN TERMINOS ADJUNTOS",
@@ -164,6 +138,19 @@
       "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "3730-197-COT26",
+      "org": "I MUNICIPALIDAD DE CHIMBARONGO",
+      "titulo": "COMPRA DE MARCOS PARA DIPLOMAS",
+      "monto": 1900000,
+      "dias": 0,
+      "cierre": "2026-08-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 7,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 20
     }
   ]
 }
