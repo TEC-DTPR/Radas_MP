@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-24T13:46+00:00",
+  "generado": "2026-08-24T14:36+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -101,19 +101,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1591-111-COT26",
-      "org": "Servicio Nacional de Turismo",
-      "titulo": "MARCOS DE MADERA, CUBIERTA DE FOTO EN ACRILICO PARA CERTIFICADOS ESNNA-VT",
-      "monto": 700000,
-      "dias": 0,
-      "cierre": "2026-08-24",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1233623-518-COT26",
       "org": "Servicio Local de Educación Pública Licancabur",
       "titulo": "SLEP Licancabur  requiere marcos de madera para licencias de Enseñanza Básica para Escuela Básica Vado de Topater - Calama.",
@@ -138,6 +125,19 @@
       "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "514847-301-COT26",
+      "org": "I MUNICIPALIDAD DE LAUTARO",
+      "titulo": "Marcos de madera para diplomas -  Concurso la salud mental no es un cuento (IU-32)",
+      "monto": 52000,
+      "dias": 0,
+      "cierre": "2026-08-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 45
     },
     {
       "codigo": "3730-197-COT26",
