@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-25T13:44+00:00",
+  "generado": "2026-08-25T14:39+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -123,19 +123,6 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "514847-301-COT26",
-      "org": "I MUNICIPALIDAD DE LAUTARO",
-      "titulo": "Marcos de madera para diplomas -  Concurso la salud mental no es un cuento (IU-32)",
-      "monto": 52000,
-      "dias": 0,
-      "cierre": "2026-08-25",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 45
     },
