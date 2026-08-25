@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-25T20:22+00:00",
+  "generado": "2026-08-25T21:22+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,6 +35,32 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "5683-37-COT26",
+      "org": "Ministerio de Vivienda y Urbanismo",
+      "titulo": "Servicio de ejecución de obras de optimización espacial para la habilitación de comedor y adecuación interior de oficinas SEREMI MINVU Región de Los Ríos",
+      "monto": 6500000,
+      "dias": 8,
+      "cierre": "2026-09-03",
+      "keyword": "ESPACIAL",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 71
+    },
+    {
+      "codigo": "728-47-COT26",
+      "org": "INSTITUTO NACIONAL DE HIDRAULICA",
+      "titulo": "Seguro para Drone",
+      "monto": 440300,
+      "dias": 2,
+      "cierre": "2026-08-28",
+      "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
     {
       "codigo": "2358-423-COT26",
       "org": "I MUNICIPALIDAD DE TALCAHUANO",
@@ -99,19 +125,6 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "2057-272-COT26",
-      "org": "UNIVERSIDAD ARTURO PRAT",
-      "titulo": "Servicio de Fabricación e Impresión de Marcos de Puertas Personalizados Sintra 3mm, para la Unidad de Admisión de la Universidad Arturo Prat, Sede Victoria",
-      "monto": 189000,
-      "dias": 0,
-      "cierre": "2026-08-25",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "4291-1008-COT26",
