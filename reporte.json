@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-25T00:42+00:00",
+  "generado": "2026-08-25T12:36+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -40,13 +40,13 @@
       "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
       "titulo": " Servicio de catering y fotografía para la Ceremonia de Reconocimiento HuellaChile 2026 y actividades presenciales de capacitación y difusión del Programa HuellaChile – DPS",
       "monto": 4200000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-08-28",
       "keyword": "FOTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 61
+      "probabilidad": 59
     },
     {
       "codigo": "5517-359-COT26",
