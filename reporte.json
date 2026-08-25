@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-25T16:29+00:00",
+  "generado": "2026-08-25T17:27+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -84,6 +84,32 @@
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2757-403-COT26",
+      "org": "I MUNICIPALIDAD DE SAN ANTONIO",
+      "titulo": "Adquisición de mapas de evacuación para PSR Cuncumén y CECOSF Lo Gallardo dependiente de la red de salud de San Antonio (MAIS)",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-08-26",
+      "keyword": "MAPAS",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4414-549-COT26",
+      "org": "I MUNICIPALIDAD DE ARAUCO",
+      "titulo": "20 MARCOS PARA FOTOGRAFÍAS DE CUADROS PRESIDENCIALES – ADMINISTRACIÓN MUNICIPAL",
+      "monto": 595000,
+      "dias": 0,
+      "cierre": "2026-08-26",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
