@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-25T18:31+00:00",
+  "generado": "2026-08-25T19:27+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -75,19 +75,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "5517-359-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Compra N°607 - Catálogo impreso \"Hecho en China\" para el Museo de Arte Popular Americano (MAPA)",
-      "monto": 6000000,
-      "dias": 0,
-      "cierre": "2026-08-25",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2757-403-COT26",
       "org": "I MUNICIPALIDAD DE SAN ANTONIO",
       "titulo": "Adquisición de mapas de evacuación para PSR Cuncumén y CECOSF Lo Gallardo dependiente de la red de salud de San Antonio (MAIS)",
@@ -136,19 +123,6 @@
       "keyword": "CONTEO",
       "ofertas_actuales": 2,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1182705-158-COT26",
-      "org": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-      "titulo": "COMPRA DE GALVANOS PARA PREMIO CONCURSO FOTOGRAFIA PARA EL MES TP",
-      "monto": 105000,
-      "dias": 0,
-      "cierre": "2026-08-26",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región Aysén del General Carlos Ibáñez del Campo",
       "momento": "am",
       "probabilidad": 45
     },
