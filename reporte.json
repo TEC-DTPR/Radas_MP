@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-26T00:43+00:00",
+  "generado": "2026-08-26T12:39+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -40,13 +40,13 @@
       "org": "Ministerio de Vivienda y Urbanismo",
       "titulo": "Servicio de ejecución de obras de optimización espacial para la habilitación de comedor y adecuación interior de oficinas SEREMI MINVU Región de Los Ríos",
       "monto": 6500000,
-      "dias": 8,
+      "dias": 7,
       "cierre": "2026-09-03",
       "keyword": "ESPACIAL",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
       "momento": "am",
-      "probabilidad": 71
+      "probabilidad": 69
     },
     {
       "codigo": "728-47-COT26",
@@ -66,39 +66,39 @@
       "org": "I MUNICIPALIDAD DE TALCAHUANO",
       "titulo": "ADQUISICIÓN DE MATERIAL DIDÁCTICO ACCESIBLE, MAPAS HAPTICOS Y SEÑALETICA, S/C N° 258 DEL 17-08-2026, DEPTO. PROMOCION S.",
       "monto": 3000000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-08-28",
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 57
     },
     {
       "codigo": "608897-90-COT26",
       "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
       "titulo": " Servicio de catering y fotografía para la Ceremonia de Reconocimiento HuellaChile 2026 y actividades presenciales de capacitación y difusión del Programa HuellaChile – DPS",
       "monto": 4200000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-08-28",
       "keyword": "FOTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 57
     },
     {
       "codigo": "780724-64-COT26",
       "org": "ILUSTRE TERCER TRIBUNAL AMBIENTAL",
       "titulo": "CONTRATACIÓN PÓLIZA SEGURO DRONE PARA EL TERCER TRIBUNAL AMBIENTAL",
       "monto": 400000,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-08-27",
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
       "momento": "am",
-      "probabilidad": 57
+      "probabilidad": 55
     },
     {
       "codigo": "2757-403-COT26",
@@ -125,19 +125,6 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "4291-1008-COT26",
-      "org": "UNIVERSIDAD DE ANTOFAGASTA",
-      "titulo": "ADQUISICIÓN DE CÁMARA DE CONTEO BOGOROV DE 9 ML",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-08-26",
-      "keyword": "CONTEO",
-      "ofertas_actuales": 2,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "1182705-158-COT26",
