@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-26T16:14+00:00",
+  "generado": "2026-08-26T18:54+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -114,43 +114,17 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2757-403-COT26",
-      "org": "I MUNICIPALIDAD DE SAN ANTONIO",
-      "titulo": "Adquisición de mapas de evacuación para PSR Cuncumén y CECOSF Lo Gallardo dependiente de la red de salud de San Antonio (MAIS)",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-08-26",
-      "keyword": "MAPAS",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4414-549-COT26",
-      "org": "I MUNICIPALIDAD DE ARAUCO",
-      "titulo": "20 MARCOS PARA FOTOGRAFÍAS DE CUADROS PRESIDENCIALES – ADMINISTRACIÓN MUNICIPAL",
-      "monto": 595000,
-      "dias": 0,
-      "cierre": "2026-08-26",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2030-36-COT26",
       "org": "Departamento Provincial de Educación Limari",
       "titulo": "Compra juego de mesa, mapa gastronómico y caja organizadora 38 litros, oficio de garzón",
       "monto": 220000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-08-28",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
       "momento": "am",
-      "probabilidad": 49
+      "probabilidad": 47
     },
     {
       "codigo": "4732-213-COT26",
