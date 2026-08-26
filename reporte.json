@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-26T14:40+00:00",
+  "generado": "2026-08-26T16:14+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -75,6 +75,32 @@
       "probabilidad": 57
     },
     {
+      "codigo": "1289422-146-COT26",
+      "org": "CORPORACION CULTURAL DE LO BARNECHEA",
+      "titulo": " 1 Sensor IoT de Conteo Estereoscópico 3D ",
+      "monto": 1600000,
+      "dias": 1,
+      "cierre": "2026-08-28",
+      "keyword": "CONTEO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "608897-90-COT26",
+      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
+      "titulo": " Servicio de catering y fotografía para la Ceremonia de Reconocimiento HuellaChile 2026 y actividades presenciales de capacitación y difusión del Programa HuellaChile – DPS",
+      "monto": 4200000,
+      "dias": 1,
+      "cierre": "2026-08-28",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "780724-64-COT26",
       "org": "ILUSTRE TERCER TRIBUNAL AMBIENTAL",
       "titulo": "CONTRATACIÓN PÓLIZA SEGURO DRONE PARA EL TERCER TRIBUNAL AMBIENTAL",
@@ -112,6 +138,32 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "2030-36-COT26",
+      "org": "Departamento Provincial de Educación Limari",
+      "titulo": "Compra juego de mesa, mapa gastronómico y caja organizadora 38 litros, oficio de garzón",
+      "monto": 220000,
+      "dias": 2,
+      "cierre": "2026-08-28",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
+      "codigo": "4732-213-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "Adquisición de insumos para la ejecución del taller de fotografía del Programa de cultura",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-08-26",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 45
     }
   ]
 }
