@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-26T21:34+00:00",
+  "generado": "2026-08-27T02:47+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -140,6 +140,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "4732-213-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "Adquisición de insumos para la ejecución del taller de fotografía del Programa de cultura",
+      "monto": 250000,
+      "dias": 1,
+      "cierre": "2026-08-28",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
       "codigo": "539819-435-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "SEGURO DE VIAJE EN VUELO INTERNACIONAL OSNCH M.B.",
@@ -149,19 +162,6 @@
       "keyword": "VUELO",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "4732-213-COT26",
-      "org": "I MUNICIPALIDAD DE CODEGUA",
-      "titulo": "Adquisición de insumos para la ejecución del taller de fotografía del Programa de cultura",
-      "monto": 250000,
-      "dias": 0,
-      "cierre": "2026-08-26",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 45
     }
