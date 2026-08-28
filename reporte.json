@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-27T21:35+00:00",
+  "generado": "2026-08-28T05:55+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,6 +35,19 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "559322-235-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Servicio de Fotografía y Cobertura — Congreso U Mining 2026",
+      "monto": 1071000,
+      "dias": 7,
+      "cierre": "2026-09-04",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 69
+    },
     {
       "codigo": "5683-37-COT26",
       "org": "Ministerio de Vivienda y Urbanismo",
@@ -192,6 +205,32 @@
       "probabilidad": 55
     },
     {
+      "codigo": "618923-141-COT26",
+      "org": "SUBSECRETARIA PARA LAS FUERZAS ARMADAS",
+      "titulo": "LIBROS CON FOTOGRAFÍAS DE CHILE Y MARCADORES DE COBRE",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-08-28",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "608897-90-COT26",
+      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
+      "titulo": " Servicio de catering y fotografía para la Ceremonia de Reconocimiento HuellaChile 2026 y actividades presenciales de capacitación y difusión del Programa HuellaChile – DPS",
+      "monto": 4200000,
+      "dias": 0,
+      "cierre": "2026-08-28",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "3200-329-COT26",
       "org": "I MUNICIPALIDAD DE LONCOCHE",
       "titulo": "ADQUISICIÓN DE IMPRESIÓN DE MAPA DEL TERRITORIO DE LA PAZ EN MATERIAL DE PVC. ",
@@ -214,6 +253,19 @@
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4732-213-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "Adquisición de insumos para la ejecución del taller de fotografía del Programa de cultura",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-08-28",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 45
     }
