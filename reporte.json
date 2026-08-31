@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-31T18:36+00:00",
+  "generado": "2026-08-31T23:06+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,6 +35,19 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "608897-99-COT26",
+      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
+      "titulo": "Servicio de fotografía profesional para la Ceremonia de Reconocimiento HuellaChile 2026 – Programa de Desarrollo Productivo Sostenible",
+      "monto": 690000,
+      "dias": 8,
+      "cierre": "2026-09-09",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 71
+    },
     {
       "codigo": "3615-117-COT26",
       "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
@@ -88,6 +101,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "5517-378-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Compra 715 - Impresiones de gráficas, cédulas, textos de sala y otros para exposición \"Animalia\" en MAPA sede Plataforma Cultural",
+      "monto": 1300000,
+      "dias": 0,
+      "cierre": "2026-09-01",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2658-1102-COT26",
       "org": "I MUNICIPALIDAD DE ANCUD",
       "titulo": "MARCOS FOTOGRAFICOS Y OTROS",
@@ -125,6 +151,32 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "1515304-213-COT26",
+      "org": "Carabineros de Chile",
+      "titulo": "ADQUISICIÓN DE MARCOS DE FOTOGRAFÍA, PARA EL DEPARTAMENTO DE APOYO A LAS OPERACIONES POLICIALES DE LA ZOFSECAR. ",
+      "monto": 200000,
+      "dias": 2,
+      "cierre": "2026-09-03",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
+      "codigo": "3200-329-COT26",
+      "org": "I MUNICIPALIDAD DE LONCOCHE",
+      "titulo": "ADQUISICIÓN DE IMPRESIÓN DE MAPA DEL TERRITORIO DE LA PAZ EN MATERIAL DE PVC. ",
+      "monto": 100000,
+      "dias": 3,
+      "cierre": "2026-09-04",
+      "keyword": "MAPA",
+      "ofertas_actuales": 1,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 46
     },
     {
       "codigo": "1350131-2-COT26",
