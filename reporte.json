@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-01T15:55+00:00",
+  "generado": "2026-09-01T19:10+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,19 +36,6 @@
   "dias_atras": 7,
   "licitaciones": [
     {
-      "codigo": "608897-99-COT26",
-      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
-      "titulo": "Servicio de fotografía profesional para la Ceremonia de Reconocimiento HuellaChile 2026 – Programa de Desarrollo Productivo Sostenible",
-      "monto": 690000,
-      "dias": 7,
-      "cierre": "2026-09-09",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 69
-    },
-    {
       "codigo": "3615-117-COT26",
       "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
       "titulo": "SERVICIO DE COLACIONES PARA ESTUDIANTES DE LA ESCUELA DE SAN MARCOS - COMUNA COMBARBALÁ.",
@@ -60,45 +47,6 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 59
-    },
-    {
-      "codigo": "559322-235-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de Fotografía y Cobertura — Congreso U Mining 2026",
-      "monto": 1071000,
-      "dias": 2,
-      "cierre": "2026-09-04",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "5683-37-COT26",
-      "org": "Ministerio de Vivienda y Urbanismo",
-      "titulo": "Servicio de ejecución de obras de optimización espacial para la habilitación de comedor y adecuación interior de oficinas SEREMI MINVU Región de Los Ríos",
-      "monto": 6500000,
-      "dias": 1,
-      "cierre": "2026-09-03",
-      "keyword": "ESPACIAL",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "5956-103-COT26",
-      "org": "UNIVERSIDAD DE ATACAMA",
-      "titulo": "ADQUISICIÓN CARTOGRAFIA DE MEMORIAL Y LIENZO DE CARRERAS PARA FACULTAD DE HUMANIDADES Y EDUCACIÓN",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-09-01",
-      "keyword": "CARTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "5517-373-COT26",
@@ -140,17 +88,17 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2658-1102-COT26",
-      "org": "I MUNICIPALIDAD DE ANCUD",
-      "titulo": "MARCOS FOTOGRAFICOS Y OTROS",
-      "monto": 450000,
-      "dias": 0,
-      "cierre": "2026-09-01",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
+      "codigo": "4355-839-COT26",
+      "org": "I MUNICIPALIDAD DE FREIRINA",
+      "titulo": "ACCESORIOS DE FOTOGRAFIA, OFICINA CULTURA Y PATRIMONIO",
+      "monto": 1769850,
+      "dias": 4,
+      "cierre": "2026-09-06",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 3,
+      "region": "Región de Atacama ",
       "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 48
     },
     {
       "codigo": "5060-744-COT26",
