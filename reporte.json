@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-02T19:11+00:00",
+  "generado": "2026-09-02T22:16+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -62,6 +62,32 @@
       "probabilidad": 67
     },
     {
+      "codigo": "1431841-1014-COT26",
+      "org": "MUNICIPALIDAD DE RECOLETA",
+      "titulo": "MUNICIPALIDAD-COMUNICACIONES- 1 CAMARA AEREA DRONE, DEMAS DETALLES EN DOCUMENTO ADJUNTO-fcarvajal@recoleta.cl ",
+      "monto": 730000,
+      "dias": 4,
+      "cierre": "2026-09-07",
+      "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
+      "codigo": "1696-49-COT26",
+      "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+      "titulo": "Desratización y control trimestral de roedores para sitio ubicado en calle San Marcos 680, Arica.",
+      "monto": 550000,
+      "dias": 4,
+      "cierre": "2026-09-07",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
       "codigo": "553368-74-COT26",
       "org": "UNIVERSIDAD DE TARAPACA",
       "titulo": "SERVICIO DE FILMACION CON DRONE",
@@ -73,6 +99,19 @@
       "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 59
+    },
+    {
+      "codigo": "2710-427-COT26",
+      "org": "MUNICIPALIDAD DE OVALLE",
+      "titulo": "ELECTRODOS, SOLICITUD N°2054/2026, CENTRO DE REHABILITACIÓN (CCR), DIRECCIÓN CESFAM MARCOS MACUADA OGALDE.",
+      "monto": 517650,
+      "dias": 1,
+      "cierre": "2026-09-04",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
     },
     {
       "codigo": "2710-426-COT26",
@@ -153,6 +192,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1134432-643-COT26",
+      "org": "I MUNICIPALIDAD DE PUCHUNCAVI",
+      "titulo": "ADQUISICIÓN DE 1 PASAJE  AÉREO   VUELO INTERNACIONAL ARGENTINA (BUENOS AIRES)",
+      "monto": 550000,
+      "dias": 0,
+      "cierre": "2026-09-03",
+      "keyword": "VUELO",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2341-436-COT26",
       "org": "I MUNICIPALIDAD DE SAN BERNARDO",
       "titulo": "ADQUISICION DE MARCOS DE MADERA / SP 71 DAF- DEPTO ADMINISTRATIVO / ADQ 524",
@@ -192,17 +244,30 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1214102-1106-COT26",
-      "org": "CORP MUNICIPAL DE DESARROLLO SOCIAL DE PUDAHUEL",
-      "titulo": "(RML) LIBRO Y MAPAS",
-      "monto": 220000,
+      "codigo": "4737-36-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "ADQUISICIÒN DE DICCIONARIOS Y MAPAS,  MATERIAL DE APOYO PARA LOS ESTUDIANTES  DEL LICEO MUNICIPAL DE CODEGUA",
+      "monto": 1500000,
       "dias": 0,
-      "cierre": "2026-09-02",
+      "cierre": "2026-09-03",
       "keyword": "MAPAS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "ofertas_actuales": 1,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
-      "probabilidad": 45
+      "probabilidad": 50
+    },
+    {
+      "codigo": "4355-839-COT26",
+      "org": "I MUNICIPALIDAD DE FREIRINA",
+      "titulo": "ACCESORIOS DE FOTOGRAFIA, OFICINA CULTURA Y PATRIMONIO",
+      "monto": 1769850,
+      "dias": 3,
+      "cierre": "2026-09-06",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 3,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 46
     },
     {
       "codigo": "2332-751-COT26",
