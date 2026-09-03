@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-02T22:16+00:00",
+  "generado": "2026-09-03T00:56+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -47,19 +47,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 71
-    },
-    {
-      "codigo": "608897-99-COT26",
-      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
-      "titulo": "Servicio de fotografía profesional para la Ceremonia de Reconocimiento HuellaChile 2026 – Programa de Desarrollo Productivo Sostenible",
-      "monto": 690000,
-      "dias": 6,
-      "cierre": "2026-09-09",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 67
     },
     {
       "codigo": "1431841-1014-COT26",
@@ -153,19 +140,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "559322-235-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de Fotografía y Cobertura — Congreso U Mining 2026",
-      "monto": 1071000,
-      "dias": 1,
-      "cierre": "2026-09-04",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "2013-1247-COT26",
       "org": "UNIVERSIDAD ARTURO PRAT",
       "titulo": "Adquisición de Notebook de Alto Rendimiento para Ciencia de Datos y GIS",
@@ -227,19 +201,6 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "743848-23-COT26",
-      "org": "SEGUNDO TRIBUNAL AMBIENTAL",
-      "titulo": "Capacitación en fotografía y servicio.",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-09-03",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
