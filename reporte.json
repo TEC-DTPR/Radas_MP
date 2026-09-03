@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-03T02:07+00:00",
+  "generado": "2026-09-03T15:38+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,160 +36,43 @@
   "dias_atras": 7,
   "licitaciones": [
     {
-      "codigo": "5403-27-COT26",
-      "org": "COMISION NACIONAL DE ACREDITACION",
-      "titulo": "SERVICIO DE ELABORACIÓN Y MODELAMIENTO DEL MAPA DE PROCESOS INSTITUCIONAL  DE LA CNA EN BIZAGI MODELER",
-      "monto": 3600000,
-      "dias": 8,
-      "cierre": "2026-09-11",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 71
-    },
-    {
-      "codigo": "608897-99-COT26",
-      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
-      "titulo": "Servicio de fotografía profesional para la Ceremonia de Reconocimiento HuellaChile 2026 – Programa de Desarrollo Productivo Sostenible",
-      "monto": 690000,
-      "dias": 6,
-      "cierre": "2026-09-09",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 67
-    },
-    {
       "codigo": "1431841-1014-COT26",
       "org": "MUNICIPALIDAD DE RECOLETA",
       "titulo": "MUNICIPALIDAD-COMUNICACIONES- 1 CAMARA AEREA DRONE, DEMAS DETALLES EN DOCUMENTO ADJUNTO-fcarvajal@recoleta.cl ",
       "monto": 730000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-07",
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
     },
     {
       "codigo": "1696-49-COT26",
       "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
       "titulo": "Desratización y control trimestral de roedores para sitio ubicado en calle San Marcos 680, Arica.",
       "monto": 550000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-07",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Arica y Parinacota",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
     },
     {
       "codigo": "553368-74-COT26",
       "org": "UNIVERSIDAD DE TARAPACA",
       "titulo": "SERVICIO DE FILMACION CON DRONE",
       "monto": 1167000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-09-05",
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región de Arica y Parinacota",
       "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "2710-427-COT26",
-      "org": "MUNICIPALIDAD DE OVALLE",
-      "titulo": "ELECTRODOS, SOLICITUD N°2054/2026, CENTRO DE REHABILITACIÓN (CCR), DIRECCIÓN CESFAM MARCOS MACUADA OGALDE.",
-      "monto": 517650,
-      "dias": 1,
-      "cierre": "2026-09-04",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
       "probabilidad": 57
-    },
-    {
-      "codigo": "2710-426-COT26",
-      "org": "MUNICIPALIDAD DE OVALLE",
-      "titulo": "VITRINA PARA DIARIO MURAL, SOLICITUD N°2062/2026, CONVENIO MAIS CESFAM MARCOS MACUADA OGALDE.",
-      "monto": 642600,
-      "dias": 1,
-      "cierre": "2026-09-04",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2710-423-COT26",
-      "org": "MUNICIPALIDAD DE OVALLE",
-      "titulo": "NOTEBOOK, TABLET, SCANNER PORTÁTIL Y OTROS, NUEVOS. SOLICITUD N°2061/2026, CONVENIO MAIS CESFAM MARCOS MACUADA O.",
-      "monto": 2082500,
-      "dias": 1,
-      "cierre": "2026-09-04",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "3615-117-COT26",
-      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
-      "titulo": "SERVICIO DE COLACIONES PARA ESTUDIANTES DE LA ESCUELA DE SAN MARCOS - COMUNA COMBARBALÁ.",
-      "monto": 450000,
-      "dias": 1,
-      "cierre": "2026-09-04",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "559322-235-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de Fotografía y Cobertura — Congreso U Mining 2026",
-      "monto": 1071000,
-      "dias": 1,
-      "cierre": "2026-09-04",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2013-1247-COT26",
-      "org": "UNIVERSIDAD ARTURO PRAT",
-      "titulo": "Adquisición de Notebook de Alto Rendimiento para Ciencia de Datos y GIS",
-      "monto": 2100000,
-      "dias": 0,
-      "cierre": "2026-09-03",
-      "keyword": "GIS",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4085-381-COT26",
-      "org": "I MUNICIPALIDAD DE LONGAVI",
-      "titulo": "ADQUISICIÓN MAPA HAPTICO",
-      "monto": 3000000,
-      "dias": 0,
-      "cierre": "2026-09-03",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "1134432-643-COT26",
@@ -205,15 +88,41 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2341-436-COT26",
-      "org": "I MUNICIPALIDAD DE SAN BERNARDO",
-      "titulo": "ADQUISICION DE MARCOS DE MADERA / SP 71 DAF- DEPTO ADMINISTRATIVO / ADQ 524",
-      "monto": 790000,
+      "codigo": "2710-427-COT26",
+      "org": "MUNICIPALIDAD DE OVALLE",
+      "titulo": "ELECTRODOS, SOLICITUD N°2054/2026, CENTRO DE REHABILITACIÓN (CCR), DIRECCIÓN CESFAM MARCOS MACUADA OGALDE.",
+      "monto": 517650,
       "dias": 0,
-      "cierre": "2026-09-03",
+      "cierre": "2026-09-04",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2710-426-COT26",
+      "org": "MUNICIPALIDAD DE OVALLE",
+      "titulo": "VITRINA PARA DIARIO MURAL, SOLICITUD N°2062/2026, CONVENIO MAIS CESFAM MARCOS MACUADA OGALDE.",
+      "monto": 642600,
+      "dias": 0,
+      "cierre": "2026-09-04",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2710-423-COT26",
+      "org": "MUNICIPALIDAD DE OVALLE",
+      "titulo": "NOTEBOOK, TABLET, SCANNER PORTÁTIL Y OTROS, NUEVOS. SOLICITUD N°2061/2026, CONVENIO MAIS CESFAM MARCOS MACUADA O.",
+      "monto": 2082500,
+      "dias": 0,
+      "cierre": "2026-09-04",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -231,17 +140,17 @@
       "probabilidad": 55
     },
     {
-      "codigo": "743848-23-COT26",
-      "org": "SEGUNDO TRIBUNAL AMBIENTAL",
-      "titulo": "Capacitación en fotografía y servicio.",
-      "monto": 500000,
+      "codigo": "4085-381-COT26",
+      "org": "I MUNICIPALIDAD DE LONGAVI",
+      "titulo": "ADQUISICIÓN MAPA HAPTICO",
+      "monto": 3000000,
       "dias": 0,
-      "cierre": "2026-09-03",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "cierre": "2026-09-04",
+      "keyword": "MAPA",
+      "ofertas_actuales": 1,
+      "region": "Región del Maule ",
       "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 50
     },
     {
       "codigo": "4737-36-COT26",
@@ -257,17 +166,17 @@
       "probabilidad": 50
     },
     {
-      "codigo": "4355-839-COT26",
-      "org": "I MUNICIPALIDAD DE FREIRINA",
-      "titulo": "ACCESORIOS DE FOTOGRAFIA, OFICINA CULTURA Y PATRIMONIO",
-      "monto": 1769850,
-      "dias": 3,
-      "cierre": "2026-09-06",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 3,
-      "region": "Región de Atacama ",
+      "codigo": "3734-501-COT26",
+      "org": "I MUNICIPALIDAD DE LAJA",
+      "titulo": "ADQ MARCOS DE DIPLOMA",
+      "monto": 295000,
+      "dias": 1,
+      "cierre": "2026-09-05",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
-      "probabilidad": 46
+      "probabilidad": 47
     },
     {
       "codigo": "2332-751-COT26",
@@ -322,43 +231,17 @@
       "probabilidad": 45
     },
     {
-      "codigo": "1515304-213-COT26",
-      "org": "Carabineros de Chile",
-      "titulo": "ADQUISICIÓN DE MARCOS DE FOTOGRAFÍA, PARA EL DEPARTAMENTO DE APOYO A LAS OPERACIONES POLICIALES DE LA ZOFSECAR. ",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-09-03",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "3200-329-COT26",
       "org": "I MUNICIPALIDAD DE LONCOCHE",
       "titulo": "ADQUISICIÓN DE IMPRESIÓN DE MAPA DEL TERRITORIO DE LA PAZ EN MATERIAL DE PVC. ",
       "monto": 100000,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-09-04",
       "keyword": "MAPA",
       "ofertas_actuales": 1,
       "region": "Región de la Araucanía ",
       "momento": "am",
-      "probabilidad": 42
-    },
-    {
-      "codigo": "4355-841-COT26",
-      "org": "I MUNICIPALIDAD DE FREIRINA",
-      "titulo": "MARCOS, OFICINA CULTURA Y PATRIMINIO",
-      "monto": 446000,
-      "dias": 3,
-      "cierre": "2026-09-06",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 4,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 41
+      "probabilidad": 40
     }
   ]
 }
