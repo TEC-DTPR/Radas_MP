@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-03T15:38+00:00",
+  "generado": "2026-09-03T19:04+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -75,6 +75,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "1232565-199-COT26",
+      "org": "UNIVERSIDAD DE LA SERENA",
+      "titulo": "Drone, Accesorios y Capacitación, ULS 2495 ",
+      "monto": 7164900,
+      "dias": 0,
+      "cierre": "2026-09-04",
+      "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "1134432-643-COT26",
       "org": "I MUNICIPALIDAD DE PUCHUNCAVI",
       "titulo": "ADQUISICIÓN DE 1 PASAJE  AÉREO   VUELO INTERNACIONAL ARGENTINA (BUENOS AIRES)",
@@ -127,19 +140,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1233623-586-COT26",
-      "org": "Servicio Local de Educación Pública Licancabur",
-      "titulo": "SLEP LICANCABUR REQUIERE LA COMPRA DE MEDALLAS Y MARCOS PARA ESCUELA SAN FRANCISCO G-52 CHIU CHIU, COMUNA DE CALAMA",
-      "monto": 2000000,
-      "dias": 0,
-      "cierre": "2026-09-03",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "4085-381-COT26",
       "org": "I MUNICIPALIDAD DE LONGAVI",
       "titulo": "ADQUISICIÓN MAPA HAPTICO",
@@ -179,19 +179,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "2332-751-COT26",
-      "org": "I MUNICIPALIDAD DE PUERTO MONTT",
-      "titulo": "7874 SE REQUIERE LA ADQUISICION DE ACRILICOS POSTA MAPAS DE ACTIVOS COMUNITARIOS PARA ESTABLECIMIENTOS DESAM PUERTO MONTT",
-      "monto": 160000,
-      "dias": 0,
-      "cierre": "2026-09-03",
-      "keyword": "MAPAS",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "5060-744-COT26",
       "org": "I MUNICIPALIDAD DE TEMUCO",
       "titulo": "S447-SEP. ADQ. DE MAPAS Y MATERIALES DIDÁCTICOS MAPUCHES PARA ESC.SANTA ROSA CON FONDOS SEP. ",
@@ -201,6 +188,19 @@
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2904-233-COT26",
+      "org": "I MUNICIPALIDAD DE HUALAIHUE",
+      "titulo": "Adquisición de Marcos de Madera – Oficina Organizaciones Comunitarias",
+      "monto": 279300,
+      "dias": 0,
+      "cierre": "2026-09-04",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 45
     },
@@ -218,30 +218,17 @@
       "probabilidad": 45
     },
     {
-      "codigo": "3869-707-COT26",
-      "org": "I MUNICIPALIDAD DE GORBEA",
-      "titulo": "MARCOS PARA DIPLOMA",
-      "monto": 29275,
-      "dias": 0,
-      "cierre": "2026-09-03",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "3200-329-COT26",
-      "org": "I MUNICIPALIDAD DE LONCOCHE",
-      "titulo": "ADQUISICIÓN DE IMPRESIÓN DE MAPA DEL TERRITORIO DE LA PAZ EN MATERIAL DE PVC. ",
-      "monto": 100000,
+      "codigo": "1214102-1106-COT26",
+      "org": "CORP MUNICIPAL DE DESARROLLO SOCIAL DE PUDAHUEL",
+      "titulo": "(RML) LIBRO Y MAPAS",
+      "monto": 220000,
       "dias": 0,
       "cierre": "2026-09-04",
-      "keyword": "MAPA",
-      "ofertas_actuales": 1,
-      "region": "Región de la Araucanía ",
+      "keyword": "MAPAS",
+      "ofertas_actuales": 2,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 40
+      "probabilidad": 35
     }
   ]
 }
