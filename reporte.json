@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-04T18:46+00:00",
+  "generado": "2026-09-04T21:12+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,6 +35,19 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "667-29-COT26",
+      "org": "SEREMI Bienes Nacionales III Región",
+      "titulo": "ADQUISICION DE INSUMOS PARA CATASTRO",
+      "monto": 2300000,
+      "dias": 4,
+      "cierre": "2026-09-09",
+      "keyword": "CATASTRO",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 63
+    },
     {
       "codigo": "608897-99-COT26",
       "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
@@ -88,6 +101,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "3597-728-COT26",
+      "org": "I MUNICIPALIDAD DE VICUNA",
+      "titulo": "ADQUISICION DE BATERIA EXTRA PARA DRONE",
+      "monto": 300000,
+      "dias": 2,
+      "cierre": "2026-09-07",
+      "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "1431841-1014-COT26",
       "org": "MUNICIPALIDAD DE RECOLETA",
       "titulo": "MUNICIPALIDAD-COMUNICACIONES- 1 CAMARA AEREA DRONE, DEMAS DETALLES EN DOCUMENTO ADJUNTO-fcarvajal@recoleta.cl ",
@@ -127,32 +153,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "5403-28-COT26",
-      "org": "COMISION NACIONAL DE ACREDITACION",
-      "titulo": "SERVICIO DE ELABORACIÓN Y MODELAMIENTO DEL MAPA DE PROCESOS INSTITUCIONAL  DE LA CNA EN BIZAGI MODELER",
-      "monto": 3600000,
-      "dias": 0,
-      "cierre": "2026-09-04",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1232565-199-COT26",
-      "org": "UNIVERSIDAD DE LA SERENA",
-      "titulo": "Drone, Accesorios y Capacitación, ULS 2495 ",
-      "monto": 7164900,
-      "dias": 0,
-      "cierre": "2026-09-04",
-      "keyword": "DRONE",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "553368-74-COT26",
       "org": "UNIVERSIDAD DE TARAPACA",
       "titulo": "SERVICIO DE FILMACION CON DRONE",
@@ -177,6 +177,19 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "3869-707-COT26",
+      "org": "I MUNICIPALIDAD DE GORBEA",
+      "titulo": "MARCOS PARA DIPLOMA",
+      "monto": 29275,
+      "dias": 2,
+      "cierre": "2026-09-07",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 1,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 44
     },
     {
       "codigo": "4609-224-COT26",
