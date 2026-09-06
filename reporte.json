@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-06T17:27+00:00",
+  "generado": "2026-09-06T19:52+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -164,19 +164,6 @@
       "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 40
-    },
-    {
-      "codigo": "5060-744-COT26",
-      "org": "I MUNICIPALIDAD DE TEMUCO",
-      "titulo": "S447-SEP. ADQ. DE MAPAS Y MATERIALES DIDÁCTICOS MAPUCHES PARA ESC.SANTA ROSA CON FONDOS SEP. ",
-      "monto": 222600,
-      "dias": 0,
-      "cierre": "2026-09-06",
-      "keyword": "MAPAS",
-      "ofertas_actuales": 4,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 25
     }
   ]
 }
