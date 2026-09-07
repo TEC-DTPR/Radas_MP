@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-07T17:02+00:00",
+  "generado": "2026-09-07T21:05+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,6 +35,19 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "3751-108-COT26",
+      "org": "I MUNICIPALIDAD DE PITRUFQUEN",
+      "titulo": "ADQUISICIÓN DE MARCOS DE MADERA PARA DIPLOMAS",
+      "monto": 4531699,
+      "dias": 3,
+      "cierre": "2026-09-11",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 61
+    },
     {
       "codigo": "4355-883-COT26",
       "org": "I MUNICIPALIDAD DE FREIRINA",
@@ -101,6 +114,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "2710-445-COT26",
+      "org": "MUNICIPALIDAD DE OVALLE",
+      "titulo": "INSUMOS DE LIBRERÍA, SOLICITUD N°2059/2026, CONVENIO MAIS DIRECCIÓN MARCOS MACUADA OGALDE.",
+      "monto": 879792,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "2101-257-COT26",
       "org": "HOSPITAL INTERCULTURAL KALLVU LLANKA.-",
       "titulo": "MARCOS PARA DIPLOMA",
@@ -110,19 +136,6 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "608897-99-COT26",
-      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
-      "titulo": "Servicio de fotografía profesional para la Ceremonia de Reconocimiento HuellaChile 2026 – Programa de Desarrollo Productivo Sostenible",
-      "monto": 690000,
-      "dias": 1,
-      "cierre": "2026-09-09",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -140,6 +153,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2731-1011-COT26",
+      "org": "I MUNICIPALIDAD DE PENAFLOR",
+      "titulo": "SC N°08-007_DIREC. SECRETARIA MUNICIPAL_ADQUISICIÓN DE MARCOS",
+      "monto": 714000,
+      "dias": 0,
+      "cierre": "2026-09-08",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "4525-388-COT26",
       "org": "MUNICIPALIDAD DE HUALPEN",
       "titulo": "LICENCIAS Y MARCOS PARA DIPLOMAS PARA CEREMINAS DE LICENCIATURAS, DAEM DE HUALPÉN",
@@ -149,6 +175,19 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2698-220-COT26",
+      "org": "I MUNICIPALIDAD DE CARTAGENA",
+      "titulo": "Servicio de conteo vehicular peatonal y medicion de demoras, segun terminos tecnicos de referencia adjuntos",
+      "monto": 5000000,
+      "dias": 0,
+      "cierre": "2026-09-08",
+      "keyword": "CONTEO",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
