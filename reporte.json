@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-08T19:13+00:00",
+  "generado": "2026-09-08T22:17+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -231,19 +231,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2731-1011-COT26",
-      "org": "I MUNICIPALIDAD DE PENAFLOR",
-      "titulo": "SC N°08-007_DIREC. SECRETARIA MUNICIPAL_ADQUISICIÓN DE MARCOS",
-      "monto": 714000,
-      "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2710-445-COT26",
       "org": "MUNICIPALIDAD DE OVALLE",
       "titulo": "INSUMOS DE LIBRERÍA, SOLICITUD N°2059/2026, CONVENIO MAIS DIRECCIÓN MARCOS MACUADA OGALDE.",
@@ -266,19 +253,6 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2698-220-COT26",
-      "org": "I MUNICIPALIDAD DE CARTAGENA",
-      "titulo": "Servicio de conteo vehicular peatonal y medicion de demoras, segun terminos tecnicos de referencia adjuntos",
-      "monto": 5000000,
-      "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "CONTEO",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -307,6 +281,19 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 52
+    },
+    {
+      "codigo": "1956-26-COT26",
+      "org": "Departamento Provincial de Educación Cordillera",
+      "titulo": "COMPRA DE MARCOS DE MADERA PARA JORNADA DE RECONOCIMIENTO BOOKTUBERS 2026 DEPROV CORDILLERA",
+      "monto": 50000,
+      "dias": 1,
+      "cierre": "2026-09-10",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 47
     },
     {
       "codigo": "701-93-COT26",
