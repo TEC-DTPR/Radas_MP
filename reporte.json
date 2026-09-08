@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-08T15:50+00:00",
+  "generado": "2026-09-08T19:13+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -62,6 +62,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "5517-403-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "SOL.725  Compra de Materiales de oficina y Arte especializados para centro extensional Museo Arte Popular Americano ( MAPA) ",
+      "monto": 700000,
+      "dias": 1,
+      "cierre": "2026-09-10",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "728-57-COT26",
       "org": "INSTITUTO NACIONAL DE HIDRAULICA",
       "titulo": "Seguro para Drone",
@@ -71,6 +84,32 @@
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "3615-129-COT26",
+      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
+      "titulo": "SERVICIO DE COLACIONES PARA ESTUDIANTES DE LA ESCUELA DE SAN MARCOS - COMUNA COMBARBALÁ.",
+      "monto": 600000,
+      "dias": 1,
+      "cierre": "2026-09-10",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "3615-128-COT26",
+      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
+      "titulo": "INSTRUMENTOS DE BANDA DE GUERRA PARA ESC. DE SAN MARCOS - COMBARBALÁ",
+      "monto": 550000,
+      "dias": 1,
+      "cierre": "2026-09-10",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -123,6 +162,19 @@
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2030-41-COT26",
+      "org": "Departamento Provincial de Educación Limari",
+      "titulo": "Compra mapas y cajas organizadoras (tipo baúl). Insumos oficio de garzón",
+      "monto": 130000,
+      "dias": 5,
+      "cierre": "2026-09-14",
+      "keyword": "MAPAS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -257,6 +309,19 @@
       "probabilidad": 52
     },
     {
+      "codigo": "701-93-COT26",
+      "org": "SERV NACIONAL DE PESCA",
+      "titulo": "MARCOS FOTOGRAFICOS SERNAPESCA",
+      "monto": 200000,
+      "dias": 1,
+      "cierre": "2026-09-10",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
       "codigo": "4525-388-COT26",
       "org": "MUNICIPALIDAD DE HUALPEN",
       "titulo": "LICENCIAS Y MARCOS PARA DIPLOMAS PARA CEREMINAS DE LICENCIATURAS, DAEM DE HUALPÉN",
@@ -281,6 +346,19 @@
       "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "5403-28-COT26",
+      "org": "COMISION NACIONAL DE ACREDITACION",
+      "titulo": "SERVICIO DE ELABORACIÓN Y MODELAMIENTO DEL MAPA DE PROCESOS INSTITUCIONAL  DE LA CNA EN BIZAGI MODELER",
+      "monto": 3600000,
+      "dias": 0,
+      "cierre": "2026-09-09",
+      "keyword": "MAPA",
+      "ofertas_actuales": 3,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 40
     }
   ]
 }
