@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-09T19:01+00:00",
+  "generado": "2026-09-09T21:35+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -60,6 +60,19 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 63
+    },
+    {
+      "codigo": "5423-157-COT26",
+      "org": "UNIVERSIDAD DE LOS LAGOS",
+      "titulo": "Cartografía y Documentación Náutica para apoyo a la navegación marítima.",
+      "monto": 595000,
+      "dias": 1,
+      "cierre": "2026-09-11",
+      "keyword": "CARTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 57
     },
     {
       "codigo": "553368-83-COT26",
@@ -166,6 +179,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "4355-883-COT26",
+      "org": "I MUNICIPALIDAD DE FREIRINA",
+      "titulo": "ACCESORIOS DE FOTOGRAFIA, OFICINA CULTURA Y PATRIMONIO",
+      "monto": 1769850,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2030-41-COT26",
       "org": "Departamento Provincial de Educación Limari",
       "titulo": "Compra mapas y cajas organizadoras (tipo baúl). Insumos oficio de garzón",
@@ -190,6 +216,32 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 50
+    },
+    {
+      "codigo": "4922-347-COT26",
+      "org": "I MUNICIPALIDAD DE FUTRONO",
+      "titulo": "MARCOS DE FOTO OFICINA PATRIMONIO",
+      "monto": 200000,
+      "dias": 1,
+      "cierre": "2026-09-11",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "557639-2517-COT26",
+      "org": "CORP MUNICIPAL DE SERVICIOS PUBLICOS TRASPASADOS DE RANCAGUA",
+      "titulo": "MARCO PARA MAPAS TERRITORIALES MAISFC (13048) SALUD",
+      "monto": 120000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "MAPAS",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 45
     },
     {
       "codigo": "3017-747-COT26",
@@ -242,19 +294,6 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 44
-    },
-    {
-      "codigo": "5403-28-COT26",
-      "org": "COMISION NACIONAL DE ACREDITACION",
-      "titulo": "SERVICIO DE ELABORACIÓN Y MODELAMIENTO DEL MAPA DE PROCESOS INSTITUCIONAL  DE LA CNA EN BIZAGI MODELER",
-      "monto": 3600000,
-      "dias": 0,
-      "cierre": "2026-09-09",
-      "keyword": "MAPA",
-      "ofertas_actuales": 3,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 40
     }
   ]
 }
