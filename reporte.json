@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-10T18:54+00:00",
+  "generado": "2026-09-10T21:21+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,6 +35,19 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "1075956-124-COT26",
+      "org": "DEPARTAMENTO CONTROL FINANCIERO",
+      "titulo": "ADQUISICIÓN DE LETRERO INSTITUCIONAL Y MARCO PARA FOTOGRAFÍA - SEGÚN TÉRMINOS DE REFERENCIA ADJUNTOS - ANEXO N° 1 DECLARACIÓN PROGRAMA INTEGRIDAD \"OBLIGATORIO\" - PRESUPUESTO DISPONIBLE $ 530.000.-",
+      "monto": 530000,
+      "dias": 5,
+      "cierre": "2026-09-16",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 65
+    },
     {
       "codigo": "780724-71-COT26",
       "org": "ILUSTRE TERCER TRIBUNAL AMBIENTAL",
@@ -127,19 +140,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3615-129-COT26",
-      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
-      "titulo": "SERVICIO DE COLACIONES PARA ESTUDIANTES DE LA ESCUELA DE SAN MARCOS - COMUNA COMBARBALÁ.",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-09-10",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3751-108-COT26",
       "org": "I MUNICIPALIDAD DE PITRUFQUEN",
       "titulo": "ADQUISICIÓN DE MARCOS DE MADERA PARA DIPLOMAS",
@@ -149,6 +149,32 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1480129-26-COT26",
+      "org": "MUNICIPALIDAD DE VITACURA",
+      "titulo": "PTR N° 484 / 1480129-26-COT26 /SUMINISTRO/WEBCAM PARA CAPTURA DIGITAL (FOTOGRAFIA) SEGUN BASES.",
+      "monto": 600000,
+      "dias": 0,
+      "cierre": "2026-09-11",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3986-321-COT26",
+      "org": "MUNICIPALIDAD DE CORRAL",
+      "titulo": "“ADQUISICIÓN CUADROS PARA FOTOGRAFÍA”",
+      "monto": 600000,
+      "dias": 0,
+      "cierre": "2026-09-11",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 55
     },
@@ -179,15 +205,15 @@
       "probabilidad": 47
     },
     {
-      "codigo": "557639-2517-COT26",
-      "org": "CORP MUNICIPAL DE SERVICIOS PUBLICOS TRASPASADOS DE RANCAGUA",
-      "titulo": "MARCO PARA MAPAS TERRITORIALES MAISFC (13048) SALUD",
-      "monto": 120000,
+      "codigo": "1171142-2141-COT26",
+      "org": "HOSPITAL COMPLEJO ASISTENCIAL PADRE LAS CASAS",
+      "titulo": "MARCOS DE MADERA PARA DIPLOMAS (MEL)",
+      "monto": 126000,
       "dias": 0,
-      "cierre": "2026-09-10",
-      "keyword": "MAPAS",
+      "cierre": "2026-09-11",
+      "keyword": "MARCOS",
       "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 45
     },
