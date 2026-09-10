@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-09T23:46+00:00",
+  "generado": "2026-09-10T02:10+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -101,19 +101,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "3986-321-COT26",
-      "org": "MUNICIPALIDAD DE CORRAL",
-      "titulo": "“ADQUISICIÓN CUADROS PARA FOTOGRAFÍA”",
-      "monto": 600000,
-      "dias": 1,
-      "cierre": "2026-09-11",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "5517-403-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "SOL.725  Compra de Materiales de oficina y Arte especializados para centro extensional Museo Arte Popular Americano ( MAPA) ",
@@ -201,19 +188,6 @@
       "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1469-2923-COT26",
-      "org": "UNIVERSIDAD DE TALCA",
-      "titulo": "2000043661 Servicio de Fotografía",
-      "monto": 2500000,
-      "dias": 0,
-      "cierre": "2026-09-10",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
