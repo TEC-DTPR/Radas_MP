@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-10T15:40+00:00",
+  "generado": "2026-09-10T18:54+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -101,19 +101,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "728-57-COT26",
-      "org": "INSTITUTO NACIONAL DE HIDRAULICA",
-      "titulo": "Seguro para Drone",
-      "monto": 440300,
-      "dias": 0,
-      "cierre": "2026-09-10",
-      "keyword": "DRONE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2453-458-COT26",
       "org": "ILUSTRE MUNICIPALIDAD DE QUINTA NORMAL",
       "titulo": "PM 767 O/C N° 767 SERVICIO APLICACION FICHA CATASTRO DESARROLLO SOCIOURBANO. SECPLA",
@@ -132,7 +119,7 @@
       "titulo": "ADQUISICION DE MARCOS NECESARIOS PARA PROGRAMA PREVENCION DE LA VIOLENCIA DE GENERO",
       "monto": 310000,
       "dias": 0,
-      "cierre": "2026-09-10",
+      "cierre": "2026-09-11",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
@@ -216,6 +203,19 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "4355-883-COT26",
+      "org": "I MUNICIPALIDAD DE FREIRINA",
+      "titulo": "ACCESORIOS DE FOTOGRAFIA, OFICINA CULTURA Y PATRIMONIO",
+      "monto": 1769850,
+      "dias": 2,
+      "cierre": "2026-09-13",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 3,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 44
     },
     {
       "codigo": "4525-388-COT26",
