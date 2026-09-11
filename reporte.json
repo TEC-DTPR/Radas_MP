@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-11T02:07+00:00",
+  "generado": "2026-09-11T15:42+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,78 +36,65 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "1239966-450-COT26",
+      "org": "CORPORACION DE EDUCACION, SALUD Y MENORES DE PUERT",
+      "titulo": "MAPA Meditech ABPM-06, Holter de Presión Arterial o similar  características ",
+      "monto": 2800000,
+      "dias": 3,
+      "cierre": "2026-09-14",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región de Magallanes y de la Antártica",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "780724-71-COT26",
       "org": "ILUSTRE TERCER TRIBUNAL AMBIENTAL",
       "titulo": "CONTRATACIÓN PÓLIZA SEGURO DRONE PARA EL TERCER TRIBUNAL AMBIENTAL",
       "monto": 400000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-09-14",
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
       "momento": "am",
-      "probabilidad": 61
+      "probabilidad": 59
     },
     {
       "codigo": "744835-555-COT26",
       "org": "I MUNICIPALIDAD DE LO ESPEJO",
       "titulo": "MARCOS DE FOTOS - GALVANOS ",
       "monto": 700000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-09-14",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 61
-    },
-    {
-      "codigo": "5517-403-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "SOL.725  Compra de Materiales de oficina y Arte especializados para centro extensional Museo Arte Popular Americano ( MAPA) ",
-      "monto": 700000,
-      "dias": 1,
-      "cierre": "2026-09-12",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
+      "probabilidad": 59
     },
     {
       "codigo": "5423-157-COT26",
       "org": "UNIVERSIDAD DE LOS LAGOS",
       "titulo": "Cartografía y Documentación Náutica para apoyo a la navegación marítima.",
       "monto": 595000,
-      "dias": 0,
-      "cierre": "2026-09-11",
+      "dias": 1,
+      "cierre": "2026-09-12",
       "keyword": "CARTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
       "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 57
     },
     {
-      "codigo": "553368-83-COT26",
-      "org": "UNIVERSIDAD DE TARAPACA",
-      "titulo": "SERVICIO DE FILMACION CON DRONE",
-      "monto": 1170000,
+      "codigo": "5517-403-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "SOL.725  Compra de Materiales de oficina y Arte especializados para centro extensional Museo Arte Popular Americano ( MAPA) ",
+      "monto": 700000,
       "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "DRONE",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2453-458-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE QUINTA NORMAL",
-      "titulo": "PM 767 O/C N° 767 SERVICIO APLICACION FICHA CATASTRO DESARROLLO SOCIOURBANO. SECPLA",
-      "monto": 7000000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "CATASTRO",
+      "cierre": "2026-09-12",
+      "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
@@ -127,56 +114,17 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3751-108-COT26",
-      "org": "I MUNICIPALIDAD DE PITRUFQUEN",
-      "titulo": "ADQUISICIÓN DE MARCOS DE MADERA PARA DIPLOMAS",
-      "monto": 4531699,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1480129-26-COT26",
-      "org": "MUNICIPALIDAD DE VITACURA",
-      "titulo": "PTR N° 484 / 1480129-26-COT26 /SUMINISTRO/WEBCAM PARA CAPTURA DIGITAL (FOTOGRAFIA) SEGUN BASES.",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2030-41-COT26",
       "org": "Departamento Provincial de Educación Limari",
       "titulo": "Compra mapas y cajas organizadoras (tipo baúl). Insumos oficio de garzón",
       "monto": 130000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-09-14",
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
       "momento": "am",
-      "probabilidad": 51
-    },
-    {
-      "codigo": "2733-467-COT26",
-      "org": "I MUNICIPALIDAD DE PENAFLOR",
-      "titulo": "SC 42358 / SERVICIO DE TOMA DE FOTOGRAFIA MAS CUADRO DE GRADUACIÓN, SOLICITADO POR ESCUELA PELVIN SAN FRANCISCO DE ASIS.",
-      "monto": 144000,
-      "dias": 1,
-      "cierre": "2026-09-12",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 47
+      "probabilidad": 49
     },
     {
       "codigo": "1171142-2141-COT26",
@@ -190,45 +138,6 @@
       "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 45
-    },
-    {
-      "codigo": "4922-347-COT26",
-      "org": "I MUNICIPALIDAD DE FUTRONO",
-      "titulo": "MARCOS DE FOTO OFICINA PATRIMONIO",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "4355-883-COT26",
-      "org": "I MUNICIPALIDAD DE FREIRINA",
-      "titulo": "ACCESORIOS DE FOTOGRAFIA, OFICINA CULTURA Y PATRIMONIO",
-      "monto": 1769850,
-      "dias": 2,
-      "cierre": "2026-09-13",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 3,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 44
-    },
-    {
-      "codigo": "4525-388-COT26",
-      "org": "MUNICIPALIDAD DE HUALPEN",
-      "titulo": "LICENCIAS Y MARCOS PARA DIPLOMAS PARA CEREMINAS DE LICENCIATURAS, DAEM DE HUALPÉN",
-      "monto": 736994,
-      "dias": 1,
-      "cierre": "2026-09-12",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 3,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 42
     }
   ]
 }
