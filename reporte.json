@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-11T15:42+00:00",
+  "generado": "2026-09-11T18:56+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -49,6 +49,58 @@
       "probabilidad": 61
     },
     {
+      "codigo": "3751-114-COT26",
+      "org": "I MUNICIPALIDAD DE PITRUFQUEN",
+      "titulo": "ADQUISICIÓN DE MARCOS DE DIPLOMAS",
+      "monto": 4531699,
+      "dias": 3,
+      "cierre": "2026-09-15",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "4525-405-COT26",
+      "org": "MUNICIPALIDAD DE HUALPEN",
+      "titulo": "ADQUISICIÓN DE GALVANOS, MEDALLAS Y MARCOS PARA DIPLOMAS, ESTABLECIMIENTOS EDUCACIONALES DE LA COMUNA DE HUALPÉN",
+      "monto": 3040148,
+      "dias": 3,
+      "cierre": "2026-09-15",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "5056-99-COT26",
+      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE TALCA",
+      "titulo": "SERVICIO TOMA DE FOTOGRAFIA",
+      "monto": 650000,
+      "dias": 3,
+      "cierre": "2026-09-15",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "3834-180-COT26",
+      "org": "I MUNICIPALIDAD DE MEJILLONES",
+      "titulo": "SERICIO DE MANTENCION DE HARDWARE Y SOFTWARE DE DRONE ",
+      "monto": 900000,
+      "dias": 2,
+      "cierre": "2026-09-14",
+      "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "780724-71-COT26",
       "org": "ILUSTRE TERCER TRIBUNAL AMBIENTAL",
       "titulo": "CONTRATACIÓN PÓLIZA SEGURO DRONE PARA EL TERCER TRIBUNAL AMBIENTAL",
@@ -69,6 +121,19 @@
       "dias": 2,
       "cierre": "2026-09-14",
       "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1393495-804-COT26",
+      "org": "Educación",
+      "titulo": "SC-56496/9864-7/SEP/ADQ. CUADRO DE FOTOGRAFIA/HRR",
+      "monto": 1100000,
+      "dias": 2,
+      "cierre": "2026-09-14",
+      "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
@@ -101,15 +166,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2436-1361-COT26",
-      "org": "I MUNICIPALIDAD DE CURICO",
-      "titulo": "ADQUISICION DE MARCOS NECESARIOS PARA PROGRAMA PREVENCION DE LA VIOLENCIA DE GENERO",
-      "monto": 310000,
+      "codigo": "1480129-26-COT26",
+      "org": "MUNICIPALIDAD DE VITACURA",
+      "titulo": "PTR N° 484 / 1480129-26-COT26 /SUMINISTRO/WEBCAM PARA CAPTURA DIGITAL (FOTOGRAFIA) SEGUN BASES.",
+      "monto": 600000,
       "dias": 0,
       "cierre": "2026-09-11",
-      "keyword": "MARCOS",
+      "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
-      "region": "Región del Maule ",
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -127,6 +192,32 @@
       "probabilidad": 49
     },
     {
+      "codigo": "1233619-608-COT26",
+      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA MAULE COSTA",
+      "titulo": "Adquisición de Marcos de Diplomas y Audífonos para el Liceo Politécnico Pedro Aguirre Cerda y Liceo Bicentenario de Putú",
+      "monto": 272970,
+      "dias": 2,
+      "cierre": "2026-09-14",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
+      "codigo": "4922-359-COT26",
+      "org": "I MUNICIPALIDAD DE FUTRONO",
+      "titulo": "MATERIALES DE LIBRERIA TALLER DE FOTOGRAFIA - PGM 2026",
+      "monto": 189180,
+      "dias": 2,
+      "cierre": "2026-09-14",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
       "codigo": "1171142-2141-COT26",
       "org": "HOSPITAL COMPLEJO ASISTENCIAL PADRE LAS CASAS",
       "titulo": "MARCOS DE MADERA PARA DIPLOMAS (MEL)",
@@ -138,6 +229,32 @@
       "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "2733-467-COT26",
+      "org": "I MUNICIPALIDAD DE PENAFLOR",
+      "titulo": "SC 42358 / SERVICIO DE TOMA DE FOTOGRAFIA MAS CUADRO DE GRADUACIÓN, SOLICITADO POR ESCUELA PELVIN SAN FRANCISCO DE ASIS.",
+      "monto": 144000,
+      "dias": 0,
+      "cierre": "2026-09-12",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4355-883-COT26",
+      "org": "I MUNICIPALIDAD DE FREIRINA",
+      "titulo": "ACCESORIOS DE FOTOGRAFIA, OFICINA CULTURA Y PATRIMONIO",
+      "monto": 1769850,
+      "dias": 1,
+      "cierre": "2026-09-13",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 3,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 42
     }
   ]
 }
