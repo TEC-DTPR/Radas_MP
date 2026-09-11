@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-11T18:56+00:00",
+  "generado": "2026-09-11T21:31+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,19 +35,6 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
-    {
-      "codigo": "1239966-450-COT26",
-      "org": "CORPORACION DE EDUCACION, SALUD Y MENORES DE PUERT",
-      "titulo": "MAPA Meditech ABPM-06, Holter de Presión Arterial o similar  características ",
-      "monto": 2800000,
-      "dias": 3,
-      "cierre": "2026-09-14",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 61
-    },
     {
       "codigo": "3751-114-COT26",
       "org": "I MUNICIPALIDAD DE PITRUFQUEN",
@@ -86,6 +73,19 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 61
+    },
+    {
+      "codigo": "1239966-450-COT26",
+      "org": "CORPORACION DE EDUCACION, SALUD Y MENORES DE PUERT",
+      "titulo": "MAPA Meditech ABPM-06, Holter de Presión Arterial o similar  características ",
+      "monto": 2800000,
+      "dias": 2,
+      "cierre": "2026-09-14",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región de Magallanes y de la Antártica",
+      "momento": "am",
+      "probabilidad": 59
     },
     {
       "codigo": "3834-180-COT26",
@@ -166,19 +166,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1480129-26-COT26",
-      "org": "MUNICIPALIDAD DE VITACURA",
-      "titulo": "PTR N° 484 / 1480129-26-COT26 /SUMINISTRO/WEBCAM PARA CAPTURA DIGITAL (FOTOGRAFIA) SEGUN BASES.",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2030-41-COT26",
       "org": "Departamento Provincial de Educación Limari",
       "titulo": "Compra mapas y cajas organizadoras (tipo baúl). Insumos oficio de garzón",
@@ -188,6 +175,19 @@
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
+      "codigo": "2594-706-COT26",
+      "org": "I MUNICIPALIDAD DE CONCON",
+      "titulo": "ADQUISICION MARCOS DE MADERA PARA DIPLOMAS TAMAÑO OFICIO. (OFICINA CULTURA).",
+      "monto": 120000,
+      "dias": 2,
+      "cierre": "2026-09-14",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 49
     },
@@ -216,19 +216,6 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 49
-    },
-    {
-      "codigo": "1171142-2141-COT26",
-      "org": "HOSPITAL COMPLEJO ASISTENCIAL PADRE LAS CASAS",
-      "titulo": "MARCOS DE MADERA PARA DIPLOMAS (MEL)",
-      "monto": 126000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "2733-467-COT26",
