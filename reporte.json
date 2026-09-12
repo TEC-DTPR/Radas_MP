@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-11T23:47+00:00",
+  "generado": "2026-09-12T02:12+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,32 +35,6 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
-    {
-      "codigo": "1107276-377-COT26",
-      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-      "titulo": "SISTEMA DE FLASH MACRO Y BOLSO FOTOGRÁFICO PARA FOTOGRAFÍA DE CAMPO",
-      "monto": 580000,
-      "dias": 4,
-      "cierre": "2026-09-16",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 63
-    },
-    {
-      "codigo": "1075956-124-COT26",
-      "org": "DEPARTAMENTO CONTROL FINANCIERO",
-      "titulo": "ADQUISICIÓN DE LETRERO INSTITUCIONAL Y MARCO PARA FOTOGRAFÍA - SEGÚN TÉRMINOS DE REFERENCIA ADJUNTOS - ANEXO N° 1 DECLARACIÓN PROGRAMA INTEGRIDAD \"OBLIGATORIO\" - PRESUPUESTO DISPONIBLE $ 530.000.-",
-      "monto": 530000,
-      "dias": 4,
-      "cierre": "2026-09-16",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 63
-    },
     {
       "codigo": "3751-114-COT26",
       "org": "I MUNICIPALIDAD DE PITRUFQUEN",
@@ -170,13 +144,13 @@
       "org": "UNIVERSIDAD DE LOS LAGOS",
       "titulo": "Cartografía y Documentación Náutica para apoyo a la navegación marítima.",
       "monto": 595000,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-09-12",
       "keyword": "CARTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
       "momento": "am",
-      "probabilidad": 57
+      "probabilidad": 55
     },
     {
       "codigo": "5517-403-COT26",
