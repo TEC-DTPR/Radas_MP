@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-12T14:48+00:00",
+  "generado": "2026-09-12T17:37+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,15 +36,28 @@
   "dias_atras": 7,
   "licitaciones": [
     {
-      "codigo": "4525-405-COT26",
-      "org": "MUNICIPALIDAD DE HUALPEN",
-      "titulo": "ADQUISICIÓN DE GALVANOS, MEDALLAS Y MARCOS PARA DIPLOMAS, ESTABLECIMIENTOS EDUCACIONALES DE LA COMUNA DE HUALPÉN",
-      "monto": 3040148,
+      "codigo": "1107276-377-COT26",
+      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+      "titulo": "SISTEMA DE FLASH MACRO Y BOLSO FOTOGRÁFICO PARA FOTOGRAFÍA DE CAMPO",
+      "monto": 580000,
       "dias": 3,
-      "cierre": "2026-09-15",
-      "keyword": "MARCOS",
+      "cierre": "2026-09-16",
+      "keyword": "FOTOGRAFÍA",
       "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "1075956-124-COT26",
+      "org": "DEPARTAMENTO CONTROL FINANCIERO",
+      "titulo": "ADQUISICIÓN DE LETRERO INSTITUCIONAL Y MARCO PARA FOTOGRAFÍA - SEGÚN TÉRMINOS DE REFERENCIA ADJUNTOS - ANEXO N° 1 DECLARACIÓN PROGRAMA INTEGRIDAD \"OBLIGATORIO\" - PRESUPUESTO DISPONIBLE $ 530.000.-",
+      "monto": 530000,
+      "dias": 3,
+      "cierre": "2026-09-16",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 61
     },
@@ -71,6 +84,19 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "4525-405-COT26",
+      "org": "MUNICIPALIDAD DE HUALPEN",
+      "titulo": "ADQUISICIÓN DE GALVANOS, MEDALLAS Y MARCOS PARA DIPLOMAS, ESTABLECIMIENTOS EDUCACIONALES DE LA COMUNA DE HUALPÉN",
+      "monto": 3040148,
+      "dias": 2,
+      "cierre": "2026-09-15",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 59
     },
