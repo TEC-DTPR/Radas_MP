@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-13T15:26+00:00",
+  "generado": "2026-09-13T18:28+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -242,19 +242,6 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
-    },
-    {
-      "codigo": "4355-883-COT26",
-      "org": "I MUNICIPALIDAD DE FREIRINA",
-      "titulo": "ACCESORIOS DE FOTOGRAFIA, OFICINA CULTURA Y PATRIMONIO",
-      "monto": 1769850,
-      "dias": 0,
-      "cierre": "2026-09-13",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 3,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 40
     }
   ]
 }
