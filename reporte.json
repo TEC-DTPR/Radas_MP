@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-15T16:04+00:00",
+  "generado": "2026-09-15T19:59+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,6 +36,19 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "4374-39-COT26",
+      "org": "GOBIERNO REGIONAL VI REGION DEL LI BERTADOR B O\"HIGGINS",
+      "titulo": "Se requiere los servicios de impresión de alta resolución y enmarcado para la fotografía oficial del Consejo Regional de O'Higgins, correspondiente al periodo 2025 - 2029, de acuerdo a archivo adjunto",
+      "monto": 451000,
+      "dias": 7,
+      "cierre": "2026-09-22",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 69
+    },
+    {
       "codigo": "4086-436-COT26",
       "org": "I MUNICIPALIDAD DE MAULLIN",
       "titulo": "SERVICIO DE DISEÑO Y EDICIÓN DE CARTOGRAFÍA ILUSTRADA",
@@ -62,6 +75,45 @@
       "probabilidad": 65
     },
     {
+      "codigo": "1219213-13-COT26",
+      "org": "Asociación para el desarrollo productivo del turismo Alto del Carmen",
+      "titulo": "Impresión de mapas a color",
+      "monto": 1050000,
+      "dias": 5,
+      "cierre": "2026-09-21",
+      "keyword": "MAPAS",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 65
+    },
+    {
+      "codigo": "4525-409-COT26",
+      "org": "MUNICIPALIDAD DE HUALPEN",
+      "titulo": "LICENCIAS Y MARCOS PARA DIPLOMAS PARA CEREMONIAS DE LICENCIATURAS, DAEM DE HUALPÉN",
+      "monto": 971186,
+      "dias": 5,
+      "cierre": "2026-09-21",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 65
+    },
+    {
+      "codigo": "2381-770-COT26",
+      "org": "I MUNICIPALIDAD DE COPIAPO",
+      "titulo": "ADQUISICION MEDALLAS Y MARCOS PARA DIPLOMAS PARA ACTIVIDADES DE LOS ADULTOS MAYORES",
+      "monto": 500000,
+      "dias": 5,
+      "cierre": "2026-09-21",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 65
+    },
+    {
       "codigo": "780724-71-COT26",
       "org": "ILUSTRE TERCER TRIBUNAL AMBIENTAL",
       "titulo": "CONTRATACIÓN PÓLIZA SEGURO DRONE PARA EL TERCER TRIBUNAL AMBIENTAL",
@@ -75,17 +127,17 @@
       "probabilidad": 61
     },
     {
-      "codigo": "29-62-COT26",
-      "org": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
-      "titulo": "JBP - ADQUISICIÓN DE VESTUARIO PARA AUXILIARES DE VUELO DE LA FUERZA AÉREA",
-      "monto": 2633946,
-      "dias": 0,
-      "cierre": "2026-09-15",
-      "keyword": "VUELO",
+      "codigo": "701426-312-COT26",
+      "org": "I MUNICIPALIDAD DE COLLIPULLI",
+      "titulo": "Adquisición de Marcos de certificados para entrega a usuarios del programa Fomento Productivo de la UDEL.",
+      "monto": 392700,
+      "dias": 1,
+      "cierre": "2026-09-17",
+      "keyword": "MARCOS",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región de la Araucanía ",
       "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 57
     },
     {
       "codigo": "885-754-COT26",
@@ -125,6 +177,97 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "2102-432-COT26",
+      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE LEBU",
+      "titulo": "MARCOS Y GALVANOS PARA BIENESTAR HSIL",
+      "monto": 1211658,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4494-549-COT26",
+      "org": "I MUNICIPALIDAD DE PENCO",
+      "titulo": "MARCOS DE MADERA PARA CUADRO (P-736) ",
+      "monto": 1000000,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5056-102-COT26",
+      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE TALCA",
+      "titulo": " SERVICIO TOMA DE FOTOGRAFIA",
+      "monto": 600000,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "856-52-COT26",
+      "org": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+      "titulo": "ADQUISICIÓN DE MARCO PARA FOTOGRAFÍA PRESIDENCIAL",
+      "monto": 1071000,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1107276-377-COT26",
+      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+      "titulo": "SISTEMA DE FLASH MACRO Y BOLSO FOTOGRÁFICO PARA FOTOGRAFÍA DE CAMPO",
+      "monto": 580000,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1075956-124-COT26",
+      "org": "DEPARTAMENTO CONTROL FINANCIERO",
+      "titulo": "ADQUISICIÓN DE LETRERO INSTITUCIONAL Y MARCO PARA FOTOGRAFÍA - SEGÚN TÉRMINOS DE REFERENCIA ADJUNTOS - ANEXO N° 1 DECLARACIÓN PROGRAMA INTEGRIDAD \"OBLIGATORIO\" - PRESUPUESTO DISPONIBLE $ 530.000.-",
+      "monto": 530000,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5349-465-COT26",
+      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
+      "titulo": "ADQUISICIÓN DE MARCOS DE FOTO Y CAJAS DE CARTÓN AUTOARMABLES PROGRAMA CHILE CRECE 2026",
+      "monto": 60750,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 45
     }
   ]
 }
