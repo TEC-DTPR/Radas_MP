@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-16T15:56+00:00",
+  "generado": "2026-09-16T19:18+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -140,45 +140,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "885-754-COT26",
-      "org": "CONTRALORIA GENERAL DE LA REPUBLICA",
-      "titulo": "Adquisición de licencia ArcGIS para la Contraloría General de la República",
-      "monto": 1000000,
-      "dias": 0,
-      "cierre": "2026-09-16",
-      "keyword": "ARCGIS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "678-20-COT26",
-      "org": "SEREMI Bienes Nacionales IX Región",
-      "titulo": "Equipamiento para Terreno Unidad de Catastro ",
-      "monto": 999200,
-      "dias": 0,
-      "cierre": "2026-09-16",
-      "keyword": "CATASTRO",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2460-923-COT26",
-      "org": "I MUNICIPALIDAD DE PROVIDENCIA",
-      "titulo": "PROVISIÓN Y REEMPLAZO DE LUMINARIAS PARA DEPTO. DE CATASTRO E INSPECCIÓN Y DEPTO. DE DIVERSIDAD",
-      "monto": 6000000,
-      "dias": 0,
-      "cierre": "2026-09-16",
-      "keyword": "CATASTRO",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2710-475-COT26",
       "org": "MUNICIPALIDAD DE OVALLE",
       "titulo": "MATERIAL PARA CONFECCIÓN DE ORTESIS, SOLICITUD N°2055/2026, CCR - DIRECCIÓN CESFAM Marcos Macuada Olgade",
@@ -188,32 +149,6 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2102-432-COT26",
-      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE LEBU",
-      "titulo": "MARCOS Y GALVANOS PARA BIENESTAR HSIL",
-      "monto": 1211658,
-      "dias": 0,
-      "cierre": "2026-09-16",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4494-549-COT26",
-      "org": "I MUNICIPALIDAD DE PENCO",
-      "titulo": "MARCOS DE MADERA PARA CUADRO (P-736) ",
-      "monto": 1000000,
-      "dias": 0,
-      "cierre": "2026-09-16",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -231,6 +166,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "5349-465-COT26",
+      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
+      "titulo": "ADQUISICIÓN DE MARCOS DE FOTO Y CAJAS DE CARTÓN AUTOARMABLES PROGRAMA CHILE CRECE 2026",
+      "monto": 60750,
+      "dias": 5,
+      "cierre": "2026-09-22",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2409-1507-COT26",
       "org": "I MUNICIPALIDAD DE LOS ANGELES DEPTO DE",
       "titulo": "ADQ. MATERIALES E INSUMOS PARA TALLER DE FOTOGRAFIA ESCUELA E-885",
@@ -240,6 +188,19 @@
       "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3986-333-COT26",
+      "org": "MUNICIPALIDAD DE CORRAL",
+      "titulo": " “ADQUISICIÓN CUADROS PARA FOTOGRAFÍA”",
+      "monto": 600000,
+      "dias": 0,
+      "cierre": "2026-09-17",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 55
     },
@@ -270,17 +231,17 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5349-465-COT26",
-      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
-      "titulo": "ADQUISICIÓN DE MARCOS DE FOTO Y CAJAS DE CARTÓN AUTOARMABLES PROGRAMA CHILE CRECE 2026",
-      "monto": 60750,
-      "dias": 1,
-      "cierre": "2026-09-18",
-      "keyword": "MARCOS",
+      "codigo": "4162-384-COT26",
+      "org": "I MUNICIPALIDAD DE DONIHUE",
+      "titulo": "LETRERO MAPA DISTRIBUCION CESFAM DOÑIHUE PROGRAMA MAIS",
+      "monto": 150000,
+      "dias": 0,
+      "cierre": "2026-09-17",
+      "keyword": "MAPA",
       "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
-      "probabilidad": 47
+      "probabilidad": 45
     },
     {
       "codigo": "3764-489-COT26",
@@ -294,6 +255,19 @@
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "4922-359-COT26",
+      "org": "I MUNICIPALIDAD DE FUTRONO",
+      "titulo": "MATERIALES DE LIBRERIA TALLER DE FOTOGRAFIA - PGM 2026",
+      "monto": 189180,
+      "dias": 2,
+      "cierre": "2026-09-19",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 4,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 29
     }
   ]
 }
