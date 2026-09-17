@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-17T02:29+00:00",
+  "generado": "2026-09-17T16:02+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,6 +36,19 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "776-213-COT26",
+      "org": "PRESIDENCIA DE LA REPUBLICA",
+      "titulo": "ACC-SUMINISTRO DE SERVICIO DE IMPRESIÓN DE FOTOGRAFIA",
+      "monto": 7000000,
+      "dias": 7,
+      "cierre": "2026-09-25",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 69
+    },
+    {
       "codigo": "4374-39-COT26",
       "org": "GOBIERNO REGIONAL VI REGION DEL LI BERTADOR B O\"HIGGINS",
       "titulo": "Se requiere los servicios de impresión de alta resolución y enmarcado para la fotografía oficial del Consejo Regional de O'Higgins, correspondiente al periodo 2025 - 2029, de acuerdo a archivo adjunto",
@@ -53,143 +66,130 @@
       "org": "I MUNICIPALIDAD DE MAULLIN",
       "titulo": "SERVICIO DE DISEÑO Y EDICIÓN DE CARTOGRAFÍA ILUSTRADA",
       "monto": 2000000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-21",
       "keyword": "CARTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
     },
     {
       "codigo": "2311-85-COT26",
       "org": "IMunicipalidad de Molina",
       "titulo": "SERVICIO DE MONITOREO AMBULATORIO DE PRESION ARTERIAL MAPA DE 24HRS",
       "monto": 1050000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-21",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
     },
     {
       "codigo": "1053139-102-COT26",
       "org": "UNIVERSIDAD DE TARAPACA",
       "titulo": "Adquisición de Drone, para laboratorios del Departamento de Ingeniería  Mecánica",
       "monto": 1780000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-21",
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región de Arica y Parinacota",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
+    },
+    {
+      "codigo": "1298354-399-COT26",
+      "org": "DIRECCION DE EDUCACION",
+      "titulo": "CONTRATACIÓN DEL “SERVICIO DE ENTRADAS AVIARIO DE LIBRE VUELO\"",
+      "monto": 1824000,
+      "dias": 3,
+      "cierre": "2026-09-21",
+      "keyword": "VUELO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
     },
     {
       "codigo": "2427-1004-COT26",
       "org": "I MUNICIPALIDAD DE VALPARAISO",
       "titulo": "Servicio de impresion de Mapas de Valparaíso, Departamento de Turismo.",
       "monto": 2000000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-21",
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
     },
     {
       "codigo": "1219213-13-COT26",
       "org": "Asociación para el desarrollo productivo del turismo Alto del Carmen",
       "titulo": "Impresión de mapas a color",
       "monto": 1050000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-21",
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
+    },
+    {
+      "codigo": "2942-322-COT26",
+      "org": "I.Municipalidad de San Pablo -Salud",
+      "titulo": "ADQUISICION DE LICENCIA POR 12 MESES SISTEMA ARCGIS",
+      "monto": 1400000,
+      "dias": 3,
+      "cierre": "2026-09-21",
+      "keyword": "ARCGIS",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 61
     },
     {
       "codigo": "4525-409-COT26",
       "org": "MUNICIPALIDAD DE HUALPEN",
       "titulo": "LICENCIAS Y MARCOS PARA DIPLOMAS PARA CEREMONIAS DE LICENCIATURAS, DAEM DE HUALPÉN",
       "monto": 971186,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-21",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
     },
     {
       "codigo": "2381-770-COT26",
       "org": "I MUNICIPALIDAD DE COPIAPO",
       "titulo": "ADQUISICION MEDALLAS Y MARCOS PARA DIPLOMAS PARA ACTIVIDADES DE LOS ADULTOS MAYORES",
       "monto": 500000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-21",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
     },
     {
-      "codigo": "2710-475-COT26",
-      "org": "MUNICIPALIDAD DE OVALLE",
-      "titulo": "MATERIAL PARA CONFECCIÓN DE ORTESIS, SOLICITUD N°2055/2026, CCR - DIRECCIÓN CESFAM Marcos Macuada Olgade",
-      "monto": 2325260,
-      "dias": 0,
-      "cierre": "2026-09-17",
+      "codigo": "2992-126-COT26",
+      "org": "I MUNICIPALIDAD DE MONTEPATRIA",
+      "titulo": "GALVANOS Y MARCOS PARA DIPLOMAS",
+      "monto": 7105000,
+      "dias": 2,
+      "cierre": "2026-09-20",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
       "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "701426-312-COT26",
-      "org": "I MUNICIPALIDAD DE COLLIPULLI",
-      "titulo": "Adquisición de Marcos de certificados para entrega a usuarios del programa Fomento Productivo de la UDEL.",
-      "monto": 392700,
-      "dias": 0,
-      "cierre": "2026-09-17",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5349-465-COT26",
-      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
-      "titulo": "ADQUISICIÓN DE MARCOS DE FOTO Y CAJAS DE CARTÓN AUTOARMABLES PROGRAMA CHILE CRECE 2026",
-      "monto": 60750,
-      "dias": 5,
-      "cierre": "2026-09-22",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2409-1507-COT26",
-      "org": "I MUNICIPALIDAD DE LOS ANGELES DEPTO DE",
-      "titulo": "ADQ. MATERIALES E INSUMOS PARA TALLER DE FOTOGRAFIA ESCUELA E-885",
-      "monto": 2349582,
-      "dias": 0,
-      "cierre": "2026-09-17",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 59
     },
     {
       "codigo": "3986-333-COT26",
@@ -203,6 +203,19 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "5349-465-COT26",
+      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
+      "titulo": "ADQUISICIÓN DE MARCOS DE FOTO Y CAJAS DE CARTÓN AUTOARMABLES PROGRAMA CHILE CRECE 2026",
+      "monto": 60750,
+      "dias": 4,
+      "cierre": "2026-09-22",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 53
     },
     {
       "codigo": "4162-384-COT26",
@@ -222,13 +235,13 @@
       "org": "I MUNICIPALIDAD DE FUTRONO",
       "titulo": "MATERIALES DE LIBRERIA TALLER DE FOTOGRAFIA - PGM 2026",
       "monto": 189180,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-09-19",
       "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 4,
       "region": "Región de Los Ríos",
       "momento": "am",
-      "probabilidad": 29
+      "probabilidad": 27
     }
   ]
 }
