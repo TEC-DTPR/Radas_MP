@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-18T15:36+00:00",
+  "generado": "2026-09-18T18:47+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -149,6 +149,19 @@
       "keyword": "ARCGIS",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1697-120-COT26",
+      "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+      "titulo": "SERVICIO DE CONFIGURACIÓN DE SOFTWARE KNX SPACELYNK Y CATASTRO TÉCNICO DE CONTACTORES EN TABLEROS DE ILUMINACIÓN DEL CENTRO DE JUSTICIA DE ANTOFAGASTA",
+      "monto": 500000,
+      "dias": 2,
+      "cierre": "2026-09-21",
+      "keyword": "CATASTRO",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 59
     },
