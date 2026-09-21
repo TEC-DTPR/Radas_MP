@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-21T17:38+00:00",
+  "generado": "2026-09-21T21:33+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -75,32 +75,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "4374-39-COT26",
-      "org": "GOBIERNO REGIONAL VI REGION DEL LI BERTADOR B O\"HIGGINS",
-      "titulo": "Se requiere los servicios de impresión de alta resolución y enmarcado para la fotografía oficial del Consejo Regional de O'Higgins, correspondiente al periodo 2025 - 2029, de acuerdo a archivo adjunto",
-      "monto": 451000,
-      "dias": 1,
-      "cierre": "2026-09-22",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2311-85-COT26",
-      "org": "IMunicipalidad de Molina",
-      "titulo": "SERVICIO DE MONITOREO AMBULATORIO DE PRESION ARTERIAL MAPA DE 24HRS",
-      "monto": 1050000,
-      "dias": 0,
-      "cierre": "2026-09-21",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1298354-404-COT26",
       "org": "DIRECCION DE EDUCACION",
       "titulo": "CONTRATACIÓN DEL “SERVICIO DE ENTRADAS AVIARIO DE LIBRE VUELO\"",
@@ -125,6 +99,32 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "4968-676-COT26",
+      "org": "HOSPITAL DE QUILPUE",
+      "titulo": "Fotografia presidencial con marco",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-09-22",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2942-322-COT26",
+      "org": "I.Municipalidad de San Pablo -Salud",
+      "titulo": "ADQUISICION DE LICENCIA POR 12 MESES SISTEMA ARCGIS",
+      "monto": 1400000,
+      "dias": 3,
+      "cierre": "2026-09-25",
+      "keyword": "ARCGIS",
+      "ofertas_actuales": 2,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 51
     }
   ]
 }
