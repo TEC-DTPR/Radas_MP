@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-21T02:24+00:00",
+  "generado": "2026-09-21T17:38+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -40,13 +40,39 @@
       "org": "PRESIDENCIA DE LA REPUBLICA",
       "titulo": "ACC-SUMINISTRO DE SERVICIO DE IMPRESIÓN DE FOTOGRAFIA",
       "monto": 7000000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-09-25",
       "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
+    },
+    {
+      "codigo": "1697-120-COT26",
+      "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+      "titulo": "SERVICIO DE CONFIGURACIÓN DE SOFTWARE KNX SPACELYNK Y CATASTRO TÉCNICO DE CONTACTORES EN TABLEROS DE ILUMINACIÓN DEL CENTRO DE JUSTICIA DE ANTOFAGASTA",
+      "monto": 500000,
+      "dias": 2,
+      "cierre": "2026-09-24",
+      "keyword": "CATASTRO",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2710-487-COT26",
+      "org": "MUNICIPALIDAD DE OVALLE",
+      "titulo": "SELLADORAS PARA ESTERILIZACIÓN, SOLICITUD N°2064/2026, DIRECCIÓN CESFAM MARCOS MACUADA O.",
+      "monto": 1163820,
+      "dias": 1,
+      "cierre": "2026-09-23",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
     },
     {
       "codigo": "4374-39-COT26",
@@ -62,19 +88,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "4086-436-COT26",
-      "org": "I MUNICIPALIDAD DE MAULLIN",
-      "titulo": "SERVICIO DE DISEÑO Y EDICIÓN DE CARTOGRAFÍA ILUSTRADA",
-      "monto": 2000000,
-      "dias": 0,
-      "cierre": "2026-09-21",
-      "keyword": "CARTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2311-85-COT26",
       "org": "IMunicipalidad de Molina",
       "titulo": "SERVICIO DE MONITOREO AMBULATORIO DE PRESION ARTERIAL MAPA DE 24HRS",
@@ -88,25 +101,12 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1053139-102-COT26",
-      "org": "UNIVERSIDAD DE TARAPACA",
-      "titulo": "Adquisición de Drone, para laboratorios del Departamento de Ingeniería  Mecánica",
-      "monto": 1780000,
-      "dias": 0,
-      "cierre": "2026-09-21",
-      "keyword": "DRONE",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1298354-399-COT26",
+      "codigo": "1298354-404-COT26",
       "org": "DIRECCION DE EDUCACION",
       "titulo": "CONTRATACIÓN DEL “SERVICIO DE ENTRADAS AVIARIO DE LIBRE VUELO\"",
       "monto": 1824000,
       "dias": 0,
-      "cierre": "2026-09-21",
+      "cierre": "2026-09-22",
       "keyword": "VUELO",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
@@ -114,95 +114,17 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2427-1004-COT26",
-      "org": "I MUNICIPALIDAD DE VALPARAISO",
-      "titulo": "Servicio de impresion de Mapas de Valparaíso, Departamento de Turismo.",
-      "monto": 2000000,
+      "codigo": "885-761-COT26",
+      "org": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "titulo": "Pasajes aereos Santiago-Brasilia-Santiago, para 1 funcionario, saliendo el dia 06 de octubre a las 15:40 vuelo Latam LA 8109 llegando a Brasilia a las 19:45 y retornar el dia 08 de octubre a las 09:50",
+      "monto": 1000000,
       "dias": 0,
-      "cierre": "2026-09-21",
-      "keyword": "MAPAS",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1219213-13-COT26",
-      "org": "Asociación para el desarrollo productivo del turismo Alto del Carmen",
-      "titulo": "Impresión de mapas a color",
-      "monto": 1050000,
-      "dias": 0,
-      "cierre": "2026-09-21",
-      "keyword": "MAPAS",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2942-322-COT26",
-      "org": "I.Municipalidad de San Pablo -Salud",
-      "titulo": "ADQUISICION DE LICENCIA POR 12 MESES SISTEMA ARCGIS",
-      "monto": 1400000,
-      "dias": 0,
-      "cierre": "2026-09-21",
-      "keyword": "ARCGIS",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1697-120-COT26",
-      "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
-      "titulo": "SERVICIO DE CONFIGURACIÓN DE SOFTWARE KNX SPACELYNK Y CATASTRO TÉCNICO DE CONTACTORES EN TABLEROS DE ILUMINACIÓN DEL CENTRO DE JUSTICIA DE ANTOFAGASTA",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-09-21",
-      "keyword": "CATASTRO",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4525-409-COT26",
-      "org": "MUNICIPALIDAD DE HUALPEN",
-      "titulo": "LICENCIAS Y MARCOS PARA DIPLOMAS PARA CEREMONIAS DE LICENCIATURAS, DAEM DE HUALPÉN",
-      "monto": 971186,
-      "dias": 0,
-      "cierre": "2026-09-21",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2381-770-COT26",
-      "org": "I MUNICIPALIDAD DE COPIAPO",
-      "titulo": "ADQUISICION MEDALLAS Y MARCOS PARA DIPLOMAS PARA ACTIVIDADES DE LOS ADULTOS MAYORES",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-09-21",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5349-465-COT26",
-      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
-      "titulo": "ADQUISICIÓN DE MARCOS DE FOTO Y CAJAS DE CARTÓN AUTOARMABLES PROGRAMA CHILE CRECE 2026",
-      "monto": 60750,
-      "dias": 1,
       "cierre": "2026-09-22",
-      "keyword": "MARCOS",
+      "keyword": "VUELO",
       "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 47
+      "probabilidad": 55
     }
   ]
 }
