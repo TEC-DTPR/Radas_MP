@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-22T20:02+00:00",
+  "generado": "2026-09-22T22:50+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -49,6 +49,32 @@
       "probabilidad": 59
     },
     {
+      "codigo": "3518-300-COT26",
+      "org": "I MUNICIPALIDAD DE TRAIGUEN",
+      "titulo": "DIPLOMAS CON FOTOGRAFIAS ENMARCADOS LICEO LDD/PRO RETENCION",
+      "monto": 2500000,
+      "dias": 2,
+      "cierre": "2026-09-25",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "776-213-COT26",
+      "org": "PRESIDENCIA DE LA REPUBLICA",
+      "titulo": "ACC-SUMINISTRO DE SERVICIO DE IMPRESIÓN DE FOTOGRAFIA",
+      "monto": 7000000,
+      "dias": 2,
+      "cierre": "2026-09-25",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "1697-120-COT26",
       "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
       "titulo": "SERVICIO DE CONFIGURACIÓN DE SOFTWARE KNX SPACELYNK Y CATASTRO TÉCNICO DE CONTACTORES EN TABLEROS DE ILUMINACIÓN DEL CENTRO DE JUSTICIA DE ANTOFAGASTA",
@@ -84,6 +110,19 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1393495-871-COT26",
+      "org": "Educación",
+      "titulo": "SC-56682/9890-6/SEP/ADQ. CUADRO DE FOTOGRAFIA/ESF",
+      "monto": 631176,
+      "dias": 0,
+      "cierre": "2026-09-23",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
