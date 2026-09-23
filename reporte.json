@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-23T19:26+00:00",
+  "generado": "2026-09-23T22:39+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -49,6 +49,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "3649-293-COT26",
+      "org": "I MUNICIPALIDAD DE QUILLECO",
+      "titulo": "Adquisición de marcos para fotografía presidencial para dependencias municipales",
+      "monto": 325000,
+      "dias": 1,
+      "cierre": "2026-09-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1221016-194-COT26",
       "org": "Corporación de Desarrollo de La Reina",
       "titulo": "Obras civiles y mejoramiento en dependencias de baño de varones Liceo Eugenia Maria de Hostos - Instalación de puertas y marcos Escuela Palestina",
@@ -56,6 +69,32 @@
       "dias": 1,
       "cierre": "2026-09-25",
       "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "3518-300-COT26",
+      "org": "I MUNICIPALIDAD DE TRAIGUEN",
+      "titulo": "DIPLOMAS CON FOTOGRAFIAS ENMARCADOS LICEO LDD/PRO RETENCION",
+      "monto": 2500000,
+      "dias": 1,
+      "cierre": "2026-09-25",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "776-213-COT26",
+      "org": "PRESIDENCIA DE LA REPUBLICA",
+      "titulo": "ACC-SUMINISTRO DE SERVICIO DE IMPRESIÓN DE FOTOGRAFIA",
+      "monto": 7000000,
+      "dias": 1,
+      "cierre": "2026-09-25",
+      "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
