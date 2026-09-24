@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-24T20:17+00:00",
+  "generado": "2026-09-24T23:44+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,6 +35,32 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "3615-143-COT26",
+      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
+      "titulo": "SERVICIOS DE MANO DE OBRA PARA PODA DE ÁRBOLES EN ESCUELA DE SAN MARCOS - COMBARBALÁ",
+      "monto": 1100000,
+      "dias": 3,
+      "cierre": "2026-09-28",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "3615-142-COT26",
+      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
+      "titulo": "SERVICIOS DE MOVILIZACIÓN PARA VIAJE PEDAGÓGICO ESC. DE SAN MARCOS - COMBARBALÁ.",
+      "monto": 3400000,
+      "dias": 3,
+      "cierre": "2026-09-28",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 61
+    },
     {
       "codigo": "5517-411-COT26",
       "org": "UNIVERSIDAD DE CHILE",
@@ -88,17 +114,121 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2205-154-COT26",
+      "org": "SERVICIO DE SALUD HOSPITAL DE PICHIDEGUA",
+      "titulo": "MARCOS PARA DIPLOMA",
+      "monto": 225000,
+      "dias": 5,
+      "cierre": "2026-09-30",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1389488-771-COT26",
+      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE LOS ÁLAMOS",
+      "titulo": "Audífonos, marcos para diploma y llaveros / Escuela Ascencio Astorquiza Zabala – Villa Alegre",
+      "monto": 320000,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "643553-511-COT26",
+      "org": "CORP MUNICIPAL DE DESARROLLO SOCIAL DE SN JOAQUIN",
+      "titulo": "Marcos y puertas",
+      "monto": 700000,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3649-293-COT26",
+      "org": "I MUNICIPALIDAD DE QUILLECO",
+      "titulo": "Adquisición de marcos para fotografía presidencial para dependencias municipales",
+      "monto": 325000,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1221016-194-COT26",
+      "org": "Corporación de Desarrollo de La Reina",
+      "titulo": "Obras civiles y mejoramiento en dependencias de baño de varones Liceo Eugenia Maria de Hostos - Instalación de puertas y marcos Escuela Palestina",
+      "monto": 3719000,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3518-300-COT26",
+      "org": "I MUNICIPALIDAD DE TRAIGUEN",
+      "titulo": "DIPLOMAS CON FOTOGRAFIAS ENMARCADOS LICEO LDD/PRO RETENCION",
+      "monto": 2500000,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2733-490-COT26",
+      "org": "I MUNICIPALIDAD DE PENAFLOR",
+      "titulo": "SC 42337 - ESC. N°664 - SERVICIO DE TOMA DE FOTOGRAFÍA Y ADQUISICIÓN DE CUADROS PARA ESCUELA N°664 MALLOCO.",
+      "monto": 1030000,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "3654-156-COT26",
       "org": "INSTITUTO DE INVESTIGACIONES Y CONTROL",
       "titulo": "ADQUISICIÓN DE BATERÍA VUELO INTELIGENTE TB100",
       "monto": 1793657,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-09-25",
       "keyword": "VUELO",
       "ofertas_actuales": 1,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 52
+      "probabilidad": 50
+    },
+    {
+      "codigo": "4732-257-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "Adquisición de insumo en papelería para taller de fotografía del Programa Cultura",
+      "monto": 200000,
+      "dias": 1,
+      "cierre": "2026-09-26",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 47
     },
     {
       "codigo": "1493149-48-COT26",
@@ -112,6 +242,71 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "1057439-5401-COT26",
+      "org": "SERVICIO DE SALUD COQUIMBO HOSPITAL LA SERENA",
+      "titulo": "Marcos de Diploma Tamaño Oficio/ Legal",
+      "monto": 70000,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "1426038-134-COT26",
+      "org": "CORPORACION MUNICIPAL DE DESARROLLO SOCIAL COLINA",
+      "titulo": "ADQUISICION MARCOS PARA DIPLOMAS ",
+      "monto": 200000,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "1057552-551-COT26",
+      "org": "SERVICIO DE SALUD VALDIVIA HOSPITAL DE R",
+      "titulo": "Marcos para diplomas",
+      "monto": 60000,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "5349-490-COT26",
+      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
+      "titulo": "ADQUISICIÓN DE MARCOS DE FOTO Y CAJAS DE CARTÓN AUTOARMABLES PROGRAMA CHILE CRECE 2026",
+      "monto": 60750,
+      "dias": 0,
+      "cierre": "2026-09-25",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2046-135-COT26",
+      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE MOLINA",
+      "titulo": "MARCOS PARA DIPLOMAS Y OPALINAS BLANCAS",
+      "monto": 20000,
+      "dias": 1,
+      "cierre": "2026-09-26",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 1,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 42
     }
   ]
 }
