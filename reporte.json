@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-25T20:14+00:00",
+  "generado": "2026-09-25T23:46+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,6 +36,19 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "3687-195-COT26",
+      "org": "I MUNICIPALIDAD DE SALAMANCA",
+      "titulo": "Compra de marcos y recuerdos fotograficos para Escuela de Chillepin.",
+      "monto": 895000,
+      "dias": 4,
+      "cierre": "2026-09-30",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
       "codigo": "4079-318-COT26",
       "org": "I MUNICIPALIDAD DE CABRERO",
       "titulo": " SERVICIO DE CATASTRO, CATALOGACIÓN Y SEÑALIZACIÓN DEL PATRIMONIO ARQUITECTONICO DE LA COMUNA DE CABRERO - BIBLIOTECA",
@@ -49,6 +62,32 @@
       "probabilidad": 61
     },
     {
+      "codigo": "1233623-740-COT26",
+      "org": "Servicio Local de Educación Pública Licancabur",
+      "titulo": "SLEP LICANCABUR REQUIERE LA COMPRA DE  EQUIPOS DE FOTOGRAFÍA Y FILMACIÓN PARA ESCUELA DE PÁRVULOS E-117 “LAS ABEJITAS”, RBD 236-3 DE CALAMA.",
+      "monto": 7000000,
+      "dias": 3,
+      "cierre": "2026-09-29",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "1057595-46-COT26",
+      "org": "SERVICIO DE SALUD ARAUCANIA SUR",
+      "titulo": "Adquisición de Artículos del 12do Concurso Infantil de Fotografía y Selfie “Nos cuidamos en Familia”",
+      "monto": 1000000,
+      "dias": 3,
+      "cierre": "2026-09-29",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "3597-806-COT26",
       "org": "I MUNICIPALIDAD DE VICUNA",
       "titulo": "ADQUISICION DE BATERIA EXTRA DE DRONE ",
@@ -56,6 +95,71 @@
       "dias": 2,
       "cierre": "2026-09-28",
       "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "3687-201-COT26",
+      "org": "I MUNICIPALIDAD DE SALAMANCA",
+      "titulo": "Adquisición de Marcos de Madera Tamaño Oficio para Escuela Matilde Salamanca.-",
+      "monto": 520000,
+      "dias": 2,
+      "cierre": "2026-09-28",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1604-95-COT26",
+      "org": "DELEGACIÓN PRESIDENCIAL REGIONAL DE ANTOFAGASTA",
+      "titulo": "Adquisición de Marcos para Fotografías DPR Antofagasta",
+      "monto": 300000,
+      "dias": 2,
+      "cierre": "2026-09-28",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2854-790-COT26",
+      "org": "I MUNICIPALIDAD DE PUERTO VARAS",
+      "titulo": " COTIZACION MARCOS ACRILICOS PARA POSTAS RURALES DESAM DE PUERTO VARAS",
+      "monto": 500000,
+      "dias": 2,
+      "cierre": "2026-09-28",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "3615-143-COT26",
+      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
+      "titulo": "SERVICIOS DE MANO DE OBRA PARA PODA DE ÁRBOLES EN ESCUELA DE SAN MARCOS - COMBARBALÁ",
+      "monto": 1100000,
+      "dias": 2,
+      "cierre": "2026-09-28",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "3615-142-COT26",
+      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
+      "titulo": "SERVICIOS DE MOVILIZACIÓN PARA VIAJE PEDAGÓGICO ESC. DE SAN MARCOS - COMBARBALÁ.",
+      "monto": 3400000,
+      "dias": 2,
+      "cierre": "2026-09-28",
+      "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
       "momento": "am",
@@ -88,17 +192,30 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1060500-26-COT26",
-      "org": "SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES REGION DE NUBLE",
-      "titulo": "ZAPATOS U. CATASTRO",
-      "monto": 650000,
-      "dias": 0,
-      "cierre": "2026-09-25",
-      "keyword": "CATASTRO",
+      "codigo": "2205-154-COT26",
+      "org": "SERVICIO DE SALUD HOSPITAL DE PICHIDEGUA",
+      "titulo": "MARCOS PARA DIPLOMA",
+      "monto": 225000,
+      "dias": 4,
+      "cierre": "2026-09-30",
+      "keyword": "MARCOS",
       "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 53
+    },
+    {
+      "codigo": "5349-490-COT26",
+      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
+      "titulo": "ADQUISICIÓN DE MARCOS DE FOTO Y CAJAS DE CARTÓN AUTOARMABLES PROGRAMA CHILE CRECE 2026",
+      "monto": 60750,
+      "dias": 3,
+      "cierre": "2026-09-29",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 51
     },
     {
       "codigo": "3654-156-COT26",
@@ -112,6 +229,32 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 50
+    },
+    {
+      "codigo": "4732-257-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": "Adquisición de insumo en papelería para taller de fotografía del Programa Cultura",
+      "monto": 200000,
+      "dias": 0,
+      "cierre": "2026-09-26",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2046-135-COT26",
+      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE MOLINA",
+      "titulo": "MARCOS PARA DIPLOMAS Y OPALINAS BLANCAS",
+      "monto": 20000,
+      "dias": 0,
+      "cierre": "2026-09-26",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 1,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 40
     }
   ]
 }
