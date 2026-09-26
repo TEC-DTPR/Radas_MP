@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-26T18:55+00:00",
+  "generado": "2026-09-26T21:46+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -229,19 +229,6 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 49
-    },
-    {
-      "codigo": "4732-257-COT26",
-      "org": "I MUNICIPALIDAD DE CODEGUA",
-      "titulo": "Adquisición de insumo en papelería para taller de fotografía del Programa Cultura",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-09-26",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 45
     }
   ]
 }
