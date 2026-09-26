@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-25T23:46+00:00",
+  "generado": "2026-09-26T02:37+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -216,19 +216,6 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 51
-    },
-    {
-      "codigo": "3654-156-COT26",
-      "org": "INSTITUTO DE INVESTIGACIONES Y CONTROL",
-      "titulo": "ADQUISICIÓN DE BATERÍA VUELO INTELIGENTE TB100",
-      "monto": 1793657,
-      "dias": 0,
-      "cierre": "2026-09-25",
-      "keyword": "VUELO",
-      "ofertas_actuales": 1,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 50
     },
     {
       "codigo": "4732-257-COT26",
