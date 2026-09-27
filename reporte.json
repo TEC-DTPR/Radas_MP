@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-27T16:11+00:00",
+  "generado": "2026-09-27T19:57+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -209,13 +209,13 @@
       "org": "SERVICIO DE SALUD HOSPITAL DE PICHIDEGUA",
       "titulo": "MARCOS PARA DIPLOMA",
       "monto": 225000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-09-30",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
-      "probabilidad": 51
+      "probabilidad": 49
     },
     {
       "codigo": "5349-490-COT26",
