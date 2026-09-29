@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-29T17:29+00:00",
+  "generado": "2026-09-29T21:46+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,6 +36,19 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "3320-512-COT26",
+      "org": "Escuadrilla de Abastecimiento del Edificio FF.AA.",
+      "titulo": "CEN_135417_ ADQ. DE VESTUARIO PARA EL CENTRO ESPACIAL NACIONAL",
+      "monto": 3712800,
+      "dias": 2,
+      "cierre": "2026-10-02",
+      "keyword": "ESPACIAL",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "2013-1585-COT26",
       "org": "UNIVERSIDAD ARTURO PRAT",
       "titulo": " Adquisición de Notebook de Alto Rendimiento para Ciencia de Datos y GIS",
@@ -45,6 +58,19 @@
       "keyword": "GIS",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3516-553-COT26",
+      "org": "I MUNICIPALIDAD DE CARAHUE",
+      "titulo": "SERVICIOS DE CONFECCIÓN DE PEDESTAL DE MAPA HÁPTICO.",
+      "monto": 107700,
+      "dias": 5,
+      "cierre": "2026-10-05",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -71,32 +97,6 @@
       "keyword": "CATASTRO",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4055-274-COT26",
-      "org": "I MUNICIPALIDAD DE YUMBEL",
-      "titulo": "Adquisición de marcos de diplomas ",
-      "monto": 350000,
-      "dias": 0,
-      "cierre": "2026-09-29",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4081-112-COT26",
-      "org": "Ilustre Municipalidad de Cabrero",
-      "titulo": "MARCOS DE DIPLOMA UNIDADES EDUCATIVAS ",
-      "monto": 3730000,
-      "dias": 0,
-      "cierre": "2026-09-29",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
