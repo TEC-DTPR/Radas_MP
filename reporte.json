@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-02T01:57+00:00",
+  "generado": "2026-10-02T03:12+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,19 +35,6 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
-    {
-      "codigo": "1075956-153-COT26",
-      "org": "DEPARTAMENTO CONTROL FINANCIERO",
-      "titulo": "ADQUISICIÓN DE LETRERO INSTITUCIONAL Y MARCO PARA FOTOGRAFIA- SEGÚN REQUERIMIENTOS TECNICOS ADJUNTOS - PRESUPUESTO DISPONIBLE $ 530.000.-",
-      "monto": 530000,
-      "dias": 13,
-      "cierre": "2026-10-15",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 75
-    },
     {
       "codigo": "1238177-108-COT26",
       "org": "ASOCIACION DE MUNICIPIOS METROPOLITANOS PARA LA SE",
@@ -140,32 +127,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5485-783-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "COMPRA DE BOTELLAS LICOR DE 750ML CON TAPA ROSCA Y TRANSPARENTE (PROVEEDORES ENVIAR FICHA TÉCNICA, FOTOGRAFIA REAL DE LA BOTELLA, INCLUIR DESPACHO) NO POSTULAR PROVEEDORES SI NO TIENEN STOCK",
-      "monto": 5000000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2281-1727-COT26",
-      "org": "I MUNICIPALIDAD VALDIVIA",
-      "titulo": " ADQUISICIÓN IMPLEMENTOS DE ESTIMULACIÓN - CENTRO COMUNITARIO CUIDADOS C.C.C., DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR LOS QUE DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
-      "monto": 1600798,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "4291-1344-COT26",
       "org": "UNIVERSIDAD DE ANTOFAGASTA",
       "titulo": "Servicio integral de producción audiovisual, fotografía y astrofotografía para proyecto",
@@ -229,19 +190,6 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 51
-    },
-    {
-      "codigo": "5485-751-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "SUMINISTRO E INSTALACIÓN DE SET BATERIAS PARA TRICICLO ELÉCTRICO ABM TRICICLO GB1200DZH-500KG. (SE ADJUNTO FOTOGRAFIA DE TRICICLO).",
-      "monto": 350000,
-      "dias": 2,
-      "cierre": "2026-10-04",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 2,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 49
     },
     {
       "codigo": "2292-819-COT26",
