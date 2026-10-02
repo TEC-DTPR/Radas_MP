@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-01T22:15+00:00",
+  "generado": "2026-10-02T01:57+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -166,6 +166,32 @@
       "probabilidad": 55
     },
     {
+      "codigo": "4291-1344-COT26",
+      "org": "UNIVERSIDAD DE ANTOFAGASTA",
+      "titulo": "Servicio integral de producción audiovisual, fotografía y astrofotografía para proyecto",
+      "monto": 6500000,
+      "dias": 0,
+      "cierre": "2026-10-02",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1057595-46-COT26",
+      "org": "SERVICIO DE SALUD ARAUCANIA SUR",
+      "titulo": "Adquisición de Artículos del 12do Concurso Infantil de Fotografía y Selfie “Nos cuidamos en Familia”",
+      "monto": 1000000,
+      "dias": 2,
+      "cierre": "2026-10-04",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 1,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 54
+    },
+    {
       "codigo": "728-64-COT26",
       "org": "INSTITUTO NACIONAL DE HIDRAULICA",
       "titulo": "Licencia ArcGIS PRO Creator",
@@ -188,6 +214,19 @@
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 51
+    },
+    {
+      "codigo": "652-294-COT26",
+      "org": "SERVICIO DE SALUD ARAUCO",
+      "titulo": "TERMOMETRO DIGITAL SEGÚN FOTOGRAFÍA ADJUNTA",
+      "monto": 45000,
+      "dias": 3,
+      "cierre": "2026-10-05",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 51
     },
