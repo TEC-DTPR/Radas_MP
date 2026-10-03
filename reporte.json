@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-03T18:57+00:00",
+  "generado": "2026-10-03T21:58+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -218,19 +218,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "2332-867-COT26",
-      "org": "I MUNICIPALIDAD DE PUERTO MONTT",
-      "titulo": "N° 8066 INSUMO PARA JORNADAS DE CARTOGRAFIA SOCIAL Y VALIDACION DE ACTIVOS COMUNITARIOS Y ENCUENTRIO DE PARTICIPACIÓN SOCIAL CECOSF CHAMIZA",
-      "monto": 1900000,
-      "dias": 0,
-      "cierre": "2026-10-03",
-      "keyword": "CARTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3516-553-COT26",
       "org": "I MUNICIPALIDAD DE CARAHUE",
       "titulo": "SERVICIOS DE CONFECCIÓN DE PEDESTAL DE MAPA HÁPTICO.",
@@ -255,19 +242,6 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 47
-    },
-    {
-      "codigo": "3517-185-COT26",
-      "org": "I MUNICIPALIDAD DE TRAIGUEN",
-      "titulo": "Mapa territorial del Lof Pantano",
-      "monto": 50000,
-      "dias": 0,
-      "cierre": "2026-10-03",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "1057417-4022-COT26",
