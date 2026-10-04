@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-04T19:54+00:00",
+  "generado": "2026-10-04T22:40+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -110,6 +110,19 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "1480972-633-COT26",
+      "org": "SLEP MARGA MARGA",
+      "titulo": "FOTOGRAFÍA Y OTROS LICEO DE OLMUÉ.",
+      "monto": 1700000,
+      "dias": 1,
+      "cierre": "2026-10-06",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 57
     },
