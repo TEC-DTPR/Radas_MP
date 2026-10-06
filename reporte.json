@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-06T17:46+00:00",
+  "generado": "2026-10-06T22:09+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,6 +36,32 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "1075956-153-COT26",
+      "org": "DEPARTAMENTO CONTROL FINANCIERO",
+      "titulo": "ADQUISICIÓN DE LETRERO INSTITUCIONAL Y MARCO PARA FOTOGRAFIA- SEGÚN REQUERIMIENTOS TECNICOS ADJUNTOS - PRESUPUESTO DISPONIBLE $ 530.000.-",
+      "monto": 530000,
+      "dias": 8,
+      "cierre": "2026-10-15",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 71
+    },
+    {
+      "codigo": "1208093-64-COT26",
+      "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
+      "titulo": "IMPRESIÓN DE MAPA REGIONAL Y TOTEM INFORMATIVO GIRATORIO",
+      "monto": 700000,
+      "dias": 5,
+      "cierre": "2026-10-12",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 65
+    },
+    {
       "codigo": "1697-125-COT26",
       "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
       "titulo": "SERVICIO DE CONFIGURACIÓN DE SOFTWARE KNX SPACELYNK Y CATASTRO TÉCNICO DE CONTACTORES EN TABLEROS DE ILUMINACIÓN DEL CENTRO DE JUSTICIA DE ANTOFAGASTA",
@@ -47,6 +73,32 @@
       "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 57
+    },
+    {
+      "codigo": "3518-327-COT26",
+      "org": "I MUNICIPALIDAD DE TRAIGUEN",
+      "titulo": "MARCOS DE MADERA FOTOGRAFIA FIN DE AÑO ESC. REP DE ISRAEL/PRO RETENCION",
+      "monto": 2000000,
+      "dias": 1,
+      "cierre": "2026-10-08",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5517-439-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Compra 727 - Mobiliario cocina y comedor MAPA",
+      "monto": 941500,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
     },
     {
       "codigo": "1238167-284-COT26",
@@ -75,15 +127,54 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1238177-108-COT26",
-      "org": "ASOCIACION DE MUNICIPIOS METROPOLITANOS PARA LA SE",
-      "titulo": "CAPACITACION CURSO DE VUELO NOCTURNO",
-      "monto": 1500000,
+      "codigo": "2698-241-COT26",
+      "org": "I MUNICIPALIDAD DE CARTAGENA",
+      "titulo": "ADQUISICION DE MARCOS DE FOTOS, SEGUN TERMINOS TECNICOS DE REFERENCIA ADJUNTOS",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1028871-107-COT26",
+      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE HUASCO",
+      "titulo": "MARCOS PARA DIPLOMA Y GALVANO, CEREMONIA DIA DEL PROFESOR ",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1233619-657-COT26",
+      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA MAULE COSTA",
+      "titulo": "Adquisición de Marcos de madera/vidrio y cajas para galvanos",
+      "monto": 645000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3759-287-COT26",
+      "org": "Ilustre Municipalidad de Yerbas Buenas",
+      "titulo": "ADQUISICIÓN DE MARCOS DE MADERA DE 50 CM, DE ANCHO Y 63 CM DE ALTO",
+      "monto": 300000,
       "dias": 0,
       "cierre": "2026-10-06",
-      "keyword": "VUELO",
+      "keyword": "MARCOS",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -97,6 +188,32 @@
       "keyword": "ARCGIS",
       "ofertas_actuales": 2,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "3884-550-COT26",
+      "org": "I MUNICIPALIDAD PAIHUANO",
+      "titulo": "ADQUISICIÓN DE MARCOS DE DIPLOMAS PARA ACTIVIDAD \"FIESTA DE COLORES\"",
+      "monto": 80000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "3764-517-COT26",
+      "org": "I MUNICIPALIDAD DE NANCAGUA",
+      "titulo": "COMPRA DE MARCOS DE MADERA CON VIDRIO PARA DIPLOMAS - PROGRAMA VINCULOS",
+      "monto": 216000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 45
     }
