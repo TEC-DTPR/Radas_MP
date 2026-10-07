@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-07T18:19+00:00",
+  "generado": "2026-10-07T23:27+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -75,19 +75,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "5517-439-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Compra 727 - Mobiliario cocina y comedor MAPA",
-      "monto": 941500,
-      "dias": 0,
-      "cierre": "2026-10-07",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2404-619-COT26",
       "org": "I MUNICIPALIDAD DE IQUIQUE",
       "titulo": "adquisición del producto ArcGIS Online Creator Anual Subscriptión SECOPLAC",
@@ -127,32 +114,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2698-241-COT26",
-      "org": "I MUNICIPALIDAD DE CARTAGENA",
-      "titulo": "ADQUISICION DE MARCOS DE FOTOS, SEGUN TERMINOS TECNICOS DE REFERENCIA ADJUNTOS",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-10-07",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1028871-107-COT26",
-      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE HUASCO",
-      "titulo": "MARCOS PARA DIPLOMA Y GALVANO, CEREMONIA DIA DEL PROFESOR ",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-10-07",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3518-327-COT26",
       "org": "I MUNICIPALIDAD DE TRAIGUEN",
       "titulo": "MARCOS DE MADERA FOTOGRAFIA FIN DE AÑO ESC. REP DE ISRAEL/PRO RETENCION",
@@ -164,19 +125,6 @@
       "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "3884-550-COT26",
-      "org": "I MUNICIPALIDAD PAIHUANO",
-      "titulo": "ADQUISICIÓN DE MARCOS DE DIPLOMAS PARA ACTIVIDAD \"FIESTA DE COLORES\"",
-      "monto": 80000,
-      "dias": 0,
-      "cierre": "2026-10-07",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "4085-457-COT26",
