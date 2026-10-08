@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-08T18:19+00:00",
+  "generado": "2026-10-08T23:39+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -49,6 +49,45 @@
       "probabilidad": 61
     },
     {
+      "codigo": "3665-659-COT26",
+      "org": "I MUNICIPALIDAD DE TIL TIL",
+      "titulo": "VISITA INSPECTIVA, CATASTRO,  LEVANTAMIENTO Y REVISIÓN DEL SISITEMA ELECTRONICO DE MUNICIPALIDAD. ADMINISTRADORA ",
+      "monto": 400000,
+      "dias": 4,
+      "cierre": "2026-10-13",
+      "keyword": "CATASTRO",
+      "ofertas_actuales": 1,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 58
+    },
+    {
+      "codigo": "5517-448-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "SOL.744  Compra Mobiliario especializado para taller de montaje MAPA",
+      "monto": 2197523,
+      "dias": 1,
+      "cierre": "2026-10-10",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "691739-1-COT26",
+      "org": "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION",
+      "titulo": "ADQUISICION DE SILLAS ERGONOMICAS PARA DEPTO DE HISTORIA Y GEOGRAFIA",
+      "monto": 600000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "GEOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "657-88-COT26",
       "org": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
       "titulo": "Adquisición de Drone DJI Matrice 4E para Unidad de Suelo de SERVIU Región de Aysén",
@@ -86,6 +125,19 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "2745-156-COT26",
+      "org": "I MUNICIPALIDAD DE ANGOL",
+      "titulo": "BGI/THO-3506-Adquisición de marcos de madera para reconocimientos de estudiantes que participan en distintas actividades realizadas por el DEM de la comuna de Angol, con cargo a Subvención General",
+      "monto": 170000,
+      "dias": 3,
+      "cierre": "2026-10-12",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 51
     },
     {
       "codigo": "2404-619-COT26",
