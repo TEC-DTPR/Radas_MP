@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-09T03:43+00:00",
+  "generado": "2026-10-09T17:52+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,43 +36,69 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "2416-284-COT26",
+      "org": "I MUNICIPALIDAD DE CONCEPCION",
+      "titulo": "ADQUISICIÓN DE MARCOS PARA DIPLOMAS / MEMO N°636/ PROG OO.SS",
+      "monto": 500000,
+      "dias": 3,
+      "cierre": "2026-10-13",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "1208093-64-COT26",
       "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
       "titulo": "IMPRESIÓN DE MAPA REGIONAL Y TOTEM INFORMATIVO GIRATORIO",
       "monto": 700000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-10-12",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
       "momento": "am",
-      "probabilidad": 61
+      "probabilidad": 59
+    },
+    {
+      "codigo": "3838-215-COT26",
+      "org": "I MUNICIPALIDAD DE SANTA CRUZ",
+      "titulo": "ADQUISICION DE DRONE MUNICIPALIDAD DE SANTA CRUZ ",
+      "monto": 2000000,
+      "dias": 2,
+      "cierre": "2026-10-12",
+      "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 59
     },
     {
       "codigo": "3665-659-COT26",
       "org": "I MUNICIPALIDAD DE TIL TIL",
       "titulo": "VISITA INSPECTIVA, CATASTRO,  LEVANTAMIENTO Y REVISIÓN DEL SISITEMA ELECTRONICO DE MUNICIPALIDAD. ADMINISTRADORA ",
       "monto": 400000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-10-13",
       "keyword": "CATASTRO",
       "ofertas_actuales": 1,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 58
+      "probabilidad": 56
     },
     {
       "codigo": "5517-448-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "SOL.744  Compra Mobiliario especializado para taller de montaje MAPA",
       "monto": 2197523,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-10-10",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 57
+      "probabilidad": 55
     },
     {
       "codigo": "691739-1-COT26",
@@ -101,19 +127,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2788-502-COT26",
-      "org": "I MUNICIPALIDAD DE PAINE",
-      "titulo": "MARCOS FOTOGRAFICOS - RRPP.",
-      "monto": 459000,
-      "dias": 0,
-      "cierre": "2026-10-09",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2859-1114-COT26",
       "org": "UNIVERSIDAD DE ATACAMA",
       "titulo": "Marcos para certificados en el marco de la capacitación MOP DOH Atacama.",
@@ -127,82 +140,82 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3117-380-COT26",
-      "org": "DEPARTAMENTO DE BIENESTAR SOCIAL 1° Z.N.",
-      "titulo": "MATERIALES ELÉCTRICOS PARA C.R. LOS MAITENES. INCLUIR EN OFERTA FICHA TÉCNICA Y FOTOGRAFÍA DE LOS PRODUCTOS ",
-      "monto": 1674140,
+      "codigo": "2484-268-COT26",
+      "org": "I MUNICIPALIDAD DE QUILICURA",
+      "titulo": "ADQUISICIÓN DE EQUIPOS DE FOTOGRAFIA Y VIDEO PARA CECOSFS",
+      "monto": 5400000,
       "dias": 0,
       "cierre": "2026-10-09",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1175-371-COT26",
-      "org": "SERVICIO DE SALUD ARAUCANIA SUR",
-      "titulo": "Aro de Luz para Concurso Infantil de Fotografía SSAS",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-10-09",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1057595-47-COT26",
-      "org": "SERVICIO DE SALUD ARAUCANIA SUR",
-      "titulo": "Adquisición de Artículos del 12do Concurso Infantil de Fotografía y Selfie “Nos cuidamos en Familia”",
-      "monto": 1500000,
-      "dias": 0,
-      "cierre": "2026-10-09",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5868-11-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "WD 4884 fotografía y video FEN",
-      "monto": 1250000,
-      "dias": 0,
-      "cierre": "2026-10-09",
-      "keyword": "FOTOGRAFÍA",
+      "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
     {
+      "codigo": "2281-1787-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN IMPLEMENTOS DE ESTIMULACIÓN - CENTRO COMUNITARIO CUIDADOS C.C.C., DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR LOS QUE DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
+      "monto": 1600798,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2281-1783-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN \"4 PARKAS CON LOGOS Y 1 POLERA CON LOGOS - CENTRO COMUNITARIO CUIDADO - DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR LOS QUE DEBEN SER ENTREGADOS EN OFICINA SIN COSTO",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4158-208-COT26",
+      "org": "I.Municipalidad de El Carmen",
+      "titulo": "MARCOS E IMPRESIONES DE DECALOGO PARA DIFERENTES DEPENDENCIAS DEL DESAMU ",
+      "monto": 137000,
+      "dias": 3,
+      "cierre": "2026-10-13",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 51
+    },
+    {
+      "codigo": "1057417-4064-COT26",
+      "org": "COMPLEJO ASISTENCIAL DR.VICTOR RIOS RUIZ",
+      "titulo": " gvsm RETRACTOR PARA FOTOGRAFIA ORAL",
+      "monto": 100000,
+      "dias": 3,
+      "cierre": "2026-10-13",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 51
+    },
+    {
       "codigo": "2745-156-COT26",
       "org": "I MUNICIPALIDAD DE ANGOL",
       "titulo": "BGI/THO-3506-Adquisición de marcos de madera para reconocimientos de estudiantes que participan en distintas actividades realizadas por el DEM de la comuna de Angol, con cargo a Subvención General",
       "monto": 170000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-10-12",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
       "momento": "am",
-      "probabilidad": 51
-    },
-    {
-      "codigo": "2404-619-COT26",
-      "org": "I MUNICIPALIDAD DE IQUIQUE",
-      "titulo": "adquisición del producto ArcGIS Online Creator Anual Subscriptión SECOPLAC",
-      "monto": 1100000,
-      "dias": 0,
-      "cierre": "2026-10-09",
-      "keyword": "ARCGIS",
-      "ofertas_actuales": 1,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 50
+      "probabilidad": 49
     }
   ]
 }
