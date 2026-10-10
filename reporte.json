@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-10T03:24+00:00",
+  "generado": "2026-10-10T16:46+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,108 +36,108 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "2281-1809-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN \"4 PARKAS CON LOGOS Y 1 POLERA CON LOGOS - CENTRO COMUNITARIO CUIDADO - DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR LOS QUE DEBEN SER ENTREGADOS EN OFICINA SIN COSTO",
+      "monto": 500000,
+      "dias": 3,
+      "cierre": "2026-10-14",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "2416-284-COT26",
       "org": "I MUNICIPALIDAD DE CONCEPCION",
       "titulo": "ADQUISICIÓN DE MARCOS PARA DIPLOMAS / MEMO N°636/ PROG OO.SS",
       "monto": 500000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-10-13",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
       "momento": "am",
-      "probabilidad": 61
+      "probabilidad": 59
     },
     {
       "codigo": "3310-89-COT26",
       "org": "Feria Internacional del Aire y del Espacio",
       "titulo": "Cuadro de madera para fotografía",
       "monto": 300000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-10-13",
       "keyword": "FOTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 61
+      "probabilidad": 59
     },
     {
       "codigo": "5517-451-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "Compra N°831 - Materiales construcción vitrina citylab MAPA",
       "monto": 1050000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-10-12",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 57
     },
     {
       "codigo": "1208093-64-COT26",
       "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
       "titulo": "IMPRESIÓN DE MAPA REGIONAL Y TOTEM INFORMATIVO GIRATORIO",
       "monto": 700000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-10-12",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 57
     },
     {
       "codigo": "3838-215-COT26",
       "org": "I MUNICIPALIDAD DE SANTA CRUZ",
       "titulo": "ADQUISICION DE DRONE MUNICIPALIDAD DE SANTA CRUZ ",
       "monto": 2000000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-10-12",
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 57
     },
     {
       "codigo": "3588-507-COT26",
       "org": "I MUNICIPALIDAD DE YUNGAY",
       "titulo": "Marcos de madera",
       "monto": 300000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-10-12",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 57
     },
     {
       "codigo": "1389488-898-COT26",
       "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE LOS ÁLAMOS",
       "titulo": "Servicio de fotografía y encuadrado para Escuela Maule Sur Olga Pinto García - Colbún",
       "monto": 424000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-10-12",
       "keyword": "FOTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
       "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "3665-659-COT26",
-      "org": "I MUNICIPALIDAD DE TIL TIL",
-      "titulo": "VISITA INSPECTIVA, CATASTRO,  LEVANTAMIENTO Y REVISIÓN DEL SISITEMA ELECTRONICO DE MUNICIPALIDAD. ADMINISTRADORA ",
-      "monto": 400000,
-      "dias": 3,
-      "cierre": "2026-10-13",
-      "keyword": "CATASTRO",
-      "ofertas_actuales": 1,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 56
+      "probabilidad": 57
     },
     {
       "codigo": "5517-452-COT26",
@@ -166,56 +166,56 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5517-448-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "SOL.744  Compra Mobiliario especializado para taller de montaje MAPA",
-      "monto": 2197523,
-      "dias": 0,
-      "cierre": "2026-10-10",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
+      "codigo": "3665-659-COT26",
+      "org": "I MUNICIPALIDAD DE TIL TIL",
+      "titulo": "VISITA INSPECTIVA, CATASTRO,  LEVANTAMIENTO Y REVISIÓN DEL SISITEMA ELECTRONICO DE MUNICIPALIDAD. ADMINISTRADORA ",
+      "monto": 400000,
+      "dias": 2,
+      "cierre": "2026-10-13",
+      "keyword": "CATASTRO",
+      "ofertas_actuales": 1,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 54
     },
     {
       "codigo": "4158-208-COT26",
       "org": "I.Municipalidad de El Carmen",
       "titulo": "MARCOS E IMPRESIONES DE DECALOGO PARA DIFERENTES DEPENDENCIAS DEL DESAMU ",
       "monto": 137000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-10-13",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
       "momento": "am",
-      "probabilidad": 51
+      "probabilidad": 49
     },
     {
       "codigo": "1057417-4064-COT26",
       "org": "COMPLEJO ASISTENCIAL DR.VICTOR RIOS RUIZ",
       "titulo": " gvsm RETRACTOR PARA FOTOGRAFIA ORAL",
       "monto": 100000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-10-13",
       "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
       "momento": "am",
-      "probabilidad": 51
+      "probabilidad": 49
     },
     {
       "codigo": "2745-156-COT26",
       "org": "I MUNICIPALIDAD DE ANGOL",
       "titulo": "BGI/THO-3506-Adquisición de marcos de madera para reconocimientos de estudiantes que participan en distintas actividades realizadas por el DEM de la comuna de Angol, con cargo a Subvención General",
       "monto": 170000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-10-12",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
       "momento": "am",
-      "probabilidad": 49
+      "probabilidad": 47
     }
   ]
 }
