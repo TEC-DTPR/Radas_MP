@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-10T16:46+00:00",
+  "generado": "2026-10-10T20:27+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -138,19 +138,6 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 57
-    },
-    {
-      "codigo": "5517-452-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Compra 758 - Insumos de laboratorio para el área de conservación y restauración MAPA II",
-      "monto": 941500,
-      "dias": 0,
-      "cierre": "2026-10-10",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "5517-450-COT26",
