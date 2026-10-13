@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-13T18:47+00:00",
+  "generado": "2026-10-13T23:12+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,6 +36,19 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "1208093-72-COT26",
+      "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
+      "titulo": "IMPRESIÓN DE MAPA REGIONAL Y TOTEM INFORMATIVO ",
+      "monto": 700000,
+      "dias": 2,
+      "cierre": "2026-10-16",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "4358-100-COT26",
       "org": "Ilustre Municipalidad de Nacimiento - Departamento de educación",
       "titulo": "“Adquisición de Marcos para Diplomas de Alumnos destacados de Escuelas de Nacimiento “",
@@ -58,6 +71,32 @@
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2269-58-COT26",
+      "org": "DEPARTAMENTO PROVINCIAL EDUCACION CAUTIN SUR",
+      "titulo": " Se solicitan cotizaciones para servicio de coffee break, cóctel y adquisición de 40 marcos de diploma para Jornada Deprov. Cautín Sur en Temuco.",
+      "monto": 1260000,
+      "dias": 1,
+      "cierre": "2026-10-15",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "4374-44-COT26",
+      "org": "GOBIERNO REGIONAL VI REGION DEL LI BERTADOR B O\"HIGGINS",
+      "titulo": "Se requiere enmarcado de fotografía oficial del consejo Regional de O'Higgins, de acuerdo a archivo adjunto.",
+      "monto": 330000,
+      "dias": 1,
+      "cierre": "2026-10-15",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 57
     },
@@ -97,6 +136,19 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "4374-45-COT26",
+      "org": "GOBIERNO REGIONAL VI REGION DEL LI BERTADOR B O\"HIGGINS",
+      "titulo": "Se requiere  impresión de fotografía oficial del Consejo Regional de O’Higgins periodo 2025-2029, de acuerdo a archivo adjunto.",
+      "monto": 130000,
+      "dias": 1,
+      "cierre": "2026-10-15",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 47
     },
