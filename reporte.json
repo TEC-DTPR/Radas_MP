@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-13T23:12+00:00",
+  "generado": "2026-10-14T02:46+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -58,6 +58,19 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2281-1826-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN \"ARTICULOS DE LIBRERIA\" CENTRO COMUNITARIO CUIDADOS C.C.C.DEPTO. ADULTO MAYOR, DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
+      "monto": 2361024,
+      "dias": 2,
+      "cierre": "2026-10-16",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 59
     },
@@ -127,6 +140,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2281-1809-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN \"4 PARKAS CON LOGOS Y 1 POLERA CON LOGOS - CENTRO COMUNITARIO CUIDADO - DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR LOS QUE DEBEN SER ENTREGADOS EN OFICINA SIN COSTO",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-10-14",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2658-1306-COT26",
       "org": "I MUNICIPALIDAD DE ANCUD",
       "titulo": "OPALINAS Y MARCOS DIPLOMAS",
@@ -164,6 +190,19 @@
       "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 46
+    },
+    {
+      "codigo": "3517-198-COT26",
+      "org": "I MUNICIPALIDAD DE TRAIGUEN",
+      "titulo": "Mapa territorial del Lof Pantano",
+      "monto": 100000,
+      "dias": 0,
+      "cierre": "2026-10-14",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 45
     }
   ]
 }
