@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-15T23:32+00:00",
+  "generado": "2026-10-16T02:19+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,6 +35,32 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "3320-547-COT26",
+      "org": "Escuadrilla de Abastecimiento del Edificio FF.AA.",
+      "titulo": "800 801 EMG _ 194500, MARCO DE MADERA CON MONTAJE DE FOTOGRAFIA ",
+      "monto": 443051,
+      "dias": 4,
+      "cierre": "2026-10-20",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
+      "codigo": "2793-921-COT26",
+      "org": "Iluste Municipalidad de Huechuraba",
+      "titulo": "CUADROS PARA EL ENMARCADO DE FOTOGRAFIA PRESIDENCIAL",
+      "monto": 1500000,
+      "dias": 3,
+      "cierre": "2026-10-19",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
     {
       "codigo": "5517-454-COT26",
       "org": "UNIVERSIDAD DE CHILE",
@@ -75,6 +101,136 @@
       "probabilidad": 55
     },
     {
+      "codigo": "4364-484-COT26",
+      "org": "Ilustre Municipalidad de Quillon - Educación",
+      "titulo": " Adquisición de Marcos de Diplomas, Escuela Puerto Frutales de Coyanco",
+      "monto": 315000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4596-477-COT26",
+      "org": "I. MUNICIPALIDAD DE SAN NICOLÁS D. EDUCACIÓN",
+      "titulo": "40 MARCOS DE MADERA PARA TALLER DE ARTES LICEO POLIVALENTE SAN NICOLÁS",
+      "monto": 1500000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2366-532-COT26",
+      "org": "I MUNICIPALIDAD DE ARICA",
+      "titulo": "ADQUISICION DE IMPRESION FOTOGRAFIAS,MARCOS,ATRILES Y GALARDONES, MEMO N°720, SDM",
+      "monto": 1340000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4856-299-COT26",
+      "org": "I MUNICIPALIDAD DE TIRUA",
+      "titulo": "S.A. N° 1186 Adquisición de bolsas TNT y marcos selfie",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2678-153-COT26",
+      "org": "I MUNICIPALIDAD DE MOSTAZAL",
+      "titulo": "MARCOS PARA CUADROS EXTRAESCOLAR",
+      "monto": 1071000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3518-340-COT26",
+      "org": "I MUNICIPALIDAD DE TRAIGUEN",
+      "titulo": "MARCOS DE DIPLOMAS LICEO LUIS DURAND/PRO RETENCION",
+      "monto": 2500000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "607-267-COT26",
+      "org": "PARQUE METROPOLITANO DE SANTIAGO",
+      "titulo": "Puertas de madera sólidas acústicas con marcos y cerraduras (Instalación incluida)",
+      "monto": 460000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3695-344-COT26",
+      "org": "I MUNICIPALIDAD DE TENO",
+      "titulo": "MARCOS DE MADERA, ESCUELA TENIENTE CRUZ Y ESCUELA TENO, LEY SEP.",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4358-100-COT26",
+      "org": "Ilustre Municipalidad de Nacimiento - Departamento de educación",
+      "titulo": "“Adquisición de Marcos para Diplomas de Alumnos destacados de Escuelas de Nacimiento “",
+      "monto": 2600000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2281-1826-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN \"ARTICULOS DE LIBRERIA\" CENTRO COMUNITARIO CUIDADOS C.C.C.DEPTO. ADULTO MAYOR, DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
+      "monto": 2361024,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "4089-284-COT26",
       "org": "Ilustre Municipalidad de Longaví Depto. de Salud",
       "titulo": "SERVICIO DE ELABORACION DE MAPA COMUNAL",
@@ -84,6 +240,19 @@
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 51
+    },
+    {
+      "codigo": "4894-296-COT26",
+      "org": "UNIVERSIDAD DE VALPARAISO",
+      "titulo": "Marcos de Acrílico doble panel",
+      "monto": 250000,
+      "dias": 3,
+      "cierre": "2026-10-19",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 51
     },
@@ -101,6 +270,19 @@
       "probabilidad": 50
     },
     {
+      "codigo": "2789-403-COT26",
+      "org": "I MUNICIPALIDAD DE PAINE",
+      "titulo": "MARCOS DE MADERA - LICEO MARIA CARVAJAL F.",
+      "monto": 714000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 1,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
       "codigo": "5413-385-COT26",
       "org": "UNIVERSIDAD DE LOS LAGOS",
       "titulo": "PLOTEO MAPA PROYECTO SEM15-2025",
@@ -114,17 +296,43 @@
       "probabilidad": 45
     },
     {
-      "codigo": "3517-198-COT26",
-      "org": "I MUNICIPALIDAD DE TRAIGUEN",
-      "titulo": "Mapa territorial del Lof Pantano",
-      "monto": 100000,
+      "codigo": "2440-1857-COT26",
+      "org": "I MUNICIPALIDAD DE CURICO",
+      "titulo": "MARCOS FOTOGRAFICOS COLEGIO POLIVALENTE JAPÓN DE CURICÓ",
+      "monto": 190000,
       "dias": 0,
-      "cierre": "2026-10-15",
-      "keyword": "MAPA",
+      "cierre": "2026-10-16",
+      "keyword": "MARCOS",
       "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "4158-208-COT26",
+      "org": "I.Municipalidad de El Carmen",
+      "titulo": "MARCOS E IMPRESIONES DE DECALOGO PARA DIFERENTES DEPENDENCIAS DEL DESAMU ",
+      "monto": 137000,
+      "dias": 1,
+      "cierre": "2026-10-17",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 1,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 42
+    },
+    {
+      "codigo": "3699-172-COT26",
+      "org": "I MUNICIPALIDAD DE PUMANQUE",
+      "titulo": "Adquisición de Cuadros para Instalación de Fotografía Presidencial en Dependencias Municipales",
+      "monto": 270000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 4,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 25
     }
   ]
 }
