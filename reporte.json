@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-17T14:48+00:00",
+  "generado": "2026-10-17T17:42+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,17 +36,17 @@
   "dias_atras": 7,
   "licitaciones": [
     {
-      "codigo": "2736-433-COT26",
-      "org": "I MUNICIPALIDAD DE ANGOL",
-      "titulo": "Marcos, vasos plásticos y otros",
-      "monto": 800000,
-      "dias": 2,
-      "cierre": "2026-10-19",
-      "keyword": "MARCOS",
+      "codigo": "1658-1570-COT26",
+      "org": "I MUNICIPALIDAD DE TEMUCO",
+      "titulo": "S23-26/DIRECION DE TURISMO, PATRIMONIO Y CULTURA/ ADQ. DE MAPA RUTERO",
+      "monto": 1100000,
+      "dias": 3,
+      "cierre": "2026-10-21",
+      "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 61
     },
     {
       "codigo": "3320-547-COT26",
@@ -75,6 +75,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "2736-433-COT26",
+      "org": "I MUNICIPALIDAD DE ANGOL",
+      "titulo": "Marcos, vasos plásticos y otros",
+      "monto": 800000,
+      "dias": 1,
+      "cierre": "2026-10-19",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "3797-474-COT26",
       "org": "I MUNICIPALIDAD DE COCHRANE",
       "titulo": "MARCOS DE MADERA DIPLOMA",
@@ -99,19 +112,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
-    },
-    {
-      "codigo": "2366-532-COT26",
-      "org": "I MUNICIPALIDAD DE ARICA",
-      "titulo": "ADQUISICION DE IMPRESION FOTOGRAFIAS,MARCOS,ATRILES Y GALARDONES, MEMO N°720, SDM",
-      "monto": 1340000,
-      "dias": 0,
-      "cierre": "2026-10-17",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "607-267-COT26",
