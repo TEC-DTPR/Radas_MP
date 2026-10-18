@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-18T15:13+00:00",
+  "generado": "2026-10-18T18:25+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -40,13 +40,13 @@
       "org": "I MUNICIPALIDAD DE TEMUCO",
       "titulo": "S23-26/DIRECION DE TURISMO, PATRIMONIO Y CULTURA/ ADQ. DE MAPA RUTERO",
       "monto": 1100000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-10-21",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
       "momento": "am",
-      "probabilidad": 61
+      "probabilidad": 59
     },
     {
       "codigo": "3320-547-COT26",
