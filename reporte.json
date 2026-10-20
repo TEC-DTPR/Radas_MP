@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-20T16:13+00:00",
+  "generado": "2026-10-20T20:19+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -62,17 +62,17 @@
       "probabilidad": 57
     },
     {
-      "codigo": "5517-475-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Compra 830 - Equipos Tecnológicos MAPA Octubre",
-      "monto": 1200000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "MAPA",
+      "codigo": "638-91-COT26",
+      "org": "SERVIU REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+      "titulo": " SEGURO POR RESPONSABILIDAD CIVIL PRA DRONE",
+      "monto": 350000,
+      "dias": 1,
+      "cierre": "2026-10-22",
+      "keyword": "DRONE",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 57
     },
     {
       "codigo": "1658-1570-COT26",
@@ -88,6 +88,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1216060-313-COT26",
+      "org": "Corporación Municipal de Deportes y Recreación Calama",
+      "titulo": "ACQ - Pasajes de vuelo",
+      "monto": 2500000,
+      "dias": 0,
+      "cierre": "2026-10-21",
+      "keyword": "VUELO",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "1447930-485-COT26",
       "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
       "titulo": "SSP – Servicio de Capacitación en Plataforma ArcGIS Pro",
@@ -95,6 +108,19 @@
       "dias": 0,
       "cierre": "2026-10-21",
       "keyword": "ARCGIS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2731-1156-COT26",
+      "org": "I MUNICIPALIDAD DE PENAFLOR",
+      "titulo": "SC. N°09.010-DIRECCIÓN DE OBRAS-UNIDAD DE CATASTRO-CARPETAS COLGANTES",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-10-21",
+      "keyword": "CATASTRO",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
@@ -132,7 +158,7 @@
       "titulo": "EL SSDR REQUIERE COMPRAR PASAJE DE VUELO A LA PROVINCIA DE PALENA",
       "monto": 190000,
       "dias": 0,
-      "cierre": "2026-10-20",
+      "cierre": "2026-10-21",
       "keyword": "VUELO",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
