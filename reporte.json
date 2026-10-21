@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-21T16:27+00:00",
+  "generado": "2026-10-21T20:27+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -114,19 +114,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1658-1570-COT26",
-      "org": "I MUNICIPALIDAD DE TEMUCO",
-      "titulo": "S23-26/DIRECION DE TURISMO, PATRIMONIO Y CULTURA/ ADQ. DE MAPA RUTERO",
-      "monto": 1100000,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "638-91-COT26",
       "org": "SERVIU REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
       "titulo": " SEGURO POR RESPONSABILIDAD CIVIL PRA DRONE",
@@ -140,41 +127,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1216060-313-COT26",
-      "org": "Corporación Municipal de Deportes y Recreación Calama",
-      "titulo": "ACQ - Pasajes de vuelo",
-      "monto": 2500000,
+      "codigo": "1057491-1906-COT26",
+      "org": "SERVICIO DE SALUD ORIENTE HOSPITAL LUIS CALVO MACKENNA",
+      "titulo": "ADQUISICIÓN DE KIT DE SISTEMA DE DETECCIÓN EN VUELO ENVFLEX HIGH PH PARA DAKO OMNIS",
+      "monto": 3800000,
       "dias": 0,
-      "cierre": "2026-10-21",
+      "cierre": "2026-10-22",
       "keyword": "VUELO",
       "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2731-1156-COT26",
-      "org": "I MUNICIPALIDAD DE PENAFLOR",
-      "titulo": "SC. N°09.010-DIRECCIÓN DE OBRAS-UNIDAD DE CATASTRO-CARPETAS COLGANTES",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "CATASTRO",
-      "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3477-565-COT26",
-      "org": "I MUNICIPALIDAD DE VILCUN",
-      "titulo": "GALVANOS Y MARCOS DE MADERA PARA REALIZAR PREMIACIÓN A FUNCIONARIOS MUNICIPALES POR LOS AÑOS DE ANTIGÜEDAD EN LA INSTITUCIÓN, EN CONMEMORACIÓN DEL DÍA DEL FUNCIONARIO MUNICIPAL",
-      "monto": 660000,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -205,19 +166,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3785-238-COT26",
-      "org": "I MUNICIPALIDAD DE COELEMU",
-      "titulo": "MEDALLAS, GALVANOS Y MARCOS ESTABLECIMIENTOS- SEP ",
-      "monto": 6500000,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2710-644-COT26",
       "org": "MUNICIPALIDAD DE OVALLE",
       "titulo": "INSUMOS DE TERAPIAS COMPLEMENTARIAS, SOLICITUD N°2086/2026, CCR DIRECCIÓN MARCOS MACUADA OGALDE.",
@@ -229,32 +177,6 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "2292-906-COT26",
-      "org": "I MUNICIPALIDAD DE TALCA",
-      "titulo": "IMPRESION DIGITAL FULL COLOR MAPA TERRITORIAL - OP 13757 (NMC) - CONVENIO SALUD FAMILIAR",
-      "monto": 70000,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1057536-1257-COT26",
-      "org": "SERVICIO SALUD DEL RELONCAVI",
-      "titulo": "EL SSDR REQUIERE COMPRAR PASAJE DE VUELO A LA PROVINCIA DE PALENA",
-      "monto": 190000,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "VUELO",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "1758-255-COT26",
@@ -279,19 +201,6 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "3485-1045-COT26",
-      "org": "I MUNICIPALIDAD DE NUEVA IMPERIAL",
-      "titulo": "ADQUISICIÓN DE PREMIOS GALVANOS Y MARCOS",
-      "monto": 135000,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 45
     },
