@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-21T02:35+00:00",
+  "generado": "2026-10-21T16:27+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,121 +36,82 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "2273-868-COT26",
+      "org": "I MUNICIPALIDAD DE LA PINTANA",
+      "titulo": " SERVICIO DE ENMARCADO DE FOTOGRAFÍA PRESIDENCIAL OFICIAL, Memo 27964 mms",
+      "monto": 500000,
+      "dias": 4,
+      "cierre": "2026-10-26",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
+      "codigo": "3836-332-COT26",
+      "org": "I MUNICIPALIDAD DE TOLTEN",
+      "titulo": "ADMINISTRACION - IMPLEMENTOS DE FOTOGRAFIA ",
+      "monto": 500000,
+      "dias": 2,
+      "cierre": "2026-10-24",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "722-131-COT26",
       "org": "GOBIERNO REGIONAL DE LA ARAUCANIA",
       "titulo": "Adquisición de Drone DJI Mini 4K o similar",
       "monto": 1500000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-10-23",
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 57
     },
     {
       "codigo": "2755-348-COT26",
       "org": "I MUNICIPALIDAD DE SAN ANTONIO",
       "titulo": "SERVICIO DE CONSULTORIA ESPECIALIZADA DE CATASTRO HABITACIONAL LOCALIDAD DE CUNCUMÉN, FOLIO 1357",
       "monto": 5000000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-10-23",
       "keyword": "CATASTRO",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 57
     },
     {
       "codigo": "5060-1047-COT26",
       "org": "I MUNICIPALIDAD DE TEMUCO",
       "titulo": "SN°657-SEP-ADQUISICION DE MARCOS PARA DIPLOMAS LICEO PABLO NERUDA",
       "monto": 2400000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-10-23",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
       "momento": "am",
-      "probabilidad": 59
+      "probabilidad": 57
     },
     {
       "codigo": "3146-76-COT26",
       "org": "I MUNICIPALIDAD DE MARIA ELENA",
       "titulo": "CONFECCION MAPA ACRILICO, MATERIAL INFOMATICO, PENDONES Y PANEL O PIZARRA INFORMATICA",
       "monto": 2240000,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-10-22",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
       "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "638-91-COT26",
-      "org": "SERVIU REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
-      "titulo": " SEGURO POR RESPONSABILIDAD CIVIL PRA DRONE",
-      "monto": 350000,
-      "dias": 1,
-      "cierre": "2026-10-22",
-      "keyword": "DRONE",
-      "ofertas_actuales": 0,
-      "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2733-556-COT26",
-      "org": "I MUNICIPALIDAD DE PENAFLOR",
-      "titulo": "SC 42504 / ADQUISICION DE MARCOS, PROCESO DE CERTIFICACION LECTOR PRIMER AÑO BASICO, ESCUELA EMILIA LASCAR. ",
-      "monto": 1050000,
-      "dias": 1,
-      "cierre": "2026-10-22",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2440-1961-COT26",
-      "org": "I MUNICIPALIDAD DE CURICO",
-      "titulo": "MARCOS DE MADERA PARA FOTOS ESTABLECIMIENTO EDUCACIONAL ESCUELA HOLANDA ",
-      "monto": 350000,
-      "dias": 1,
-      "cierre": "2026-10-22",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2710-644-COT26",
-      "org": "MUNICIPALIDAD DE OVALLE",
-      "titulo": "INSUMOS DE TERAPIAS COMPLEMENTARIAS, SOLICITUD N°2086/2026, CCR DIRECCIÓN MARCOS MACUADA OGALDE.",
-      "monto": 1057021,
-      "dias": 1,
-      "cierre": "2026-10-22",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1171166-125-COT26",
-      "org": "SERVICIO LOCAL DE EDUCACION PÚBLICA DE ATACAMA",
-      "titulo": "PO2SEP/VHCC/ESCUELA BUEN PASTOR/RBD417/ORD94/MARCOS DE FOTO",
-      "monto": 450000,
-      "dias": 1,
-      "cierre": "2026-10-22",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 57
+      "probabilidad": 55
     },
     {
       "codigo": "1658-1570-COT26",
@@ -166,6 +127,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "638-91-COT26",
+      "org": "SERVIU REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+      "titulo": " SEGURO POR RESPONSABILIDAD CIVIL PRA DRONE",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-10-22",
+      "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región de Magallanes y de la Antártica",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "1216060-313-COT26",
       "org": "Corporación Municipal de Deportes y Recreación Calama",
       "titulo": "ACQ - Pasajes de vuelo",
@@ -175,19 +149,6 @@
       "keyword": "VUELO",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1447930-485-COT26",
-      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
-      "titulo": "SSP – Servicio de Capacitación en Plataforma ArcGIS Pro",
-      "monto": 1200000,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "ARCGIS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -218,6 +179,32 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2733-556-COT26",
+      "org": "I MUNICIPALIDAD DE PENAFLOR",
+      "titulo": "SC 42504 / ADQUISICION DE MARCOS, PROCESO DE CERTIFICACION LECTOR PRIMER AÑO BASICO, ESCUELA EMILIA LASCAR. ",
+      "monto": 1050000,
+      "dias": 0,
+      "cierre": "2026-10-22",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2440-1961-COT26",
+      "org": "I MUNICIPALIDAD DE CURICO",
+      "titulo": "MARCOS DE MADERA PARA FOTOS ESTABLECIMIENTO EDUCACIONAL ESCUELA HOLANDA ",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-10-22",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "3785-238-COT26",
       "org": "I MUNICIPALIDAD DE COELEMU",
       "titulo": "MEDALLAS, GALVANOS Y MARCOS ESTABLECIMIENTOS- SEP ",
@@ -231,28 +218,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "4057-877-COT26",
-      "org": "I MUNICIPALIDAD DE LONQUIMAY",
-      "titulo": "ADQ. MARCOS DIPLOMA ESC. B. ÑANCO SEP.-",
-      "monto": 800000,
+      "codigo": "2710-644-COT26",
+      "org": "MUNICIPALIDAD DE OVALLE",
+      "titulo": "INSUMOS DE TERAPIAS COMPLEMENTARIAS, SOLICITUD N°2086/2026, CCR DIRECCIÓN MARCOS MACUADA OGALDE.",
+      "monto": 1057021,
       "dias": 0,
-      "cierre": "2026-10-21",
+      "cierre": "2026-10-22",
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2291-1038-COT26",
-      "org": "I MUNICIPALIDAD DE TALCA",
-      "titulo": "NP/100 - SECPLAN - TAZONES TRANSPARENTE CON LOGO - MARCOS FOTOGRAFICOS SEGÚN ARCHIVO ADJUNTO ",
-      "monto": 752645,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
+      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -270,19 +244,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "4738-198-COT26",
-      "org": "I MUNICIPALIDAD DE CODEGUA",
-      "titulo": "Compra de diseño impresión e instalación del mapa de activos comunitarios de la comuna Programa MAIS FC ",
-      "monto": 149940,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "1057536-1257-COT26",
       "org": "SERVICIO SALUD DEL RELONCAVI",
       "titulo": "EL SSDR REQUIERE COMPRAR PASAJE DE VUELO A LA PROVINCIA DE PALENA",
@@ -292,6 +253,19 @@
       "keyword": "VUELO",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "1758-255-COT26",
+      "org": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+      "titulo": "MARCOS PARA FOTO",
+      "monto": 100000,
+      "dias": 0,
+      "cierre": "2026-10-22",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Aysén del General Carlos Ibáñez del Campo",
       "momento": "am",
       "probabilidad": 45
     },
@@ -322,30 +296,30 @@
       "probabilidad": 45
     },
     {
-      "codigo": "2905-543-COT26",
-      "org": "I MUNICIPALIDAD DE LANCO",
-      "titulo": "ADQUISICIÓN DE MARCOS DE DIPLOMA Y OPALINA PARA PROGRAMA PDTI",
-      "monto": 200000,
+      "codigo": "5040-218-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE QUILLON",
+      "titulo": "Adquisición de Materiales e Insumos Talleres de Fotografía y Autocuidado - Oficina Municipal de Migración",
+      "monto": 150000,
       "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "MARCOS",
+      "cierre": "2026-10-22",
+      "keyword": "FOTOGRAFÍA",
       "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
+      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 45
     },
     {
-      "codigo": "2432-802-COT26",
-      "org": "I MUNICIPALIDAD ESTACION CENTRAL",
-      "titulo": "SOL.754/ADMINISTRACIÓN MUNICIPAL/PROGRAMA PARA GESTION DE FOTOGRAFIA Y ALMACENAMIENTO/MAXIMILIANO GARATE ",
-      "monto": 100000,
-      "dias": 0,
-      "cierre": "2026-10-21",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "codigo": "2291-1038-COT26",
+      "org": "I MUNICIPALIDAD DE TALCA",
+      "titulo": "NP/100 - SECPLAN - TAZONES TRANSPARENTE CON LOGO - MARCOS FOTOGRAFICOS SEGÚN ARCHIVO ADJUNTO ",
+      "monto": 752645,
+      "dias": 1,
+      "cierre": "2026-10-23",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 9,
+      "region": "Región del Maule ",
       "momento": "am",
-      "probabilidad": 45
+      "probabilidad": 17
     }
   ]
 }
