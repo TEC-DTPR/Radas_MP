@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-22T20:23+00:00",
+  "generado": "2026-10-22T23:49+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -58,6 +58,19 @@
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "2281-1913-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN \"ÚTILES DE ASEO\" CENTRO COMUNITARIO CUIDADOS C.C.C.DEPTO. ADULTO MAYOR, DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
+      "monto": 1015000,
+      "dias": 3,
+      "cierre": "2026-10-26",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 61
     },
