@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-24T21:22+00:00",
+  "generado": "2026-10-24T23:55+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -268,19 +268,6 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 47
-    },
-    {
-      "codigo": "3588-540-COT26",
-      "org": "I MUNICIPALIDAD DE YUNGAY",
-      "titulo": "Marcos de Diploma.  Ceremonia Egreso Programa Vinculos 2024-B",
-      "monto": 100000,
-      "dias": 0,
-      "cierre": "2026-10-24",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 45
     }
   ]
 }
