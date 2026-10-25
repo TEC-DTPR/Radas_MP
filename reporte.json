@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-25T15:22+00:00",
+  "generado": "2026-10-25T18:40+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -45,19 +45,6 @@
       "keyword": "ARCGIS",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2281-1913-COT26",
-      "org": "I MUNICIPALIDAD VALDIVIA",
-      "titulo": " ADQUISICIÓN \"ÚTILES DE ASEO\" CENTRO COMUNITARIO CUIDADOS C.C.C.DEPTO. ADULTO MAYOR, DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
-      "monto": 1015000,
-      "dias": 1,
-      "cierre": "2026-10-26",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 57
     },
@@ -179,6 +166,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2281-1913-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN \"ÚTILES DE ASEO\" CENTRO COMUNITARIO CUIDADOS C.C.C.DEPTO. ADULTO MAYOR, DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
+      "monto": 1015000,
+      "dias": 0,
+      "cierre": "2026-10-26",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2281-1908-COT26",
       "org": "I MUNICIPALIDAD VALDIVIA",
       "titulo": " ADQUISICIÓN \"VASOS, PLATOS, CUCHARAS, TENEDORES, BOLSAS Y BANDEJAS \"DEPTO. ADULTO MAYOR, DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
@@ -201,19 +201,6 @@
       "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1643-966-COT26",
-      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE T",
-      "titulo": " Adquisición de Mascarillas Laríngeas tipo Fastrach Medidas Fotografía Referencia Adjunta / Despacho Incluido",
-      "monto": 965000,
-      "dias": 0,
-      "cierre": "2026-10-25",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
