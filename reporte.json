@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-26T22:59+00:00",
+  "generado": "2026-10-27T01:53+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -40,13 +40,13 @@
       "org": "Servicio Nacional de Turismo",
       "titulo": "ETIQUETAS ADHESIVAS MAPA CON CIRCUITOS DE VIAJE (GUÍA RÁPIDA",
       "monto": 320000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-10-30",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
     },
     {
       "codigo": "2710-679-COT26",
@@ -97,19 +97,6 @@
       "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "5066-252-COT26",
-      "org": "I MUNICIPALIDAD DE PITRUFQUEN",
-      "titulo": "Servicio de impresión libro trabajo final taller de fotografía patrimonial 2026 SA N°282 DDC",
-      "monto": 1000000,
-      "dias": 1,
-      "cierre": "2026-10-28",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 57
     },
