@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-28T00:53+00:00",
+  "generado": "2026-10-28T03:06+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -305,6 +305,19 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "633470-222-COT26",
+      "org": "UNIVERSIDAD DE VALPARAISO",
+      "titulo": "Adquisición de cuadros de reconocimiento con fotografía y placa de bronce - Facultad de Ingeniería",
+      "monto": 50000,
+      "dias": 1,
+      "cierre": "2026-10-29",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 47
     },
