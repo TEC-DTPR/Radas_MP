@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-30T02:19+00:00",
+  "generado": "2026-10-30T03:34+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -218,6 +218,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "633470-222-COT26",
+      "org": "UNIVERSIDAD DE VALPARAISO",
+      "titulo": "Adquisición de cuadros de reconocimiento con fotografía y placa de bronce - Facultad de Ingeniería",
+      "monto": 50000,
+      "dias": 1,
+      "cierre": "2026-11-01",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
       "codigo": "4168-417-COT26",
       "org": "ILUSTRE MUNICIPALIDAD DE COLBUN",
       "titulo": "MARCOS PARA DIPLOMAS",
@@ -253,19 +266,6 @@
       "keyword": "FOTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "633470-222-COT26",
-      "org": "UNIVERSIDAD DE VALPARAISO",
-      "titulo": "Adquisición de cuadros de reconocimiento con fotografía y placa de bronce - Facultad de Ingeniería",
-      "monto": 50000,
-      "dias": 0,
-      "cierre": "2026-10-29",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 45
     },
