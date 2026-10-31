@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-31T01:21+00:00",
+  "generado": "2026-10-31T03:19+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -218,19 +218,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1591-148-COT26",
-      "org": "Servicio Nacional de Turismo",
-      "titulo": "ETIQUETAS ADHESIVAS MAPA CON CIRCUITOS DE VIAJE (GUÍA RÁPIDA",
-      "monto": 320000,
-      "dias": 0,
-      "cierre": "2026-10-30",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "903031-44-COT26",
       "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
       "titulo": "Levantamiento dimensional crítico mediante escáner láser 3D y fotogrametría aérea y terrestre para el Sitio Patrimonio Mundial Oficinas Salitreras de Humberstone y Santa Laura",
@@ -283,19 +270,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "633470-222-COT26",
-      "org": "UNIVERSIDAD DE VALPARAISO",
-      "titulo": "Adquisición de cuadros de reconocimiento con fotografía y placa de bronce - Facultad de Ingeniería",
-      "monto": 50000,
-      "dias": 1,
-      "cierre": "2026-11-01",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "1747-152-COT26",
       "org": "HOSPITAL DE MEJILLONES",
       "titulo": "MAPAS MURALES DE LA COMUNA DE MEJILLONES (Ver Especificaciones en adjunto) ADJUNTAR COTIZACION DETALLADA",
@@ -318,6 +292,19 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "633470-222-COT26",
+      "org": "UNIVERSIDAD DE VALPARAISO",
+      "titulo": "Adquisición de cuadros de reconocimiento con fotografía y placa de bronce - Facultad de Ingeniería",
+      "monto": 50000,
+      "dias": 0,
+      "cierre": "2026-11-01",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 45
     },
