@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-30T21:53+00:00",
+  "generado": "2026-10-31T01:21+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -205,19 +205,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "903031-44-COT26",
-      "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-      "titulo": "Levantamiento dimensional crítico mediante escáner láser 3D y fotogrametría aérea y terrestre para el Sitio Patrimonio Mundial Oficinas Salitreras de Humberstone y Santa Laura",
-      "monto": 7000000,
-      "dias": 1,
-      "cierre": "2026-10-31",
-      "keyword": "FOTOGRAMETRÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "5517-505-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "Compra 895 - Traslado en un bus para iniciativa “Laboratorios  Museo de Arte Popular Americano (MAPA)”",
@@ -244,15 +231,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1298354-479-COT26",
-      "org": "DIRECCION DE EDUCACION",
-      "titulo": "CONTRATACIÓN DEL “SERVICIO DE ENTRADAS AVIARIO DE LIBRE VUELO\"",
-      "monto": 616000,
+      "codigo": "903031-44-COT26",
+      "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+      "titulo": "Levantamiento dimensional crítico mediante escáner láser 3D y fotogrametría aérea y terrestre para el Sitio Patrimonio Mundial Oficinas Salitreras de Humberstone y Santa Laura",
+      "monto": 7000000,
       "dias": 0,
-      "cierre": "2026-10-30",
-      "keyword": "VUELO",
+      "cierre": "2026-10-31",
+      "keyword": "FOTOGRAMETRÍA",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 55
     },
