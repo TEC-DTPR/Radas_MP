@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-03T18:57+00:00",
+  "generado": "2026-11-03T23:52+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -49,6 +49,32 @@
       "probabilidad": 73
     },
     {
+      "codigo": "2020-227-COT26",
+      "org": "Biblioteca del Congreso Nacional",
+      "titulo": "ELABORACIÓN DE PLACA DE BRONCE CON DESCRIPCIÓN DE MAPA DE AMERICA MERIDIONAL ",
+      "monto": 600000,
+      "dias": 3,
+      "cierre": "2026-11-07",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "3885-363-COT26",
+      "org": "I MUNICIPALIDAD DE PICA",
+      "titulo": "SEGURO DE RESPONSABILIDAD CIVIL PARA DRONE",
+      "monto": 412583,
+      "dias": 2,
+      "cierre": "2026-11-06",
+      "keyword": "DRONE",
+      "ofertas_actuales": 0,
+      "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "2863-167-COT26",
       "org": "I MUNICIPALIDAD PUERTO OCTAY",
       "titulo": "ADQUISICIÓN DE MAPAS Y EQUIPAMIENTO DE PROYECCIÓN – PRAPS MAIS 2026",
@@ -58,6 +84,19 @@
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1233623-1018-COT26",
+      "org": "Servicio Local de Educación Pública Licancabur",
+      "titulo": "ADQUISICIÓN DE MARCOS Y MEDALLAS PARA LICEO RADOMIRO TOMIC RBD-12961 Y ESCUELA CLAUDIO ARRAU RBD-223",
+      "monto": 932663,
+      "dias": 2,
+      "cierre": "2026-11-06",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -140,32 +179,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "2020-227-COT26",
-      "org": "Biblioteca del Congreso Nacional",
-      "titulo": "ELABORACIÓN DE PLACA DE BRONCE CON DESCRIPCIÓN DE MAPA DE AMERICA MERIDIONAL ",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3885-363-COT26",
-      "org": "I MUNICIPALIDAD DE PICA",
-      "titulo": "SEGURO DE RESPONSABILIDAD CIVIL PARA DRONE",
-      "monto": 412583,
-      "dias": 0,
-      "cierre": "2026-11-04",
-      "keyword": "DRONE",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "4034-746-COT26",
       "org": "Ilustre Municipalidad de Cañete - Educación",
       "titulo": "ADQUISICIÓN DE GLOBOS TERRÁQUEOS Y MAPAS PARA ESCUELA F-817",
@@ -218,19 +231,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3518-363-COT26",
-      "org": "I MUNICIPALIDAD DE TRAIGUEN",
-      "titulo": "MARCOS PARA DIPLOMAS LICEO LUCILA GODOY ALCAYAGA-SEP",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3916-495-COT26",
       "org": "I MUNICIPALIDAD DE TALTAL",
       "titulo": "MARCOS DE MADERA",
@@ -270,19 +270,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5485-908-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "COMPRA DE BARRAS DE CALISTENIA (SE ADJUNTA PDF DE CARACTERISTICAS TÉCNICAS SOLICITADAS Y FOTOGRAFIA REFERENCIA).",
-      "monto": 380000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "618923-192-COT26",
       "org": "SUBSECRETARIA PARA LAS FUERZAS ARMADAS",
       "titulo": "10 LIBROS CON FOTOGRAFÍAS DE CHILE Y MARCADORES DE COBRE",
@@ -294,45 +281,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "2696-89-COT26",
-      "org": "I MUNICIPALIDAD DE CARTAGENA",
-      "titulo": "ADQUISICIÓN DE ACCESORIOS, EQUIPAMIENTO Y MATERIALES PARA TALLER DE FOTOGRAFÍA Y AUDIOVISUAL LICEO BICENTENARIO POETA VICENTE HUIDOBRO ",
-      "monto": 7150000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2322-735-COT26",
-      "org": "I MUNICIPALIDAD DE VALLENAR",
-      "titulo": "Impresión y Montaje de Fotografía Programa Pequeñas Localidades Sistema Domeyko y Cachiyuyo",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1057544-337-COT26",
-      "org": "SERVICIO DE SALUD DE TALCAHUANO HOSPITAL",
-      "titulo": "MARCOS ",
-      "monto": 312000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 1,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 50
     },
     {
       "codigo": "1747-156-COT26",
@@ -370,6 +318,19 @@
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "5586-3007-COT26",
+      "org": "UNIVERSIDAD DE LA FRONTERA",
+      "titulo": "P/A Adquisición de 100 marcos para diplomas",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-11-04",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 45
     },
