@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-03T03:15+00:00",
+  "generado": "2026-11-03T04:37+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -36,19 +36,6 @@
   "dias_atras": 7,
   "licitaciones": [
     {
-      "codigo": "1057595-53-COT26",
-      "org": "SERVICIO DE SALUD ARAUCANIA SUR",
-      "titulo": "Servicio de Producción Premiación 12do Concurso Infantil de Fotografía y Selfie \"Nos Cuidamos en Familia\"",
-      "monto": 700000,
-      "dias": 3,
-      "cierre": "2026-11-06",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
       "codigo": "3553-92-COT26",
       "org": "MINISTERIO DE BIENES NACIONALES",
       "titulo": "Contratación de 2 cursos de Fotogrametría",
@@ -71,6 +58,19 @@
       "keyword": "FOTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1057595-53-COT26",
+      "org": "SERVICIO DE SALUD ARAUCANIA SUR",
+      "titulo": "Servicio de Producción Premiación 12do Concurso Infantil de Fotografía y Selfie \"Nos Cuidamos en Familia\"",
+      "monto": 700000,
+      "dias": 2,
+      "cierre": "2026-11-06",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 59
     },
