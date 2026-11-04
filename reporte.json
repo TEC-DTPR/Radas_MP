@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-03T23:52+00:00",
+  "generado": "2026-11-04T03:57+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -60,6 +60,19 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 61
+    },
+    {
+      "codigo": "5952-114-COT26",
+      "org": "UNIVERSIDAD DE TARAPACA",
+      "titulo": "Servicio de alimentación, arriendo de salón y apoyo logístico para actividades académicas de la Carrera de Pedagogía en Historia, Geografía y Ciencias Sociales",
+      "monto": 3000000,
+      "dias": 2,
+      "cierre": "2026-11-06",
+      "keyword": "GEOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 59
     },
     {
       "codigo": "3885-363-COT26",
