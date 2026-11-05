@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-05T00:42+00:00",
+  "generado": "2026-11-05T04:18+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -218,19 +218,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1057595-53-COT26",
-      "org": "SERVICIO DE SALUD ARAUCANIA SUR",
-      "titulo": "Servicio de Producción Premiación 12do Concurso Infantil de Fotografía y Selfie \"Nos Cuidamos en Familia\"",
-      "monto": 700000,
-      "dias": 1,
-      "cierre": "2026-11-06",
-      "keyword": "FOTOGRAFÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "4089-316-COT26",
       "org": "Ilustre Municipalidad de Longaví Depto. de Salud",
       "titulo": "IMPRESIÓN DE MAPA COMUNAL Y LIENZO EN PVC - PARTICIPACION Y PROMOCION",
@@ -331,6 +318,19 @@
       "keyword": "FOTOGRAFÍA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1057595-53-COT26",
+      "org": "SERVICIO DE SALUD ARAUCANIA SUR",
+      "titulo": "Servicio de Producción Premiación 12do Concurso Infantil de Fotografía y Selfie \"Nos Cuidamos en Familia\"",
+      "monto": 700000,
+      "dias": 0,
+      "cierre": "2026-11-06",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
