@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-05T19:22+00:00",
+  "generado": "2026-11-06T00:39+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -49,6 +49,19 @@
       "probabilidad": 69
     },
     {
+      "codigo": "1002592-29-COT26",
+      "org": "SERVICIO LOCAL DE EDUCACION LAS BARRANCAS",
+      "titulo": " PROYECTO MAPA TERRITORIO BARRANCAS E IMAGEN INSTITUCIONAL OFICINAS NIVEL CENTRAL SLEP BARRANCAS",
+      "monto": 6000000,
+      "dias": 4,
+      "cierre": "2026-11-10",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
       "codigo": "4832-113-COT26",
       "org": "ILUSTRE MUNICIPALIDAD COCHAMO",
       "titulo": "DISEÑO GRAFICO MAPA",
@@ -75,6 +88,19 @@
       "probabilidad": 63
     },
     {
+      "codigo": "1491850-51-COT26",
+      "org": "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCAC",
+      "titulo": "ADQUISICION DE CURSO DE OPERADOR DE DRONES (RPAS) Y VUELO NOCTURNO ",
+      "monto": 300000,
+      "dias": 3,
+      "cierre": "2026-11-09",
+      "keyword": "VUELO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "2735-1396-COT26",
       "org": "I MUNICIPALIDAD LO BARNECHEA",
       "titulo": "CURSO DE ESPECIALIZACIÓN EN OPERACIONES DE VUELO NOCTURNO CON AERONAVES PILOTADAS A DISTANCIA (RPAS)",
@@ -95,6 +121,19 @@
       "dias": 3,
       "cierre": "2026-11-09",
       "keyword": "MAPAS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "1491850-52-COT26",
+      "org": "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCAC",
+      "titulo": "ADQUISICION DE LICENCIA SOFTWARE ARCGIS 3.7 TIPO USUARIO PROFESIONAL",
+      "monto": 1100000,
+      "dias": 3,
+      "cierre": "2026-11-09",
+      "keyword": "ARCGIS",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
@@ -335,17 +374,30 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5485-898-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "SE SOLICITA DE 4 JARDINERAS DE LÁMINA DE GEOTEXTIL O SIMILAR (ENVIAR PROPUESTA CON FOTOGRAFÍA E ÍTEMIZADO DE ESPECIES A INCORPORAR PARA ADJUDICAR SE EVALUARÁ ESTA PROPUESTA VENIR A VISITA A TERRENO).",
-      "monto": 800000,
-      "dias": 0,
-      "cierre": "2026-11-05",
-      "keyword": "FOTOGRAFÍA",
+      "codigo": "2792-978-COT26",
+      "org": "Iluste Municipalidad de Huechuraba",
+      "titulo": "TROFEOS, MEDALLAS Y MARCOS DE FOTOGRAFÍA - \"CALIDAD DE VIDA\" ",
+      "monto": 200000,
+      "dias": 2,
+      "cierre": "2026-11-08",
+      "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 49
+    },
+    {
+      "codigo": "4738-214-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": " Compra de diseño impresión e instalación del mapa de activos comunitarios de la comuna Programa MAIS FC",
+      "monto": 204680,
+      "dias": 0,
+      "cierre": "2026-11-06",
+      "keyword": "MAPA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 45
     },
     {
       "codigo": "1747-156-COT26",
@@ -387,19 +439,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "2322-749-COT26",
-      "org": "I MUNICIPALIDAD DE VALLENAR",
-      "titulo": "Adquisición marcos para fotografías destinado a actividades Municipales",
-      "monto": 250000,
-      "dias": 0,
-      "cierre": "2026-11-05",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "4161-397-COT26",
       "org": "I MUNICIPALIDAD DE DONIHUE",
       "titulo": "Marcos de madera para diplomas, Colegio La Isla",
@@ -411,19 +450,6 @@
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 45
-    },
-    {
-      "codigo": "5485-908-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "COMPRA DE BARRAS DE CALISTENIA (SE ADJUNTA PDF DE CARACTERISTICAS TÉCNICAS SOLICITADAS Y FOTOGRAFIA REFERENCIA).",
-      "monto": 380000,
-      "dias": 0,
-      "cierre": "2026-11-05",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 3,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 40
     }
   ]
 }
