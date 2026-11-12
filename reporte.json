@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-11T19:08+00:00",
+  "generado": "2026-11-12T01:46+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -88,6 +88,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "3714-437-COT26",
+      "org": "I MUNICIPALIDAD DE LOS VILOS",
+      "titulo": "Adquisición de marcos y opalinas para graduación de la Escuela Ercole Bencini.",
+      "monto": 1000000,
+      "dias": 1,
+      "cierre": "2026-11-13",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "2710-807-COT26",
       "org": "MUNICIPALIDAD DE OVALLE",
       "titulo": "INSUMOS DE TERAPIAS, SOLICITUD N°2096/2026, CONVENIO MAS SALUD EN COMUNIDAD - CESFAM MARCOS MACUADA OGALDE.",
@@ -127,10 +140,23 @@
       "probabilidad": 57
     },
     {
-      "codigo": "5517-542-COT26",
+      "codigo": "2281-2064-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN ”Insumos para talleres estimulación física y cognitiva” DEPTO. ADULTO MAYOR, DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
+      "monto": 800000,
+      "dias": 1,
+      "cierre": "2026-11-13",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5517-547-COT26",
       "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Compra N°910 - Materiales especializados de conservación y restauración MAPA",
-      "monto": 500000,
+      "titulo": "SOL.912  Compra de Equipos de control climático MAPA",
+      "monto": 744600,
       "dias": 0,
       "cierre": "2026-11-12",
       "keyword": "MAPA",
@@ -140,12 +166,12 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5517-539-COT26",
+      "codigo": "5517-542-COT26",
       "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Compra 893 - Servicio de consultoría para la normalización y modelamiento semántico en el MAPA",
-      "monto": 2000000,
+      "titulo": "Compra N°910 - Materiales especializados de conservación y restauración MAPA",
+      "monto": 500000,
       "dias": 0,
-      "cierre": "2026-11-11",
+      "cierre": "2026-11-12",
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
@@ -179,19 +205,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "4491-567-COT26",
-      "org": "Ilustre Municipalidad de Penco - Educación",
-      "titulo": "Mapas y Globos terráqueos , Escuela Patricio Lynch",
-      "monto": 1300000,
-      "dias": 0,
-      "cierre": "2026-11-11",
-      "keyword": "MAPAS",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3753-306-COT26",
       "org": "I MUNICIPALIDAD DE CANELA",
       "titulo": "COMPRA DE MARCOS, LICENCIAS Y DIPLOMAS PARA LICENCIATURAS 2026",
@@ -201,19 +214,6 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1375754-90-COT26",
-      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA LOS PARQUES",
-      "titulo": "MARCOS PARA CUADROS DE FOTOGRAFÍA PRESIDENCIAL",
-      "monto": 2500000,
-      "dias": 0,
-      "cierre": "2026-11-11",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -236,7 +236,7 @@
       "titulo": "TALLER DE FOTOGRAFIA - PROGRAMA SALUD MENTAL DEL CRNH",
       "monto": 600000,
       "dias": 0,
-      "cierre": "2026-11-11",
+      "cierre": "2026-11-12",
       "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
@@ -322,6 +322,19 @@
       "probabilidad": 49
     },
     {
+      "codigo": "3952-262-COT26",
+      "org": "I MUNICIPALIDAD DE PERALILLO",
+      "titulo": "MARCOS DE MADERA - COLEGIO MANUEL RODRIGUEZ",
+      "monto": 216000,
+      "dias": 1,
+      "cierre": "2026-11-13",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
       "codigo": "2446-1112-COT26",
       "org": "I MUNICIPALIDAD DE COQUIMBO",
       "titulo": "ADQUISICIÓN DE 120 MARCOS PARA DIPLOMAS MATERIAL MDF - PROGRAMA MSMC - DIDECO ",
@@ -370,19 +383,6 @@
       "keyword": "MAPA",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "5517-538-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Compra 911 - Grabadora de voz digital portatil MAPA",
-      "monto": 279380,
-      "dias": 0,
-      "cierre": "2026-11-11",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 45
     },
