@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-12T19:27+00:00",
+  "generado": "2026-11-13T00:52+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -35,6 +35,19 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "2287-778-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE MACUL",
+      "titulo": "DIDECO OMNA  COPAS TOFEOS MEDALLAS MARCOS",
+      "monto": 883300,
+      "dias": 4,
+      "cierre": "2026-11-17",
+      "keyword": "MARCOS",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 63
+    },
     {
       "codigo": "1733-161-COT26",
       "org": "INSTITUTO FORESTAL",
@@ -101,6 +114,19 @@
       "probabilidad": 61
     },
     {
+      "codigo": "2755-386-COT26",
+      "org": "I MUNICIPALIDAD DE SAN ANTONIO",
+      "titulo": "CAPACITACION OPERADORES DE DRON PARA VUELO NOCTURNO FOLIO 1489",
+      "monto": 570000,
+      "dias": 1,
+      "cierre": "2026-11-14",
+      "keyword": "VUELO",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "3970-42-COT26",
       "org": "Dirección General de Carabineros de Chile",
       "titulo": "ADQUISICIÓN DE ACRÍLICOS PORTA MAPAS PARA EL CAODI Y DICDINCAR",
@@ -125,19 +151,6 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 57
-    },
-    {
-      "codigo": "5517-547-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "SOL.912  Compra de Equipos de control climático MAPA",
-      "monto": 744600,
-      "dias": 0,
-      "cierre": "2026-11-12",
-      "keyword": "MAPA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "1002592-32-COT26",
@@ -309,19 +322,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "4906-132-COT26",
-      "org": "Servicio de Salud del Reloncaví",
-      "titulo": "TALLER DE FOTOGRAFIA - PROGRAMA SALUD MENTAL DEL CRNH",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-11-12",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "5742-225-COT26",
       "org": "SEREMI de Educación de la Región de Los Ríos",
       "titulo": "Servicio integral de fotografía profesional, impresión, enmarcado y cabina fotográfica para el cierre y certificación de Plan Nacional de Alfabetización Contigo Aprendo 2026",
@@ -385,19 +385,6 @@
       "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 47
-    },
-    {
-      "codigo": "3897-164-COT26",
-      "org": "I MUNICIPALIDAD DE FUTALEUFU",
-      "titulo": "SEGURO OPERACION DRONE",
-      "monto": 150000,
-      "dias": 0,
-      "cierre": "2026-11-12",
-      "keyword": "DRONE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "2762-734-COT26",
