@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-16T21:30+00:00",
+  "generado": "2026-11-17T04:17+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -84,6 +84,19 @@
       "keyword": "MAPAS",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2281-2108-COT26",
+      "org": "I MUNICIPALIDAD VALDIVIA",
+      "titulo": " ADQUISICIÓN ”Insumos para talleres estimulación física y cognitiva”  DEPTO. ADULTO MAYOR, DEBE ADJUNTAR COTIZACIÓN Y FOTOGRAFIA DE LOS PRODUCTOS A OFERTAR DEBEN SER ENTREGADOS EN OFICINA SIN COSTO .",
+      "monto": 800000,
+      "dias": 1,
+      "cierre": "2026-11-18",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 57
     },
@@ -231,6 +244,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2440-2289-COT26",
+      "org": "I MUNICIPALIDAD DE CURICO",
+      "titulo": "EQUIPOS DE FOTOGRAFIA PARA EL ESTABLECIMIENTO LICEO BICENTENARIO POLITECNICO ",
+      "monto": 1450000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "4491-588-COT26",
       "org": "Ilustre Municipalidad de Penco - Educación",
       "titulo": "Marco para fotografía - Escuela Patricio Lynch",
@@ -255,6 +281,19 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "1643-1023-COT26",
+      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE T",
+      "titulo": " Adquisición de Mascarillas Laríngeas tipo Fastrach Medidas Fotografía Referencia Adjunta / Despacho Incluido",
+      "monto": 965000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "FOTOGRAFÍA",
+      "ofertas_actuales": 1,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 50
     },
     {
       "codigo": "899-252-COT26",
