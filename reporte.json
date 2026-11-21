@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-21T18:33+00:00",
+  "generado": "2026-11-21T23:41+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -320,19 +320,6 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 47
-    },
-    {
-      "codigo": "463-79-COT26",
-      "org": "CENTRO DE INFORMACION DE RECURSOS NATURALES",
-      "titulo": " MEJORAS Y CONSOLIDACIÓN SISTEMA CATASTRO FRUTÍCOLA 2026 CENTRO DE INFORMACIÓN DE RECURSOS NATURALES",
-      "monto": 5000000,
-      "dias": 0,
-      "cierre": "2026-11-21",
-      "keyword": "CATASTRO",
-      "ofertas_actuales": 2,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
     }
   ]
 }
