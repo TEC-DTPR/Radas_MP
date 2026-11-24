@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-23T23:13+00:00",
+  "generado": "2026-11-24T07:39+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -40,13 +40,13 @@
       "org": "I MUNICIPALIDAD DE LA PINTANA",
       "titulo": "EX. 16466  MANTENCION Y REPARACION DRONE  MEMORANDUM 31065   SGL.",
       "monto": 5000000,
-      "dias": 4,
+      "dias": 3,
       "cierre": "2026-11-28",
       "keyword": "DRONE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 63
+      "probabilidad": 61
     },
     {
       "codigo": "2328-1462-COT26",
