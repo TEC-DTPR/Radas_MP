@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-24T21:50+00:00",
+  "generado": "2026-11-25T04:44+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -175,19 +175,6 @@
       "keyword": "VUELO",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1233623-1167-COT26",
-      "org": "Servicio Local de Educación Pública Licancabur",
-      "titulo": "Escuela Carlos Condell De La Haza-Tocopilla, requiere la compra de pasajes aéreos (ida y retorno), de Calama a Santiago. Ida 30 de Novbre – Retorno 04 de Dicbre.  Vuelo directo.",
-      "monto": 1071791,
-      "dias": 0,
-      "cierre": "2026-11-24",
-      "keyword": "VUELO",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 55
     },
