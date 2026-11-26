@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-25T20:57+00:00",
+  "generado": "2026-11-26T03:22+00:00",
   "keywords": [
     "GEÓGRAFO",
     "GIS",
@@ -97,19 +97,6 @@
       "keyword": "MARCOS",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "3780-238-COT26",
-      "org": "Municipalidad de Yerbas Buenas-Depto. Salud",
-      "titulo": "Fotografia Institucional, Sol. N° 290,  Jaime Rojas -  Cristian meza",
-      "monto": 408000,
-      "dias": 1,
-      "cierre": "2026-11-27",
-      "keyword": "FOTOGRAFIA",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -231,19 +218,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1274565-120-COT26",
-      "org": "CORPORACIÓN CULTURAL DE LAMPA",
-      "titulo": "ADQUISIÓN DE MARCOS DE FOTOS A4 PARA CIERRE DE TALLERES Y CONVENIOS CCL",
-      "monto": 950000,
-      "dias": 0,
-      "cierre": "2026-11-25",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1305532-96-COT26",
       "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DEL ELQUI",
       "titulo": "ADQUISICIÓN DE MARCOS PARA FOTOGRAFÍA PRESIDENCIAL SLEP ELQUI",
@@ -266,6 +240,19 @@
       "keyword": "FOTOGRAFIA",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3780-238-COT26",
+      "org": "Municipalidad de Yerbas Buenas-Depto. Salud",
+      "titulo": "Fotografia Institucional, Sol. N° 290,  Jaime Rojas -  Cristian meza",
+      "monto": 408000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "FOTOGRAFIA",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -294,19 +281,6 @@
       "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "4928-79-COT26",
-      "org": "DIRECCION DE LOGISTICA DE CARABINEROS",
-      "titulo": "ADQUISICION DE MARCOS DOBLES DE ACRILICO",
-      "monto": 1600000,
-      "dias": 0,
-      "cierre": "2026-11-25",
-      "keyword": "MARCOS",
-      "ofertas_actuales": 1,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 50
     },
     {
       "codigo": "5742-250-COT26",
@@ -452,19 +426,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "4738-231-COT26",
-      "org": "I MUNICIPALIDAD DE CODEGUA",
-      "titulo": " Compra de diseño impresión e instalación del mapa de activos comunitarios de la comuna Programa MAIS FC",
-      "monto": 204680,
-      "dias": 1,
-      "cierre": "2026-11-27",
-      "keyword": "MAPA",
-      "ofertas_actuales": 1,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 42
-    },
-    {
       "codigo": "1079694-386-COT26",
       "org": "SECCIÓN COMPRAS XIV ZONA",
       "titulo": "Adquisición e instalación de marcos para ventanas destinados a la vivienda fiscal de cargo de la Comisión Poblaciones dependiente de la 3ra. Comisaría La Unión de la Prefectura Valdivia N°23.",
@@ -476,6 +437,19 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 42
+    },
+    {
+      "codigo": "4738-231-COT26",
+      "org": "I MUNICIPALIDAD DE CODEGUA",
+      "titulo": " Compra de diseño impresión e instalación del mapa de activos comunitarios de la comuna Programa MAIS FC",
+      "monto": 204680,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "MAPA",
+      "ofertas_actuales": 1,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 40
     }
   ]
 }
